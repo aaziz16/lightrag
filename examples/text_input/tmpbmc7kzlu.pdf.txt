@@ -1,0 +1,492 @@
+---- Page 1 ----
+DEW
+CONSTRUCTION
+DEW Construction
+277 Blair Park Road, Suite 130
+Williston, Vermont 05495
+P: +18028720505
+Project: 10258.02 Charlotte Central School Phase
+=
+408 Hinesburg Road
+Charlotte, Vermont 05445
+Submittal #078400-1.0 - Firestopping
+078400 - Firestopping
+Revision
+0
+Status
+Open
+Issue Date
+Jun 6, 2023
+Responsible
+Steel Elements International
+Contractor
+Submittal Manager Becky St. George (DEW Construction)
+Received Date
+Final Due Date
+Jun 20, 2023
+Location
+Approvers
+Mike Wanderlich (Dore & Whittier Architects)
+Ball in Court
+Luke Keenan (DEW Construction)
+Distribution
+Chris Giard (Champlain Valley School District), Sue Ramsey (Steel Elements International), Peter Gauthier (Steel Elements
+International), Kevin Cormier (Steel Elements International), Scott Speyers (DEW Construction), Dakota Stender (DEW
+Construction), Becky St. George (DEW Construction), Heather Gratton (Dore & Whittier Architects), Mike Wanderlich (Dore &
+Whittier Architects), Thomas Hengelsberg (Dore & Whittier Architects)
+Date Created
+Jun 6, 2023
+Spec Section
+078400 - Firestopping
+Received From
+Peter Gauthier (Steel Elements International)
+Submit By
+Lead Time
+Cost Code
+Type
+Description
+Please see the attached submittal for your review and approval. Thank you.
+Submittal Workflow
+Name
+General Information
+Attachments
+Luke Keenan
+Mike Wanderlich
+Sent Date
+Due Date
+Page 1 of 1
+Returned Date
+Response
+Attachments
+Jun 6, 2023
+Pending
+Jun 20, 2023
+Pending
+DEW
+CONSTRUCTION SHOP DRAWING / SUBMITTAL REVIEW
+Checking is only for conformity to the design concept of the project and
+compliance with the information given in the contract documents and
+specifications. Subcontractor is responsible for dimensions, to be
+confirmed and correlated at the project site, for information that pertains
+solely to the fabrication, the techniques of construction and for the
+coordination of their work with all trades.
+Project #: 10258.02 - Charlotte Central School Renovations Phase II
+Reviewed By: Luke Keenan
+DEW Construction
+Printed On: Jun 6, 2023 02:53 PM EDT
+---- Page 2 ----
+PRODUCT DATA SHEET
+Specseal Il
+SERIES LC ENDOTHERMIC SEALANT
+APPLICATIONS
+SpecSeal® Series LC Sealant is designed primarily
+for sealing construction joints and gaps as well as
+penetrations for noncombustible penetrants. SpecSeal
+Series LC has been tested and approved for single
+metallic pipe penetrations up to 24" (610 mm) as well
+as multiple penetrants through both masonry and
+gypsum wallboard constructions. Additional systems
+have been tested for steel sleeved penetrations as well
+as some common electrical and communications cable
+penetrations and joint penetrations. See STI's Product
+& Application Guide as well as the UL Fire Resistance
+Directory for complete listings.
+PRODUCT DESCRIPTION
+SpecSeal® Series LC Sealant is a latex-based, high solids firestop compound. This material, when
+properly installed, will effectively seal penetration openings and joints against the spread of fire,
+smoke, toxic gasses and water.
+SpecSeal® Series LC Sealant is engineered to adhere well to virtually all construction surfaces and
+may be applied using a standard caulk gun or by troweling with a standard mason's trowel or with
+a putty knife.
+SpecSeal® Series LC Sealant dries without shrinking to form a flexible shield against the propagation
+of fire. Its premium latex binder system is totally resistant to water and will not re-emulsify after
+drying. SpecSeal® Series LC Sealant is non-halogenated, contains no asbestos, inorganic fibers
+or solvents.
+FEATURE
+BENEFIT
+LC
+SEALANT
+PERFORMANCE
+· Water-Based
+Easy installation, cleanup, and disposal.
+· Endothermic Fillers
+Absorb heat & release water.
+· High Solids Formula
+No shrinkage!
+· Paintable
+Paintable (when dry)
+· Safe ... No Solvents!
+Non-Halogenated! Low VOC's
+. Red Color
+Easy identification and inspection.
+· Installer Friendly
+Excellent caulking properties along with high build
+capabilities.
+· Excellent Smoke Seal
+· Flexible
+SpecSeal® Series LC Sealant is the basis for systems that meet the exacting criteria of ASTM E1966 (UL2079) as well as the time-temperature requirements
+of ASTM E119. Tested systems will provide up to a 3 hour rating utilizing as little as 1/4" (6 mm) of sealant depth (1/2" (13 mm) for 4 hours).
+CLASSIFIED
+FILL, VOID OR CAVITY MATERIALS FOR USE IN JOINT
+SYSTEMS AND THROUGH-PENETRATION FIRESTOP
+SYSTEMS. SEE UL DIRECTORY OF PRODUCTS CERTIFIED
+FOR CANADA AND UL FIRE RESISTANCE DIRECTORY.
+C
+UL
+US
+3L73
+PHYSICAL PROPERTIES
+Properties
+Series LC
+Color
+Red
+Odor
+Mild Latex
+Density
+11.4 lb./gal.
+Solids Content
+80% + 2%
+pH
+7.4-8.4
+In Service Temperature
+≤185° F (≤85° C)
+Storage Temperature
+40°F (4℃) - 95°F (35℃)
+Flame Spread
+0*
+Smoke Developed
+10*
+STC Rating (ASTM E90/ASTM C919) 61
+VOC Content
+(EPA Method 24/ASTM D3960)
+0.33 lb/gal.(40 g/L)
+Shelf Life
+2 Years
+*ASTM E84 (UL723) @ 14% Surface coverage. (Modified test for sealants and caulks.)
+SPECIFICATIONS
+The firestopping sealant shall be a one-part, latex-based compound. The
+sealant shall dry to form a flexible non-shrinking penetration seal and shall
+be capable of allowing pipe movement and shall contain no solvents, water
+soluble fillers, or inorganic fibers. The sealant shall be thixotropic and shall
+be capable of caulking or troweling on to vertical surfaces or overhead.
+The sealant shall be UL Classified and tested to the requirements of ASTM
+E814 (UL1479).
+SPECIFIED DIVISIONS
+DIV. 7 07840
+Through-Penetration Firestopping
+DIV. 13 13900
+Special Construction Fire Suppression & Supervisory
+Systems
+DIV. 15 15250
+Mechanical Insulation - Fire Protection
+DIV. 16 16050
+Basic Electrical Materials & Methods
+Technical Service 1-800-992-1180
+www.stifirestop.com
+STI.
+STI Product Data Sheet . Series LC Endothermic Sealant . FOD-5130 03/2010
+1
+---- Page 3 ----
+INSTALLATION INSTRUCTIONS
+GENERAL: Areas to be protected must be clean and free of oil, loose dirt, rust or scale. Installation temperatures must be between 35ºF (2°C) and 100°F
+(38℃). Allow product to dry a minimum of 24 hours before exposure to moisture.
+SYSTEM SELECTION: Consult UL® Fire Resistance Directory, STI Product & Application Guide, or drawings provided by the manufacturer for specific details
+concerning installation design and requirements.
+FORMING: Some installations may require forming as either an integral part of the system or as an option to facilitate installation. In systems where forming is
+required, mineral wool batting (3" (76 mm) nom. thickness, min. 4 lb./cu. ft. 64 kg/m3 density) is recommended. Mineral wool is to be highly compressed and
+friction fitted into the opening. Position forming or packing material to allow for the proper depth of fill material.
+INSTALLATION OF FILL MATERIAL: SpecSeal® Series LC sealant may be installed by caulking using a standard caulking gun or from bulk containers using a
+bulk loading caulk gun, or by manually troweling using a mason's trowel or putty knife. If the sealant tends to pull back from a surface, clean the surface with a
+damp rag or sponge and reapply. Install sealant to required depth. Work sealant into all areas exercising care to eliminate voids or seams. The surface of the
+sealant can be smoothed using a putty knife dipped in water. Adding water to the sealant itself is not recommended. Sealant (when dry) may be sanded and
+painted using most non-solvent based paints. In gypsum wallboard penetrations, crown sealant a minimum of 1/4" (6 mm) from penetrant to wallboard surface
+at a point approx. 1/2" (13 mm) or more from opening.
+COVER PLATE: In some designs a galvanized steel cover plate (28 gauge) may be used to upgrade the fire resistance rating to 4 hours. Consult STI Product
+and Application Guide for dimensional and fastening requirements.
+LIMITATIONS: SpecSeal® Series LC Sealant is water-based and cures through the evaporation of water. Low temperatures as well as high humidity may retard
+drying. Non-porous or impermeable backing materials, plates or coatings may retard the drying process. Do not paint or seal in any way that prevents contact
+with air until sealant has dried through completely.
+MAINTENANCE
+Inspection: Installations should be inspected periodically for subsequent damage. Any damage should be repaired using SpecSeal® Series LC Sealant as per
+the original approved design. Retrofit: When adding or removing penetrants, care should be taken to minimize damage to the seal. Reseal using SpecSeal®
+Series LC Sealant as per the approved design. NOTE: New penetrants of a different nature than the original design may require a totally new firestop design or
+extensive modifications to the existing design. Reseal openings as per the requirements of the modified design.
+TECHNICAL SERVICE
+Specified Technologies Inc. provides toll free technical support to assist in product selection and appropriate installation design. UL Systems, Material Safety
+Data Sheets and other technical information is available at the Technical Library at www.stifirestop.com.
+PRECAUTIONARY INFORMATION
+Consult Material Safety Data Sheet for additional information on the safe handling and disposal of this material. Wash areas of skin contact with soap and
+water. Avoid contact with eyes. The use of an OSHA or NIOSH approved mask for dust and mist environment is recommended. Apply in areas with ade-
+quate ventilation.
+CAUTION: COATING IS CONDUCTIVE UNTIL DRY. DO NOT APPLY TO OR IN THE PRESENCE OF ENERGIZED ELECTRICAL CONDUCTORS.
+AVAILABILITY
+SpecSeal® Series LC Sealant is available from authorized distributors worldwide. Consult factory for names and locations of the nearest sales representa-
+tives or distributors.
+Cat. No.
+Description
+LC150
+Endothermic Firestop Sealant
+10.1 oz. Tube
+18.2 cu in. (300 ml)
+LC120
+LC129
+LC155
+Endothermic Firestop Sealant
+Endothermic Firestop Sealant
+Endothermic Firestop Sealant
+5 gal. Pail
+1,155 cu. in. (19 liters)
+Packaging
+Size
+20 oz. Sausage
+36 cu. in. (592 ml)
+29 oz. Tube
+52 cu. in. (858 ml)
+CITY OF NEW YORK MEA 129-96-M
+IMPORTANT NOTICE: All statements, technical information, and recommendations contained herein are based upon testing believed to be reliable, but the accuracy and completeness thereof is
+not guaranteed.
+WARRANTY
+Specified Technologies Inc. manufactures its goods in a manner to be free of defects. Should any defect occur in its goods (within one year), Specified Technologies Inc., upon prompt notification,
+will at its option, exchange or repair the goods or refund the purchase price.
+LIMITATIONS AND EXCLUSIONS:
+THIS WARRANTY IS IN LIEU OF ALL OTHER REPRESENTATIONS EXPRESSED OR IMPLIED (INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR
+USE) AND UNDER NO CIRCUMSTANCES SHALL SPECIFIED TECHNOLOGIES INC. BE RESPONSIBLE FOR ANY INCIDENTAL OR CONSEQUENTIAL PROPERTY DAMAGE OR
+LOSSES. PRIOR TO USE, THE USER SHALL DETERMINE THE SUITABILITY OF THE PRODUCT FOR ITS INTENDED USE, AND THE USER ASSUMES ALL RISKS AND LIABILITY FOR
+SUBSEQUENT USE.
+No statement or recommendation not contained herein shall have any force or effect unless in an agreement signed by officers of seller and manufacturer.
+MADE IN THE USA - COPYRIGHT @ 2008 SPECIFIED TECHNOLOGIES, INC.
+Specified Technologies Inc.
+STI.
+210 Evans Way . Somerville, NJ 08876 | Toll Free: 800-992-1180 . F: 908.526.9623
+2
+STI Product Data Sheet . Series LC Endothermic Sealant . FOD-5130 03/2010
+Technical Service 1-800-992-1180
+www.stifirestop.com
+STI.
+---- Page 4 ----
+PRODUCT DATA SHEET
+SpecSeal®
+AS200
+SpecSeal® AS200 Elastomeric Spray
+Applications
+SpecSeal® AS200 Elastomeric Spray is designed primarily for the protection of
+construction joints, curtain wall safing gaps, and certain through-penetrations.
+Specifications
+The fire protective joint coating shall be a water-based, non-halogenated
+elastomeric coating and shall contain no solvents, inorganic fibers, nor asbestos.
+The coating shall dry to form a flexible, moisture resistant film and shall adhere
+to all common construction surfaces. The coating shall provide up to 50 percent
+movement. The coating shall be thixotropic and shall be capable of being applied
+by airless spray, brush or trowel. The approved coating shall be SpecSeal® AS200
+Elastomeric Spray.
+Specified Divisions
+Division 7
+07 84 43
+Division 7
+07 84 53
+Division 8
+08 44 00
+Joint Firestopping
+Building Perimeter Firestopping
+Curtain Wall and Glazed Assemblies
+Performance
+CLASSIFIED
+SpecSeal® AS200
+Elastomeric Spray
+in conjunction
+with appropriate
+U
+L
+R14288
+SAFETY US.CA
+FM
+CERTIFIED
+UL
+FBC
+SYSTEM COMPATIBLE
+C
+US
+C
+US
+APPROVED
+Intertek
+backing materials has been tested in one, two, three and four hour joints tested
+in accordance with ASTM E1966 (ANSI/UL2079), ASTM E814 (ANSI/UL1479)
+and CAN/ULC S115. This product has also been tested for use in Perimeter Fire
+Barrier Systems in accordance with ASTM E2307. Consult factory for individual
+system designs and application requirements.
+UI
+GREENGUARD
+PRODUCT CERTIFIED FOR
+LOW CHEMICAL EMISSIONS
+UL.COM/GG
+UL 2818
+GOLD
+Limitations
+Use product as per manufacturer's instructions. Use only in applications per the
+manufacturer's published designs or specific recommendations. End user must ultimately
+determine the suitability of the product and/or design to his or her specific requirements
+and assumes responsibility for its use. PRODUCT CONTAINS WATER AND IS CONDUCTIVE
+UNTIL DRY. DO NOT APPLY IN THE PRESENCE OF EXPOSED OR ENERGIZED ELECTRICAL
+CONDUCTORS.
+This product has been designed to be safe with plastics. It has been used extensively and
+successfully with various types of plastic pipes, tubes, and plastic cable insulations. Variations
+in these materials, however, make it impossible to guarantee compatibility. STI strongly
+recommends that the user consults with the pipe, tubing, or cable manufacturer in question
+regarding any known sensitivities or potential restrictions before applying this product.
+Maintenance
+Features & Benefits
+· Water-based for easy installation and cleanup
+· Non-halogenated
+· Thixotropic for high-build application
+· Auto bonding
+· Safe, no solvents, no asbestos, no PCB's, no
+inorganic fibers
+· Flexible
+· Water resistant
+· Low abrasion for longer pump life and less
+maintenance
+· UL Certified
+· Tested with spray applied fire resistive
+materials (SFRM)
+· Paintable when dry
+· Meets LEED™ v3, v4, & v4.1 requirements.
+Low emitting materials credit. See general
+LEED letter for additional applicable credits.
+Inspection: Installations should be inspected periodically for subsequent damage. Following safety precautions listed below (See Precautionary
+Information) and pertinent installation guidelines, remove coating in damaged areas down to undamaged material. Reapply fresh coating material to
+original coating thickness.
+System Selection
+To find your firestop system or create a submittal, visit https://systems.stifirestop.com/ to use System Search & Submittal Builder. You may also visit
+the UL Online Certifications Directory/UL Product iQ™ for complete listings. (Firestop Systems).
+Specified
+Technologies Inc.
+STI
+Specified Technologies Inc. . Somerville, NJ 08876 . Technical Service 1-800-992-1180 . www.stifirestop.com
+SpecSeal® AS200 Elastomeric Spray . ZSFOD5042 24721
+1 of 3
+---- Page 5 ----
+PRODUCT DATA SHEET
+SpecSeal® Series AS200 Elastomeric Spray
+PHYSICAL PROPERTIES
+Color
+Density/Weight per Gallon
+10.7 lb/gal (1.28 kg/L)
+Solids Content by Weight
+74.0%
+Solids Content by Volume
+66.5%
+Flame Spread*
+10
+Smoke Development*
+0
+Mold & Fungus Growth Rating
+(ASTM G21)
+0
+Movement Capabilities ***
++/- 50%
+Coverage
+Pale Blue or Red
+12.8 sq ft/gal @ 1/8 in Wet Thickness
+(0.31 sq m/L @ 3.2 mm Wet Thickness)
+Viscocity
+130,000 cps
+pH
+7.5
+Plasticizer free
+None
+In Service Temperature
+Less than 185°F (85℃)
+Storage Temperature
+40°F (4°C) to 95°F (35°℃)
+Applicaton Temperature
+40°F (4℃) to 95°F (35℃)
+Drying TimeA
+(ASTM D1640)
+STC Rating
+(ASTM E90-04/ASTM C919)
+VOC Content **
+Shelf Life From Date of
+Manufacture
+24 months
+*Tested to ASTM E84 (UL723) at 14% surface coverage (modified test for sealants and caulks)
+*** 500 Cycles per UL2079, AC30 (ICBO) and ASTM E1399
+SpecSeal®
+AS200
+Tack Free 2 Hours
+Dry Through 24-48 Hours
+60 (Relates to Specific
+Construction)
+23 g/L
+** Per SCAQMD Rule 1168 (EPA Method 24)
+ADependent on temperature and humidity
+Technical Service
+Specified Technologies Inc. provides toll free technical support to assist in product selection and appropriate installation design. UL System designs
+suitable for submittal or specification purposes are available on request. A complete library of technical information is provided at the company's
+website www.stifirestop.com including Safety Data Sheets (SDS's).
+Precautionary Information
+Consult Safety Data Sheet (SDS) for additional information on the safe handling and disposal of this material. Wash areas of skin contact with soap
+and water. Avoid contact with eyes. The use of an OSHA or NIOSH approved mask for dust and mist environment is recommended. Apply in areas with
+adequate ventilation.
+Application Equipment
+NOTICE: Spray application of SpecSeal® AS200 Spray requires airless spray equipment meeting the following specifications:
+Working Pressure: Min. 2500 PSI (172 Bar)
+Delivery: Min. 0.72 U.S. gpm (2.7 l/min.) recommended
+Spray Tip Orifice: 0.023 in (0.58 mm) to 0.026 in (0.66 mm) recommended
+Wetted Parts All seals and contact surfaces suitable for contact with latex emulsions.
+A minimum 3/8 in (9.5 mm) fluid line is required, a 1/2 in (13 mm) line is preferred. Consult pump manufacturer for long hose runs or lifts to higher
+elevations. A reversible spray tip is recommended. A 6 in (152 mm) fan pattern is suggested to minimize overspray.
+The following airless spray equipment has demonstrated suitability for application of this product. STI makes no warranties concerning the suitability
+or use of this equipment and has no affiliation of any kind with its manufacturer.
+Manufacturer
+Model Number & Description
+Titan Tool Inc.
+740ix Electric Airless Sprayer
+Graco Inc.
+Ultra Max II 695 Electric Airless Sprayer
+STI
+Specified
+Technologies Inc.
+Specified Technologies Inc. . Somerville, NJ 08876 . Technical Service 1-800-992-1180 . www.stifirestop.com
+SpecSeal® AS200 Elastomeric Spray . ZSFOD5042 24721
+2 of 3
+---- Page 6 ----
+PRODUCT DATA SHEET
+SpecSeal® Series AS200 Elastomeric Spray
+SpecSeal®
+AS200
+Availability
+SpecSeal® AS200 Elastomeric Spray is available from Specified Technologies Inc. (STI) authorized distributors. For additional purchasing and technical
+information or for the names and locations of the nearest representative and/or distributor, regarding this and other Specified Technology products,
+please call 1-800-992-1180 or visit www.stifirestop.com.
+ORDERING INFORMATION
+Catalog Number
+UPC Number
+Size
+(UOM) Qty.
+1
+Case Qty.
+1
+Weight (Each)
+AS205
+730573071076
+5 Gallon Pail - 1,155 cu in (19 liters)
+53.60 lbs (24.31 kg)
+AS205R
+730573071083
+5 Gallon Pail - 1,155 cu in (19 liters)
+1
+1
+53.60 lbs (24.31 kg)
+IMPORTANT NOTICE: ALL STATEMENTS, TECHNICAL INFORMATION, AND RECOMMENDATIONS CONTAINED HEREIN ARE BASED UPON TESTING BELIEVED TO BE RELIABLE, BUT THE
+ACCURACY AND COMPLETENESS THEREOF IS NOT GUARANTEED.
+STI TYPICALLY WARRANTIES ITS PRODUCTS FOR ONE FULL YEAR. FOR COMPLETE DETAILS OF OUR STANDARD WARRANTY, PLEASE VISIT WWW.STIFIRESTOP.COM/LEGAL/WARRANTY
+MADE IN THE USA - @ 2021 SPECIFIED TECHNOLOGIES INC.
+IFC
+MEMBER
+Specified
+Technologies Inc.
+STI
+Specified Technologies Inc. . Somerville, NJ 08876 . Technical Service 1-800-992-1180 . www.stifirestop.com
+SpecSeal® AS200 Elastomeric Spray . ZSFOD5042 24721
+3 of 3

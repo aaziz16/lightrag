@@ -1,0 +1,141 @@
+Step 1-3 Results for Submittal Document
+Step 1: Extract Numbered Items Under "SECTION INCLUDES"
+The section titled "SECTION INCLUDES" contains the following numbered items:
+
+Suspended metal grid ceiling system.
+Acoustical units.
+Supplementary insulation above ceiling.
+Ceiling suspension system accessories.
+Acoustical ceiling system accessories.
+Step 2: Identify Aliases for Key Products
+Based on the provided document, the following aliases are identified for key products:
+
+Suspended metal grid ceiling system: No alias found.
+Acoustical units: No alias found.
+Supplementary insulation above ceiling: No alias found.
+Ceiling suspension system accessories: No alias found.
+Acoustical ceiling system accessories: No alias found.
+Step 3: Verify and Update the List of Products and Aliases
+Upon reviewing the extracted items and aliases, no additional products or aliases were identified. Therefore, the list remains as follows:
+
+Suspended metal grid ceiling system
+Acoustical units
+Supplementary insulation above ceiling
+Ceiling suspension system accessories
+Acoustical ceiling system accessories
+No aliases were found for the listed products.
+
+Step 4 Results for Submittal Document
+Construction Materials Detailed Information
+1. Suspended Metal Grid Ceiling System
+Relevant Sections:
+SECTION INCLUDES
+PART 2 PRODUCTS
+INSTALLATION - SUSPENSION SYSTEM
+Extracted Detailed Information:
+SECTION INCLUDES:
+Suspended metal grid ceiling system.
+PART 2 PRODUCTS:
+Suspension Systems - General: ASTM C635; die cut and interlocking components, with stabilizer bars, clips, splices, perimeter moldings, and hold down clips as necessitated by the other work.
+Exposed Suspension System: Formed steel, commercial quality cold rolled.
+Support Channels and Hangers: Galvanized steel; size and type to suit application, seismic reinforcement.
+Hanger Wire: 12 gauge, 0.08 inch galvanized steel wire.
+Perimeter Moldings: Same metal and finish as grid.
+Touch-up Paint: Type and color to match acoustical and grid units.
+INSTALLATION - SUSPENSION SYSTEM:
+General: Install suspension system in accordance with ASTM C636/C636M, ASTM E580/E580M, and manufacturer's instructions, ASCE 7, Drawings and as follows:
+Hang suspension system independent of walls, columns, ducts, pipes, and conduit.
+Provide seismic bracing with diagonal wire hangers at each room exceeding 750 SF and other work.
+Install hold-down clips on panels within 20 ft of an exterior door.
+Support fixture loads using supplementary hangers located within 6 inches of each corner, or nearest affected hangers and related carrying channels to span the extra distance.
+Do not eccentrically load system or induce rotation of runners.
+Install light fixture boxes constructed of gypsum board above light fixtures in accordance with fire rated assembly requirements and light fixture ventilation requirements.
+2. Acoustical Units
+Relevant Sections:
+SECTION INCLUDES
+PART 2 PRODUCTS
+INSTALLATION - ACOUSTICAL UNITS
+Extracted Detailed Information:
+SECTION INCLUDES:
+Acoustical units.
+PART 2 PRODUCTS:
+Acoustical Units - General: ASTM E1264, Class A.
+Acoustical Tile Type ACP1: Painted mineral fiber, ASTM E1264 Type III, with the following characteristics:
+Size: 24 by 48 inches.
+Thickness: 5/8-inch.
+Surface Pattern: Smooth.
+Light Reflectance: 0.82 percent, determined as specified in ASTM E1264.
+NRC: 0.85, determined as specified in ASTM E1264.
+Ceiling Attenuation Class (CAC): 40, determined as specified in ASTM E1264.
+Flame spread of 25 or less and smoke development of 50 or less when tested in accordance with ASTM E84, Class 1.
+Acoustical Panels Type ACP2: Painted mineral fiber, ASTM E1264 Type IV, with the following characteristics:
+Size: 24 by 24 inches.
+Thickness: 3/4 inches.
+Surface Pattern: Fine textured.
+Light Reflectance: 0.85 percent, determined as specified in ASTM E1264.
+NRC: 0.55, determined as specified in ASTM E1264.
+Ceiling Attenuation Class (CAC): 0.35, determined in accordance with ASTM E1264.
+Acoustical Panels Type ACP2A: Painted mineral fiber, ASTM E1264 Type IV, with the following characteristics:
+Size: 24 by 24 inches.
+Thickness: 1 inch.
+Surface Pattern: Fine textured.
+Light Reflectance: 0.90 percent, determined in accordance with ASTM E1264.
+NRC: 0.85, determined in accordance with ASTM E1264.
+Acoustical Panels Type ACP5: Painted mineral fiber, ASTM E1264 Type XX, with the following characteristics:
+Application(s): Wet areas.
+Composition: Water-felted, ceramic bonded.
+Size: 24 by 48 inches.
+Thickness: 1 inch.
+Surface Pattern: Fine textured.
+Light Reflectance: 0.85 percent, determined in accordance with ASTM E1264.
+NRC: 0.85, determined in accordance with ASTM E1264.
+INSTALLATION - ACOUSTICAL UNITS:
+General: Install acoustical units level, in uniform plane, and free from twist, warp, and dents.
+Fit border trim neatly against abutting surfaces.
+Fit acoustical units in place, free from damaged edges or other defects detrimental to appearance and function.
+Install after major above-ceiling work is complete. Coordinate the location of hangers with other work.
+Provide hanger clips during steel deck erection. Provide additional hangers and inserts as made necessary by building codes.
+Install hold-down clips on panels within 20 ft of an exterior door.
+Do not support components on main runners or cross runners if weight causes total dead load to exceed deflection capability.
+Install light fixture boxes constructed of gypsum board above light fixtures in accordance with fire rated assembly requirements and light fixture ventilation requirements.
+3. Supplementary Insulation Above Ceiling
+Relevant Sections:
+SECTION INCLUDES
+Extracted Detailed Information:
+SECTION INCLUDES:
+Supplementary insulation above ceiling.
+Note:
+No additional detailed information found in the provided document for "Supplementary insulation above ceiling."
+
+4. Ceiling Suspension System Accessories
+Relevant Sections:
+SECTION INCLUDES
+PART 2 PRODUCTS
+Extracted Detailed Information:
+SECTION INCLUDES:
+Ceiling suspension system accessories.
+PART 2 PRODUCTS:
+Suspension Systems - General: ASTM C635; die cut and interlocking components, with stabilizer bars, clips, splices, perimeter moldings, and hold down clips as necessitated by the other work.
+Exposed Suspension System: Formed steel, commercial quality cold rolled.
+Support Channels and Hangers: Galvanized steel; size and type to suit application, seismic reinforcement.
+Hanger Wire: 12 gauge, 0.08 inch galvanized steel wire.
+Perimeter Moldings: Same metal and finish as grid.
+Touch-up Paint: Type and color to match acoustical and grid units.
+5. Acoustical Ceiling System Accessories
+Relevant Sections:
+SECTION INCLUDES
+PART 2 PRODUCTS
+Extracted Detailed Information:
+SECTION INCLUDES:
+Acoustical ceiling system accessories.
+PART 2 PRODUCTS:
+Suspension Systems - General: ASTM C635; die cut and interlocking components, with stabilizer bars, clips, splices, perimeter moldings, and hold down clips as necessitated by the other work.
+Exposed Suspension System: Formed steel, commercial quality cold rolled.
+Support Channels and Hangers: Galvanized steel; size and type to suit application, seismic reinforcement.
+Hanger Wire: 12 gauge, 0.08 inch galvanized steel wire.
+Perimeter Moldings: Same metal and finish as grid.
+Touch-up Paint: Type and color to match acoustical and grid units.
+Note:
+The detailed information for "Ceiling Suspension System Accessories" and "Acoustical Ceiling System Accessories" appears to overlap significantly. This may indicate that the same components are used for both categories.
+
+This report provides a comprehensive overview of the construction materials specified in the document, ensuring that all relevant details are captured and organized for easy reference. If there are any ambiguities or missing data, they have been clearly noted.

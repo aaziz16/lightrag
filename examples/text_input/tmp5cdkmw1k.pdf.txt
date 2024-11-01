@@ -1,0 +1,982 @@
+---- Page 1 ----
+DEW
+CONSTRUCTION
+DEW Construction
+277 Blair Park Road, Suite 130
+Williston, Vermont 05495
+P: +18028720505
+Project: 10258.02 Charlotte Central School Phase
+=
+408 Hinesburg Road
+Charlotte, Vermont 05445
+Submittal #092116-6.0 - Gypsum Wall Board
+092116 - Gypsum Board Assemblies
+Revision
+0
+Status
+Open
+Issue Date
+Jun 6, 2023
+Responsible
+Steel Elements International
+Submittal Manager Becky St. George (DEW Construction)
+Date Created
+Jun 6, 2023
+Spec Section
+092116 - Gypsum Board Assemblies
+Contractor
+Received From
+Peter Gauthier (Steel Elements International)
+Received Date
+Submit By
+Final Due Date
+Jun 20, 2023
+Lead Time
+Cost Code
+Location
+Type
+Approvers
+Mike Wanderlich (Dore & Whittier Architects)
+Ball in Court
+Becky St. George (DEW Construction)
+Distribution
+Chris Giard (Champlain Valley School District), Sue Ramsey (Steel Elements International), Peter Gauthier (Steel Elements
+International), Kevin Cormier (Steel Elements International), Scott Speyers (DEW Construction), Dakota Stender (DEW
+Construction), Becky St. George (DEW Construction), Heather Gratton (Dore & Whittier Architects), Mike Wanderlich (Dore &
+Whittier Architects), Thomas Hengelsberg (Dore & Whittier Architects)
+Description
+The following note is from our subcontractor.
+Due to labor shortages and environmental factors affecting supply chains as of late we are submitting on 3 manufacturers
+(National Gypsum, Georgia Pacific, and CertainTeed) for approval just in case we have trouble acquiring any or to maintain
+schedule.
+Submittal Workflow
+Name
+Sent Date
+Due Date
+Returned Date
+Response
+Attachments
+General Information
+Attachments
+Luke Keenan
+Jun 6, 2023
+Jun 6, 2023
+Submitted
+092116-6.0-Gypsum Wall Board-Submitted-
+230606.pdf
+Mike Wanderlich
+Jun 6, 2023
+Jun 20, 2023
+Jun 14, 2023
+Revise and Resubmit
+092116-6.0-Gypsum Wall Board-
+RR.pdf (Current)
+DEW Construction
+Page 1 of 1
+Printed On: Jun 16, 2023 02:32 PM EDT
+---- Page 2 ----
+DEW Construction
+277 Blair Park Road, Suite 130 Burlington, VT 05401
+Williston, Vermont 05495
+P: +18028720505
+RECEIVED
+Dore + Whittier Architects
+Project: 10258.02 Charlotte Central School Phase
+DEW
+CONSTRUCTION
+06/06/2023
+=
+408 Hinesburg Road
+Charlotte, Vermont 05445
+Submittal #092116-6.0 - Gypsum Wall Board
+092116 - Gypsum Board Assemblies
+Revision
+0
+Submittal Manager Becky St. George (DEW Construction)
+Status
+Open
+Issue Date
+Jun 6, 2023
+Responsible
+Steel Elements International
+Contractor
+Date Created
+Jun 6, 2023
+Spec Section
+092116 - Gypsum Board Assemblies
+Received From
+Peter Gauthier (Steel Elements International)
+Received Date
+Submit By
+Final Due Date
+Jun 20, 2023
+Lead Time
+Cost Code
+Location
+Type
+Approvers
+Mike Wanderlich (Dore & Whittier Architects)
+Ball in Court
+Luke Keenan (DEW Construction)
+Distribution
+Chris Giard (Champlain Valley School District), Sue Ramsey (Steel Elements International), Peter Gauthier (Steel Elements
+International), Kevin Cormier (Steel Elements International), Scott Speyers (DEW Construction), Dakota Stender (DEW
+Construction), Becky St. George (DEW Construction), Heather Gratton (Dore & Whittier Architects), Mike Wanderlich (Dore &
+Whittier Architects), Thomas Hengelsberg (Dore & Whittier Architects)
+Description
+The following note is from our subcontractor.
+Due to labor shortages and environmental factors affecting supply chains as of late we are submitting on 3 manufacturers
+(National Gypsum, Georgia Pacific, and CertainTeed) for approval just in case we have trouble acquiring any or to maintain
+schedule.
+Submittal Workflow
+Name
+General Information
+Attachments
+Sent Date
+Due Date
+Page 1 of 1
+Returned Date
+Response
+Attachments
+Luke Keenan
+Jun 6, 2023
+Pending
+Mike Wanderlich
+Jun 20, 2023
+Pending
+Reviewed (No Comments)
+Reviewed (See Comments)
+]Reviewed (Accepted for Record)
+Reviewed (Revise & Resubmit)
+Rejected
+Checked only for conformance with the design concept of the project and
+with the information provided in the Contract Documents. Review of
+shop drawings or other submittals shall not release the Contractor from
+responsibility for deviations from Drawings and Specifications, errors in
+shop drawings or schedules, quantities, dimensions, fabrication,
+installation, and coordination requirements. The Contractor shall check
+and verify all field measurements.
+Digitally signed by Michael Wanderlich
+DN: C=US,
+E=mwanderlich@doreandwhittier.com,
+Michael Wanderlich o-"Dore + Whittier", CN=Michael
+Wanderlich
+Date: 2023.06.14 16:02:55-04'00'
+1. It is unclear which gypsum
+board type is submitted. Clarify
+GYP BD-# as specified.
+2. Provide GYP BD-1 Impact
+Resistant Board as indicated in
+spec section 2.04-C.
+3. Provide GYP BD-6 Ceiling
+Board as indicated in spec section
+2.04-E.
+Signature + Date
+DORE + WHITTIER
+Vermont | Massachusetts
+doreandwhittier.com
+DEW
+CONSTRUCTION SHOP DRAWING / SUBMITTAL REVIEW
+Checking is only for conformity to the design concept of the project and
+compliance with the information given in the contract documents and
+specifications. Subcontractor is responsible for dimensions, to be
+confirmed and correlated at the project site, for information that pertains
+solely to the fabrication, the techniques of construction and for the
+coordination of their work with all trades.
+Project #: 10258.02 - Charlotte Central School Renovations Phase II
+Reviewed By: Luke Keenan
+DEW Construction
+Printed On: Jun 6, 2023 05:07 PM EDT
+---- Page 3 ----
+GP
+TOUGHROCK
+®
+Manufacturer
+Georgia-Pacific Gypsum
+133 Peachtree Street
+Atlanta, GA 30303
+Georgia-Pacific Canada
+2180 Meadowvale Boulevard, Suite 200
+Mississauga, ON L5N 5S3
+Technical Service Hotline: 1-800-225-6119
+Description
+ToughRock® Fireguard X™ and ToughRock® Fireguard C® Gypsum Board
+have noncombustible (per ASTM E136 or CAN/ULC S114), dimensionally stable
+gypsum cores. The core has been reinforced with the addition of glass fibers,
+increasing its strength and its resistance to the passage of heat. The surfacings
+on both faces and on the long edges are 100% recycled paper. The front face
+paper is white; the back face paper is gray. The ends are square cut.
+Georgia-Pacific ToughRock Gypsum Board products are GREENGUARD and
+GREENGUARD Gold Certified for low emissions of volatile organic compounds
+(VOCs). They are listed in CHPS® High Performance Product Database as low
+emitting products.
+Primary Uses
+ToughRock Fireguard X and Fireguard C Gypsum Board are wall or ceiling covering
+materials for use in building construction. Both are designed for direct mechanical
+attachment to wood or metal framing for use in building assemblies with a
+designated fire resistance rating.
+A specially formulated gypsum core which includes glass fibers enables ToughRock
+Fireguard X and Fireguard C Gypsum Board to help protect framing members from
+the spread of fire. With joints covered, ToughRock Fireguard X and Fireguard C Gypsum
+Board will resist the passage of smoke.
+ToughRock Fireguard X and Fireguard C Gypsum Board are manufactured with a
+paper surfacing designed to be receptive to joint treatment, paint, wall covering,
+or textured coatings.
+Limitations
+· ToughRock Fireguard X and Fireguard C Gypsum Board are nonstructural
+products and should not be used as a nailing base or to support heavy
+wall mounted objects.
+· They are intended for interior applications and must be kept dry and
+clean and not used where exposure to moisture is extreme or continuous.
+. Do not use ToughRock Fireguard X and Fireguard C Gypsum Board where there
+is prolonged exposure to temperatures exceeding 125ºF (52℃) and/or continuous
+exposure to extreme humidity, e.g., located adjacent to wood-burning stoves,
+heating appliances, electric lighting and hot air flues.
+Applicable Standards
+Manufactured to meet ASTM C1396 Section 5, CSA-A82.27-M; Federal SS-L-30D,
+Type III, Grade X and SS-6-30D.
+Building Code Conformity
+ToughRock Fireguard X and Fireguard C Gypsum Board conform to the requirements
+of uniform IBC/IRC building codes for its intended use.
+Sizes
+Fireguard X™
+5/8" (15.9 mm)
+48" (1220 mm)
+8'-14'
+Fireguard C®
+5/8" (15.9 mm)
+48" (1220 mm)
+8'-14'
+Fireguard C®
+1/2" (12.7 mm)
+48" (1220 mm)
+8'-14'
+(2440-4270 mm)
+(2440-4270 mm)
+Thickness, nominal
+Widths, nominal
+Lengths, standard
+(2440-4270 mm)
+Submittal
+Approvals
+Job Name
+Contractor
+Date
+Technical Service Hotline 1.800.225.6119 or
+www.gpgypsum.com
+Edges
+Tapered, square, or tapered with rounded edges.
+Supplemental Materials
+Corner beads and trim, expansion joints, joint tape, joint compound.
+Technical Data
+Flame spread rating of 15 and smoke developed 0, when tested in accordance with
+ASTM E84. The core is noncombustible when tested in accordance with ASTM E136.
+The 5/8" (15.9 mm) ToughRock Fireguard X is UL classified, Type X.
+The 1/2" (12.7 mm) ToughRock Fireguard C is UL Type TG-C, and ULC classified,
+Type C.
+The 5/8" (15.9 mm) ToughRock Fireguard C is UL Type TG-C, and ULC classified,
+Type C.
+Fire Resistance Ratings
+ToughRock Fireguard X and Fireguard C Gypsum Board meet the criteria for Type X
+special fire resistance, as defined in ASTM C1396. ToughRock Fireguard X and
+Fireguard C Gypsum Board are classified for fire-rated assemblies by Underwriters
+Laboratories LLC (UL).
+Sound Control
+ToughRock Fireguard X and Fireguard C Gypsum Board can achieve designated
+Sound Transmission Class (STC) values when used in properly designed constructions.
+Sound rated assemblies require sealing at top, bottom, intersections and other
+locations where sound leaks may develop.
+Application Standards
+ToughRock Fireguard X and Fireguard C Gypsum Board may be applied according
+to the Gypsum Association Publication GA-216 or ASTM C840 for non-fire rated
+construction.
+For fire resistance rated construction application regarding board orientation,
+fastener type and spacing shall be consistent with the tested construction details
+for Type X Gypsum Board. These details are published in the Gypsum Association
+"Fire Resistance Design Manual GA-600," "UL Fire Resistance Directory," and
+"Intertek Testing Services/Warnock Hersey Listings Directory."
+Handling Precautions
+Stack gypsum board flat on a level surface. As individual sheets are removed for
+installation, they should be raised up on edge carefully and carried in a vertical
+position. Appropriate handling is also outlined in Gypsum Association Publications
+GA-216 and GA-801.
+Take care to avoid impact, undue flexing, and subsequent damage to board edges,
+ends, and corners. Avoid scuffing the face to be finished.
+Handling and Use-Caution
+This product may contain fiberglass which may cause skin irritation. Dust and
+fibers produced during the handling and installation of the product may cause skin,
+eye and respiratory tract irritation. Avoid breathing dust and minimize contact with
+skin and eyes. Wear long sleeve shirts, long pants and eye protection. Always
+maintain adequate ventilation. Use a dust mask or NIOSH/MSHA approved
+respirator as appropriate in dusty or poorly ventilated areas.
+Material Safety Data Sheet
+Material Safety Data Sheet (MSDS) is available upon request or online at
+www.buildgp.com/safetyinfo.
+continued-
+Stamps/Signatures
+---- Page 4 ----
+GP
+TOUGHROCK
+®
+Technical Service Hotline 1.800.225.6119 or
+www.gpgypsum.com
+Board Decoration-Application Standards
+ToughRock® Fireguard X™ and Fireguard C® Gypsum Board are designed to accept
+most types of paints, texture and wall covering materials. Georgia-Pacific Gypsum
+strongly recommends priming the surface with a full-bodied, quality latex primer
+before applying a final decorative material. Priming will equalize the suction
+variation between the joint compounds and the paper surface. If glossy paints are
+used in such areas as kitchens or bathrooms, skim coat joint compound over the
+entire surface to reduce highlighting or joint photographing. This method is also
+recommended in areas with severe natural or artificial side lighting.
+Georgia-Pacific Gypsum recommends application of a sealer prior to applying
+wallpaper or other wall covering to the board so that the board surface will not
+be damaged if the covering is subsequently removed during redecorating. Joint
+treatment must be thoroughly dry before proceeding with primer application and
+final decoration. Refer to Gypsum Association Publications GA-214 and GA-216
+for joint treatment and finishing recommendations.
+Physical Properties
+Properties
+ToughRock® Fireguard X™
+Thickness, nominal inches
+5/8" (15.9 mm), + 1/64" (0.4 mm)
+Width, nominal
+4' (1220 mm), 54" (1372 mm),
+60" (1524 mm) + 3/32" (2.4 mm)
+Length, Standard
+8' (2440 mm) to 14' (4270 mm),
++ 1/4" (6.4 mm)
+Weight1, lbs./sq. ft., nominal (kg/m2)
+2.2 (10.7)
+Edges
+Flexural Strength2 spacing, min.
+Parallel, Ibf. (N)
+≥46 (205)
+Perpendicular, Ibf. (N)
+≥147 (654)
+R Value, ft2. ºF . hr/BTU (m2· K/W)
+0.56 est. (0.10)
+Nail Pull Resistance2, minimum, Ibf. (N)
+≥87 (387)
+Hardness2, Ibf. (N) (core, edges and ends)
+≥15 (67)
+Humidified Deflection2, max.
+5/8" (16 mm)
+Packaging
+Two pieces per bundle,
+face-to-face and end taped
+Surface Burning Characteristics3 (per ASTM E84)
+Flame Spread
+15
+Smoke Developed
+0
+(Core is noncombustible when tested
+in accordance with ASTM E136.)
+Tapered, square or
+tapered with rounded edges
+5/8" ToughRock® Fireguard C®
+5/8" (15.9 mm), +1/64" (0.4 mm)
+1/2" (12.7 mm), +1/64" (0.4 mm)
+4' (1220 mm) +3/32" (2.4 mm)
+8' (2440 mm) to 14' (4270 mm),
++1/4" (6.4 mm)
+2.3 (11.2)
+2.0 (9.0)
+Tapered, square or
+tapered with rounded edges
+≥46 (205)
+≥147 (654)
+0.56 est. (0.10)
+0.48 est. (0.08)
+≥87 (389)
+≥77 (343)
+≥15 (67)
+≥15 (67)
+5/8" (16 mm)
+10/8" (32 mm)
+Two pieces per bundle,
+Two pieces per bundle,
+face-to-face and end taped
+face-to-face and end taped
+15
+15
+0
+0
+1/2" ToughRock® Fireguard C®
+4' (1220 mm) +3/32" (2.4 mm)
+8' (2440 mm) to 14' (4270 mm),
++1/4" (6.4 mm)
+Tapered, square or
+tapered with rounded edges
+≥36 (160)
+≥107 (476)
+1 Represents approximate weight for design and shipping purposes. Actual weight may vary depending on manufacturing location and other factors.
+2 Specified minimum values are as defined in ASTM C1396.
+3 Products qualify for NFPA Class A or IBC Class 1.
+GP
+Georgia-Pacific
+Gypsum
+U.S.A.
+Georgia-Pacific Gypsum LLC
+Georgia-Pacific Gypsum II LLC
+Canada
+Georgia-Pacific Canada LP
+SALES INFORMATION AND ORDER PLACEMENT
+U.S.A.
+West:
+1-800-824-7503
+Midwest:
+1-800-876-4746
+South Central:
+1-800-231-6060
+Southeast:
+1-800-327-2344
+Northeast:
+1-800-947-4497
+CANADA Canada Toll Free: 1-800-387-6823
+Quebec Toll Free: 1-800-361-0486
+TECHNICAL INFORMATION
+U.S.A. and Canada: 1-800-225-6119, www.gpgypsum.com
+TRADEMARKS TOUGHROCK, FIREGUARD X, FIREGUARD C and the GEORGIA-PACIFIC logo are
+trademarks owned by or licensed to Georgia-Pacific Gypsum LLC. Collaborative for High Performance
+Schools and CHPS are trademarks owned by Collaborative for High Performance Schools, Inc.
+WARRANTIES, REMEDIES AND TERMS OF SALE For current warranty information for this
+product, please go to www.gpgypsum.com and select the product for warranty information. All sales
+of this product by Georgia-Pacific are subject to our Terms of Sale available at www.gpgypsum.com.
+UPDATES AND CURRENT INFORMATION The information in this document may change without
+notice. Visit our website at www.gpgypsum.com for updates and current information.
+CAUTION For product fire, safety and use information, go to www.buildgp.com/safetyinfo
+or call 1-800-225-6119.
+FIRE SAFETY CAUTION Passing a fire test in a controlled laboratory setting and/or certifying or
+labeling a product as having a one-hour, two-hour, or any other fire resistance or protection rating
+and, therefore, as acceptable for use in certain fire rated assemblies/systems, does not mean that
+either a particular assembly/system incorporating the product, or any given piece of the product
+itself, will necessarily provide one-hour fire resistance, two-hour fire resistance, or any other
+specified fire resistance or protection in an actual fire. In the event of an actual fire, you should
+immediately take any and all actions necessary for your safety and the safety of others without
+regard for any fire rating of any product or assembly/system.
+@2014 Georgia-Pacific Gypsum LLC. All rights reserved. 1/14. GP-TM Lit. Item #101866.
+---- Page 5 ----
+CertainTeed
+Type X
+Gypsum Board
+Product Data and Submittal
+Product Description
+CertainTeed Type X Gypsum Board is an
+interior gypsum board consisting of a
+solid set, fire-resistive, Type X gypsum
+core enclosed in ivory-colored face
+paper and a strong liner back paper.
+CertainTeed Type X board features a
+specially formulated core providing fire
+resistance ratings when used in tested
+assemblies. Long edges are slightly
+tapered, allowing joints to be reinforced
+and concealed with joint tape and joint
+compound. CertainTeed Type X Gypsum
+Board is available in a variety of lengths
+and widths.
+Basic Uses
+CertainTeed Type X Gypsum Board is
+used for interior walls and ceilings in
+residential and commercial applications
+requiring extended fire ratings. It can be
+used for new construction or renovations
+over wood or steel framing. The boards
+are typically nailed or screwed to studs
+spaced 16" (400 mm) or 24" (610 mm)
+o.c., but can be applied by laminating or
+with the use of an adhesive.
+Advantages
+· Fire ratings up to four hours.
+· Consistently high quality.
+· Uniformly flat, attractive appearance;
+no shadows.
+Job Name
+Contractor
+Products Specified:
+· High edge hardness.
+· No wavy edges, warps, bows or
+deformities.
+· Uniform high-strength cores eliminate
+crumbling, cracking.
+· Edge tapers consistent to form perfect
+joints.
+· Excellent thermal barrier and sound
+attenuation qualities.
+Limitations
+· Exposure to continuous moisture or
+extreme temperatures should be
+avoided. Not recommended for
+continuous exposure to temperatures
+exceeding 125°F (52℃).
+· Framing spacing should not exceed
+24" (610 mm) o.c.
+. Should be stored indoors and off
+ground surface.
+· Boards should be stacked flat with
+care taken to prevent sagging or
+damage to edges, ends and surfaces.
+· Storing board lengthwise, leaning
+against the framing is not recommended.
+· Boards should be carried, not
+dragged, to place of installation to
+prevent damaging finished edges.
+· Cutting and scoring should be done
+from the face side.
+Date
+· In cold weather or during joint
+finishing, temperatures within the
+enclosure should stay within the
+range of 50° to 95°F (10° to 35℃)
+and with sufficient ventilation to carry
+off excess moisture.
+Product Data
+Thicknesses: 5/8" (15.9 mm)
+Widths: 4' (1220 mm) standard
+54" (1370 mm)
+Lengths: 8' to 12'
+(2440 mm to 3660 mm)
+Edges: Tapered
+Packaging: Two pieces per bundle,
+face-to-face and end-taped
+Special widths, lengths or edges may
+be available on special order. Consult
+your CertainTeed sales representative.
+Technical Data
+Composition and Materials
+Manufactured panel with gypsum core,
+encased in paper. Various additives are
+added to the core to enhance fire
+resistive qualities.
+Surface Burning Characteristics
+CertainTeed Type X Gypsum Board has
+a Flame Spread rating of 15 and Smoke
+Developed rating of 0, in accordance
+with ASTM E 84, (UL 723, UBC 8-1,
+NFPA 255, CAN/ULC-S102).
+Continued on back
+Submittal Approvals
+(Stamps or Signatures)
+CertainTeed
+SAINT-GOBAIN
+---- Page 6 ----
+Fire Resistance
+Fire resistance tests are conducted in
+accordance with ASTM E 119, (ANSI/UL
+263, UBC 7-1, NFPA 251, CAN/ULC-
+S101) and no warranty is made other
+than conformance to the standard under
+which the assembly was tested. Minor
+discrepancies may exist in the values of
+ratings, attributable to changes in
+materials and standards, as well as
+differences between testing facilities.
+Assemblies are listed as "combustible"
+(wood framing) and "noncombustible"
+(concrete and/or steel construction).
+For fire resistance ratings refer to the
+Gypsum Association Fire Resistance
+Design Manual and UL Fire Resistance
+Directory - Vol. 1.
+Applicable Standards and
+References
+· ASTM C 1396 Type X Standard
+· ASTM C 840
+· Gypsum Association GA-216
+· Gypsum Association GA-214
+. ICC International Building Code (IBC)
+· ICC International Residential Code
+(IRC)
+· National Building Code of Canada
+(NBCC)
+Installation
+Recommendations
+Installation of CertainTeed Type X
+Gypsum Boards should be consistent
+with methods described in the standards
+and references noted. Cutting should be
+from the face side of the boards for best
+results.
+Decoration
+CertainTeed Type X Gypsum Board
+accepts most types of paints, texture and
+wall covering materials. The surface shall
+be primed and sealed with a full-bodied
+latex primer before applying a final
+decorative material. This will equalize the
+suction between the joint compounds
+and the paper surface.
+For best painting results, all surfaces,
+including joint compound, should be
+clean, dust-free and not glossy. If glossy
+paints are used, a thin skim coat of
+compound over the entire surface, Level
+5 finish, is recommended to reduce
+highlighting or joint photographing. This
+method is also recommended for areas
+of critical sidelighting of natural or
+artificial light sources.
+A sealer application under wallpaper or
+other wall covering is also recommended
+so the board surface will not be damaged
+if the covering is subsequently removed
+during redecorating. Joint treatment must
+be thoroughly dry before proceeding with
+primer-sealer application and final
+decoration.
+Notice
+The information in this document is
+subject to change without notice.
+CertainTeed assumes no responsibility
+for any errors that may inadvertently
+appear in this document.
+BUILDING
+NADA GREEN BUILDING CO
+E DU CANADA . TONNO)
+· CONSEIL DU BA
+MEMBER
+BATIMENT DURABLE DU
+Children & Schools
+REENGUARD
+Indoor Air Quality Certified
+®
+ASK ABOUT ALL OF OUR OTHER CERTAINTEED® PRODUCTS AND SYSTEMS:
+ROOFING . SIDING . TRIM . DECKING . RAILING . FENCE . FOUNDATIONS
+GYPSUM . CEILINGS . INSULATION . PIPE
+CertainTeed Corporation
+P.O. Box 860
+Valley Forge, PA 19482
+Professional: 800-233-8990
+Consumer: 800-782-8777
+c 1-2007 CertainTeed Gypsum, Inc. Rev 01-2013
+Printed in Canada on recycled paper. CTG-2337
+U.S. GREEN
+G COUNCIL
+MEMBER
+www.certainteed.com
+http://blog.certainteed.com
+SAINT-GOBAIN
+---- Page 7 ----
+09 29 00
+GOLD BOND®
+BRAND FIRE-SHIELD® GYPSUM BOARD
+MANUFACTURER
+National Gypsum Company
+2001 Rexford Road
+Charlotte, NC 28211
+(704) 365-7300
+Technical Information:
+1-800-NATIONAL
+(1-800-628-4662)
+Fax: 1-800-FAX NGC1
+(1-800-329-6421)
+Internet Home Page:
+nationalgypsum.com
+nationalgypsum.com/espanol
+09 29 00/NGC BuyLine: 1100
+5/8" Fire-Shield - For single-
+or multi-layer drywall
+construction. The greater
+thickness provides increased
+resistance to fire and reduced
+sound transmission.
+5/8" Fire-Shield C - For single-
+or multi-layer drywall
+construction. The specially
+formulated Type X core
+achieves superior performance
+when used in specific
+assemblies.
+DESCRIPTION
+Gold Bond® BRAND Fire-Shield®
+Gypsum Board panels consist
+of a fire-resistant gypsum core
+encased in heavy natural-
+finish, 100% recycled paper on
+the face and back sides. The
+face paper is folded around
+the long edges to reinforce
+and protect the core, and
+the ends are square-cut and
+finished smooth. For speed of
+installation, GridMarX® guide
+marks are printed on the paper
+surface.
+Long edges of the panels are
+tapered or square. Tapered
+edges allow joints to be
+reinforced with ProForm® BRAND
+Joint Tape and concealed with
+ProForm® BRAND Ready Mix or
+ProForm® BRAND Quick Set
+Setting Joint Compounds.
+Fire-Shield Gypsum Board
+features a Type X core
+to provide additional fire
+resistance ratings when used in
+laboratory tested systems.
+Gold Bond® BRAND Fire-Shield® C
+Gypsum Board panels have a
+specially formulated Type X core
+to achieve superior performance
+when used in specific fire-rated
+Type C assemblies.
+ADVANTAGES
+· Lightweight, cost-efficient
+material that readily accepts
+a wide range of decorative
+finishes
+· Gypsum Board is easily cut for
+quick installation, permitting
+painting or other decoration
+and the installation of metal or
+wood trim almost immediately.
+· The gypsum core will not
+support combustion or
+transmit temperatures greatly
+in excess of 212ºF (100℃) until
+completely calcined, a slow
+process.
+· Expansion and contraction
+under normal atmospheric
+(10.7 kg/M2)
+changes is negligible.
+2.2
+5.8" Fire-Shield
+5/8" Fire-Shield C
+(10.7 kg/M2)
+Job Name
+Contractor
+GREENGUARD CERTIFIED
+Fire-Shield
+Children & Schools
+Gypsum
+Board is
+GREEN-
+Indoor Air Quality Certified
+GUARD Children & SchoolsSM
+Certified for indoor air quality.
+TREENGUARD
+LIMITATIONS
+· Exposure to excessive or
+continuous moisture and
+extreme temperatures should
+be avoided. Gypsum Board is
+not recommended where it will
+be exposed to temperatures
+exceeding 125ºF (52℃) for
+extended periods of time.
+•
+To prevent objectionable
+sag in gypsum paneled
+ceilings, the weight of overlaid
+unsupported insulation should
+not exceed the following
+recommendations:
+PSF
+Type
+(lbs./sq.ft.)
+1.3
+1/2" Fire-Shield C
+(6.3 kg/M2)
+2.2
+1/2" Fire-Shield C
+16" o.c.
+Frame
+Spacing
+24" o.c.
+24" o.c.
+· Installing Fire-Shield Gypsum
+Board panels over an insulating
+blanket, installed continuously
+across the face of the framing
+members, is not recommended.
+Blankets should be recessed and
+flanges attached to the sides of
+the studs or joists.
+. Fire-Shield Gypsum Board
+must be stored off the ground
+and under cover. Sufficient
+risers must be used to assure
+support for the entire length of
+the gypsum board to prevent
+sagging.
+. Fire-Shield Gypsum Board
+must be kept dry to minimize
+the potential for mold growth.
+Adequate care should be taken
+while transporting, storing,
+applying and maintaining
+gypsum board. For additional
+information, refer to the Gyp-
+sum Association publication,
+"Guidelines for the Prevention
+of Mold Growth on Gypsum
+Board" (GA-238-03, which
+is available at www.gypsum.
+org under the "Download Free
+Gypsum Association Publica-
+tions" section.
+09 29 00
+Date
+BASIC USES
+1/2" Fire-Shield C - For single- or
+multi-layer drywall construction
+for fire tested assemblies. Also
+used as a roofing substrate.
+Submittal Approvals: (Stamps or Signatures)
+---- Page 8 ----
+COMPOSITION & MATERIALS
+Fire-Shield Gypsum Board is a
+manufactured panel with a
+Type X gypsum core encased
+with paper. Fire-Shield core
+gypsum board also contains
+various aggregates such as
+fiberglass to enhance the fire
+resistive qualities. Fire-Shield
+Gypsum Board contains no
+asbestos.
+TECHNICAL DATA
+PHYSICAL PROPERTIES
+Thickness, nominal
+Width, nominal*
+4' (1219 mm)
+Length, standard
+6' through 16' (1829-4877 mm)
+Weight, lbs./sq.ft., nominal
+Edges
+Square or Tapered
+Surface Burning Characteristics
+(per ASTM E 84)
+ACCESSORIES
+· Fasteners: drywall screws, nails
+and/or adhesives
+· ProForm Fiberglass Mesh Tape
+· ProForm Joint Tape
+· Cornerbead, casing beads
+· ProForm Ready Mix or Pro-
+Form Quick Set/Quick Set Lite
+Setting Compound
+· E-Z Strip control joints or
+.093 zinc control joints
+1/2" Type C (12.7 mm)
+5/8" Type X or C (15.9 mm)
+1/2" Type C - 1.9
+5/8" Type X - 2.2
+5/8" Type C - 2.4
+Flame Spread: 15
+Smoke Developed: 0
+*54" wide Gypsum Board available in 5/8" thickness
+APPLICABLE STANDARDS AND REFERENCES
+ASTM C 1396
+ASTM C 840
+Gypsum Association GA-216
+Gypsum Association GA-214
+National Gypsum Company, Gypsum Construction Guide
+FIRE RESISTANT RATINGS
+Fire resistance ratings represent
+the results of tests on
+assemblies made up of
+specific materials in a specific
+configuration. When selecting
+construction designs to
+meet certain fire resistance
+requirements, caution must
+be used to insure that each
+component of the assembly is
+the one specified in the test.
+Further, precaution should be
+taken that assembly procedures
+are in accordance with those
+of the tested assembly. (For
+copies of specific tests, call
+1-800-NATIONAL.)
+UL CORE DESIGNATION
+1/2" Fire-Shield C - FSW C
+5/8" Fire-Shield - FSW
+5/8" Fire-Shield C - FSW C
+INSTALLATION
+RECOMMENDATIONS
+Installation of Fire-Shield Gypsum
+Board should be consistent
+with the methods described in
+the standards and references
+noted.
+GRIDMARX®
+Fire-Shield Gypsum Board comes
+standard with GridMarX®
+guide marks, printed on the
+paper surface. These guide
+marks align with standard
+building dimensions and help
+to quickly identify fastener
+lines for stud and joist framing.
+Using GridMarX, accurate cuts
+can be made without having
+to draw lines. The use of
+GridMarX also provides quick
+identification and uniform nail/
+screw patterns.
+GridMarX guide marks run the
+machine direction of the board
+at five points in 4" increments.
+Marks run along the edge in
+both tapers and at 16", 24" and
+32" in the field of the board.
+The marks cover easily with no
+bleed-through using standard
+paint products.
+Vertical Application - In a vertical
+application, GridMarX serve as
+a guide mark to help identify
+the exact location of framing
+members behind the gypsum
+board eliminating the need for
+field applied vertical lines.
+Horizontal Application - In
+a horizontal application,
+GridMarX serve as a reference
+mark to help identify the
+location of framing members
+behind the gypsum board. (If
+framing member is located 2"
+to the right of the GridMarX at
+the top edge of the board, it
+will be located 2" to the right
+down the face of the board)
+DECORATION
+For best painting results, all
+surfaces, including joint
+compound, should be clean,
+dust-free and not glossy. To
+improve fastener and joint
+concealment, a coat of a
+quality primer is recommended
+to equalize the porosities
+between surface paper and
+joint compound.
+The selection of a paint to
+give the specified or desired
+finished characteristics is the
+responsibility of the architect or
+contractor.
+Fire-Shield Gypsum Board that is
+to have a wallcovering applied
+to it should be prepared
+and primed as described for
+painting.
+Gypsum Association GA-214,
+Recommended Specification
+for Levels of Gypsum Board
+Finish, should be referred to in
+order to determine the level
+of finishing needed to assure
+a surface properly prepared to
+accept the desired decoration.
+National I
+Gypsum
+B
+111098
+Rev. 01/13

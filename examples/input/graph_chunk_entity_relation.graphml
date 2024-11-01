@@ -1,0 +1,823 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DEW CONSTRUCTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DEW Construction is the company responsible for the improvements at Charlotte Central School, specifically for the resilient flooring work."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Charlotte Central School is the institution undergoing Phase 2 Improvements, which includes the installation of resilient flooring."&lt;SEP&gt;"Charlotte Central School is the institution undergoing Phase 2 Improvements, which involves various construction and installation activities."&lt;SEP&gt;"Charlotte Central School is the location undergoing Phase 2 Improvements, as indicated in the document."&lt;SEP&gt;"Charlotte Central School is the location where Phase 2 improvements are being carried out, including the installation of resilient flooring."&lt;SEP&gt;"Charlotte Central School is undergoing Phase 2 Improvements as part of a bid set project."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08&lt;SEP&gt;chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;ASHRAE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) is referenced for its standards on thermal environmental conditions for human occupancy."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;ASTM INTERNATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM International is an organization that provides standards for various materials and products, including resilient flooring."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;INTERNATIONAL ELECTROTECHNICAL COMMISSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Electrotechnical Commission (IEC) is an organization that sets international standards for electrical, electronic, and related technologies."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;NATIONAL FIRE PROTECTION ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Fire Protection Association (NFPA) is an organization that provides standards for fire safety, including those relevant to flooring materials."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;OZONE TRANSPORT COMMISSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ozone Transport Commission (OTC) is an organization focused on air quality and is referenced for standards related to resilient flooring."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;THE ENGINEERED WOOD ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Engineered Wood Association (APA) provides standards and guidelines for wood products, including plywood underlayment used in flooring."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;RESILIENT FLOOR COVERING INSTITUTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Resilient Floor Covering Institute (RFCI) is an organization that provides standards and guidelines for resilient flooring products."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;03/10/23&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The date on which the document was received, indicating a timeline for the project."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Phase 2 Improvements is a specific phase of construction and renovation work being carried out at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refer to the specific stage of the project at Charlotte Central School, focusing on resilient flooring."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing construction and enhancement activities at Charlotte Central School, including the installation of resilient flooring."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing improvements at Charlotte Central School, as indicated in the document."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;BID SET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Bid Set refers to the collection of documents and specifications provided for bidding on the project."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;JOB #1036&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Job #1036 is the specific job number assigned to the Charlotte Central School Phase 2 Improvements project."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;ASHRAE STD 55&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASHRAE Std 55 is a specific standard by the American Society of Heating, Refrigerating, and Air-Conditioning Engineers for thermal environmental conditions for human occupancy."&lt;SEP&gt;"ASHRAE Std 55 provides guidelines for maintaining temperature and humidity levels during the installation process."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;ASTM E662&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM E662 is a specific standard by ASTM International for the optical density of smoke generated by solid materials."&lt;SEP&gt;"ASTM E662 is a standard test method for specific optical density of smoke generated by solid materials."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;ASTM E648&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM E648 is a specific standard by ASTM International for the critical radiant flux of floor-covering systems using a radiant heat energy source."&lt;SEP&gt;"ASTM E648 is a standard test method for critical radiant flux of floor-covering systems using a radiant heat energy source."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;ASTM F710&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM F710 is a specific standard by ASTM International for preparing concrete floors to receive resilient flooring."&lt;SEP&gt;"ASTM F710 is a standard practice for preparing concrete floors to receive resilient flooring, referenced in the document."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ASTM F1859&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM F1859 is a specific standard by ASTM International for rubber sheet floor covering without backing."&lt;SEP&gt;"ASTM F1859 is a standard specification for homogenous sheet flooring without backing, referenced in the document."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ASTM F1861&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM F1861 is a specific standard by ASTM International for resilient wall base."&lt;SEP&gt;"ASTM F1861 is a standard specification for resilient base, referenced in the document."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ASTM F1913&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM F1913 is a specific standard by ASTM International for vinyl sheet floor covering without backing."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;NFPA 253&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NFPA 253 is a specific standard by the National Fire Protection Association for the critical radiant flux of floor covering systems using a radiant heat energy source."&lt;SEP&gt;"NFPA 253 is a standard method of test for critical radiant flux of floor covering systems using a radiant heat energy source."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;NFPA 258&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NFPA 258 is a specific standard by the National Fire Protection Association for determining smoke generation of solid materials."&lt;SEP&gt;"NFPA 258 is a standard test method for specific optical density of smoke generated by solid materials."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;APA FORM L334&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"APA Form L334 is a guideline by The Engineered Wood Association for the selection, installation, and preparation of plywood underlayment."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;PS 1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PS 1 is a performance standard by The Engineered Wood Association for structural plywood."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;PS 2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PS 2 is a performance standard by The Engineered Wood Association for wood structural panels."</data>
+      <data key="d2">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </node>
+    <node id="&quot;OWNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Owner is the individual or entity responsible for the maintenance of the project and is the recipient of warranties and training."&lt;SEP&gt;"The Owner is the entity that will take occupancy of the finished resilient flooring, ensuring it is without damage upon substantial completion."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;CONTRACTOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Contractor is responsible for coordinating the installation and training related to the resilient athletic flooring."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;ARCHITECT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Architect assists in making final selections of materials by reviewing field samples."&lt;SEP&gt;"The Architect is responsible for inspecting and approving the flooring installation, ensuring it meets the required standards."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;MANUFACTURER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Manufacturer provides the materials, warranties, and recommendations for the resilient flooring system."&lt;SEP&gt;"The manufacturer provides instructions and recommendations for the installation and preparation of resilient flooring."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;INSTALLER/APPLICATOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Installer/Applicator is a company specializing in installing the specified flooring with a minimum of three years of documented experience."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;HVAC SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"HVAC system is required to be operating for a minimum of two weeks to maintain temperature and humidity levels before and during the installation of flooring."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;ALTRO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Altro is a manufacturer of homogenous sheet flooring, specifically the Aquarius model, which is used as the basis of design in the document."&lt;SEP&gt;"Altro is a manufacturer of homogenous sheet flooring, specifically the Aquarius product line, which is used as the basis of design."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;SECTION 01 60 00 - PRODUCT REQUIREMENTS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 60 00 - Product Requirements is a document that provides additional provisions related to product requirements for the project."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 40 00 - Quality Requirements is a document outlining the quality requirements for the project."&lt;SEP&gt;"Section 01 40 00 - Quality Requirements is a document that outlines the quality assurance measures for the project."&lt;SEP&gt;"Section 01 40 00 - Quality Requirements refers to the standards and procedures for site tests and inspections to ensure quality control."&lt;SEP&gt;"This section outlines the quality requirements for the project, including surface preparation and installation guidelines."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28&lt;SEP&gt;chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;SECTION 01 74 19 - CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 74 19 - Construction Waste Management and Disposal is a document that provides guidelines for managing and disposing of construction waste."&lt;SEP&gt;"Section 01 74 19 - Construction Waste Management and Disposal outlines the requirements for cleaning and disposing of construction waste."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;SECTION 01 70 00 - EXECUTION AND CLOSEOUT REQUIREMENTS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 70 00 - Execution and Closeout Requirements is a document outlining the execution and closeout requirements for the project."&lt;SEP&gt;"Section 01 70 00 - Execution and Closeout Requirements is a document that outlines the execution and closeout requirements for the project."&lt;SEP&gt;"This section provides guidelines for the execution and closeout requirements of the project."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28&lt;SEP&gt;chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;SECTION 01 78 00 - CLOSEOUT SUBMITTALS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 78 00 - Closeout Submittals is a document that provides guidelines for preparing and submitting closeout documents."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;ASHRAE STD 55 (FIGURE 5.2.1.1.)&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASHRAE Std 55 (Figure 5.2.1.1.) provides guidelines for maintaining temperature and humidity levels during the installation process."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;ALTRO; AQUARIUS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Altro; Aquarius is a specific product line of homogenous sheet flooring used as the basis of design for the project."</data>
+      <data key="d2">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </node>
+    <node id="&quot;MANNINGTON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mannington is a manufacturer of resilient base products, providing options that comply with the specifications outlined in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;NORA SYSTEMS, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nora Systems, Inc. is a manufacturer of resilient base products, offering alternatives that meet the specified requirements."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ROPPE CORP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Roppe Corp is a manufacturer of resilient base products, whose offerings are considered as the basis of design in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Awarding Authority is responsible for accepting products from various manufacturers as equal to the specified products in terms of construction, quality, durability, performance, and appearance."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ASTM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM is an international standards organization that provides specifications and testing methods, such as ASTM F1859 and ASTM E 648, which are referenced in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;OWNER-ENGAGED INDEPENDENT TESTING AGENCY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Owner-engaged independent testing agency is responsible for verifying that moisture emission rate, alkalinity pH, and bond testing results meet the flooring and adhesive manufacturer's requirements."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;CHARLOTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte is the geographical location where the Charlotte Central School is situated, undergoing Phase 2 Improvements."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;AQUARIUS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Aquarius is a model of homogenous sheet flooring manufactured by Altro, used as the basis of design in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ALTROFIX 30&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"AltroFix 30 is a resilient floor adhesive recommended for use on porous surfaces, including wood for floors where spillage is anticipated or with drains."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;ASTM E 648&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASTM E 648 is a standard test method for critical radiant flux of floor-covering systems using a radiant heat energy source, referenced in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;JELLYFISH PX2005&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Jellyfish PX2005 is a color and pattern option for the homogenous sheet flooring specified in the document."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;SECTION 01 25 00 - SUBSTITUTION PROCEDURES&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 25 00 - Substitution Procedures is a document outlining the procedures for submitting product substitutions."</data>
+      <data key="d2">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </node>
+    <node id="&quot;PS 1, PS 2, AND APA FORM L334&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"These are standards and forms related to the preparation and installation of wood substrates and exterior panel type underlayment."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;RESILIENT FLOORING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Resilient Flooring refers to the type of flooring being installed, which requires specific preparation and installation methods."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;SUBFLOOR FILLER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Subfloor filler is used to fill minor low spots, cracks, joints, holes, and other defects to achieve a smooth, flat, hard surface."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;ADHESIVE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Adhesive is used to bond the resilient flooring to the substrate, with specific application methods and requirements."&lt;SEP&gt;"Adhesive refers to the substance used to bond the resilient flooring to the substrate, requiring proper set-up time and application."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;SPRAY-APPLIED ADHESIVE METHOD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is a method of applying adhesive to the substrate before laying the resilient flooring, involving specific steps and guidelines."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;TROWEL ADHESIVE METHOD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is another method of applying adhesive to the substrate using a trowel, ensuring a completed installation without surface imperfections."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;EXPANSION JOINTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Expansion joints are necessary to accommodate movement in the flooring and must be properly located and installed."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;CONTROL JOINTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Control joints are used to control cracking in the concrete substrate and must be properly located and installed."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;CONTRACTION JOINTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Contraction joints are used to manage the contraction of the concrete substrate and must be properly located and installed."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;ISOLATION JOINTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Isolation joints are used to separate different sections of the concrete substrate and must be properly located and installed."</data>
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </node>
+    <node id="&quot;COVED BASE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Coved Base is a type of base installed at the floor to wall junction, using coved base filler as backing and extending sheet flooring vertically."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;METAL CAP STRIP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metal Cap Strip is used to cover the top edge of the vertically extended sheet flooring at the coved base."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;HAND ROLLER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hand Roller is a tool used to roll the seam area of the flooring to ensure proper adhesion."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;THREE-SECTION ROLLER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Three-Section Roller is a 100 lb roller used to roll the flooring in both directions, overlapping the previous rolled area."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;PREMOLDED UNITS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Premolded Units are used at external corners and exposed ends of the resilient base to ensure a proper fit."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;SUBSTANTIAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Substantial Completion is the stage in the construction process when the work is sufficiently complete for the owner to occupy or utilize the space."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;FOOT TRAFFIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Foot Traffic refers to the movement of people on the resilient flooring, which is restricted for 12 hours before and after installation to allow proper set-up time."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;ROLLING TRAFFIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rolling Traffic refers to the movement of wheeled objects on the resilient flooring, which is restricted for 48 hours after installation to prevent damage."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;INSPECTION FOR SUBSTANTIAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Inspection for Substantial Completion is the process of reviewing the flooring installation to ensure it meets the required standards before the owner takes occupancy."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;INITIAL OCCUPANCY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Initial Occupancy refers to the first use of the space by the owner after the completion of the flooring installation."</data>
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+    </node>
+    <node id="&quot;WOOD SUBSTRATES AND EXTERIOR PANEL TYPE UNDERLAYMENT&quot;">
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+      <data key="d1">"These standards and forms provide guidelines for the preparation and installation of wood substrates and exterior panel type underlayment."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SURFACE PREPARATION&quot;">
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+      <data key="d1">"This section outlines the quality requirements for surface preparation before installing resilient flooring."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;INSTALLATION&quot;">
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+      <data key="d1">"This section provides guidelines for the execution and closeout requirements during the installation of resilient flooring."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CONCRETE SUBSTRATE&quot;">
+      <data key="d2">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+      <data key="d1">"Control joints are used to manage cracking in the concrete substrate and must be properly located and installed."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;RESILIENT BASE&quot;">
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+      <data key="d1">"Premolded Units are used at external corners and exposed ends of the resilient base to ensure a proper fit."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLEANING&quot;">
+      <data key="d2">chunk-e44f87a5257700e66e210d4874171154</data>
+      <data key="d1">"Section 01 74 19 - Construction Waste Management and Disposal outlines the requirements for cleaning and disposing of construction waste."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"DEW Construction is responsible for carrying out the Phase 2 improvements at Charlotte Central School, including the installation of resilient flooring."</data>
+      <data key="d5">"construction project, location"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;ASHRAE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction references ASHRAE standards for thermal environmental conditions in their resilient flooring work."</data>
+      <data key="d5">"standards compliance, thermal conditions"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;ASTM INTERNATIONAL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction follows ASTM International standards for various aspects of resilient flooring installation."</data>
+      <data key="d5">"standards compliance, material testing"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;INTERNATIONAL ELECTROTECHNICAL COMMISSION&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"DEW Construction references IEC standards as part of their resilient flooring work."</data>
+      <data key="d5">"standards compliance, electrical standards"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;NATIONAL FIRE PROTECTION ASSOCIATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction adheres to NFPA standards for fire safety in their resilient flooring installation."</data>
+      <data key="d5">"standards compliance, fire safety"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;OZONE TRANSPORT COMMISSION&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"DEW Construction references OTC standards related to air quality in their resilient flooring work."</data>
+      <data key="d5">"standards compliance, air quality"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;THE ENGINEERED WOOD ASSOCIATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction follows APA guidelines for the selection, installation, and preparation of plywood underlayment."</data>
+      <data key="d5">"standards compliance, wood products"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;RESILIENT FLOOR COVERING INSTITUTE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction adheres to RFCI standards for resilient flooring products."</data>
+      <data key="d5">"standards compliance, flooring products"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;03/10/23&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The document was received by DEW Construction on 03/10/23, indicating the timeline for the project."</data>
+      <data key="d5">"timeline, project documentation"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"DEW Construction is responsible for the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"project phase, construction"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;BID SET&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction provided the Bid Set for the Charlotte Central School Phase 2 Improvements project."</data>
+      <data key="d5">"project documentation, bidding"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;JOB #1036&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction is handling Job #1036, which is the specific job number for the Charlotte Central School Phase 2 Improvements project."</data>
+      <data key="d5">"project identification, job number"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ALTRO&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Altro's Aquarius model is used as the basis of design for the homogenous sheet flooring at Charlotte Central School."&lt;SEP&gt;"Altro's Aquarius product line is used as the basis of design for the homogenous sheet flooring at Charlotte Central School."</data>
+      <data key="d5">"product specification, design basis"&lt;SEP&gt;"product specification, design"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;MANNINGTON&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mannington provides resilient base products that comply with the specifications for the Charlotte Central School project."</data>
+      <data key="d5">"product compliance, project specification"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;NORA SYSTEMS, INC.&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Nora Systems, Inc. offers resilient base products that meet the requirements for the Charlotte Central School project."</data>
+      <data key="d5">"product compliance, project specification"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ROPPE CORP&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Roppe Corp's resilient base products are considered as the basis of design for the Charlotte Central School project."</data>
+      <data key="d5">"product specification, design basis"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Awarding Authority is responsible for accepting products from various manufacturers for the Charlotte Central School project."</data>
+      <data key="d5">"product approval, project oversight"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ASTM standards and testing methods are referenced for product compliance in the Charlotte Central School project."</data>
+      <data key="d5">"standards compliance, testing methods"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;OWNER-ENGAGED INDEPENDENT TESTING AGENCY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Owner-engaged independent testing agency verifies that the conditions meet the flooring and adhesive manufacturer's requirements for the Charlotte Central School project."</data>
+      <data key="d5">"quality assurance, testing compliance"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM F1859&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM F1859 is a standard specification that the homogenous sheet flooring at Charlotte Central School must comply with."</data>
+      <data key="d5">"standards compliance, product specification"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM E 648&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM E 648 is a standard test method referenced for the critical radiant flux of floor-covering systems at Charlotte Central School."</data>
+      <data key="d5">"standards compliance, testing methods"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM F1861&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM F1861 is a standard specification that the resilient base at Charlotte Central School must comply with."</data>
+      <data key="d5">"standards compliance, product specification"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM F710&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM F710 is a standard practice for preparing concrete floors to receive resilient flooring at Charlotte Central School."</data>
+      <data key="d5">"standards compliance, preparation methods"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;JELLYFISH PX2005&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Jellyfish PX2005 is a color and pattern option for the homogenous sheet flooring specified for Charlotte Central School."</data>
+      <data key="d5">"product specification, design option"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;SECTION 01 25 00 - SUBSTITUTION PROCEDURES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Section 01 25 00 - Substitution Procedures outlines the procedures for submitting product substitutions for the Charlotte Central School project."</data>
+      <data key="d5">"documentation, substitution procedures"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Section 01 40 00 - Quality Requirements outlines the quality requirements for the Charlotte Central School project."</data>
+      <data key="d5">"documentation, quality requirements"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;SECTION 01 70 00 - EXECUTION AND CLOSEOUT REQUIREMENTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Section 01 70 00 - Execution and Closeout Requirements outlines the execution and closeout requirements for the Charlotte Central School project."</data>
+      <data key="d5">"documentation, execution and closeout"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d3">26.0</data>
+      <data key="d4">"Charlotte Central School is the location where Phase 2 Improvements are being implemented."&lt;SEP&gt;"Charlotte Central School is the site where Phase 2 Improvements, including the installation of resilient flooring, are taking place."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing improvements at Charlotte Central School."</data>
+      <data key="d5">"construction, enhancement"&lt;SEP&gt;"construction, renovation"&lt;SEP&gt;"project phase, school improvements"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25&lt;SEP&gt;chunk-5842073edc939cdd41737176c5a32a28&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ARCHITECT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Architect is responsible for inspecting and approving the flooring installation at Charlotte Central School."</data>
+      <data key="d5">"inspection, quality control"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;OWNER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Owner will take occupancy of the finished resilient flooring at Charlotte Central School, ensuring it is without damage upon substantial completion."</data>
+      <data key="d5">"occupancy, quality assurance"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;ASHRAE&quot;" target="&quot;ASHRAE STD 55&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASHRAE is the organization that developed ASHRAE Std 55, a standard for thermal environmental conditions."</data>
+      <data key="d5">"standard development, thermal conditions"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM E662&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM E662, a standard for the optical density of smoke generated by solid materials."</data>
+      <data key="d5">"standard development, smoke density"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM E648&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM E648, a standard for the critical radiant flux of floor-covering systems."</data>
+      <data key="d5">"standard development, radiant flux"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM F710&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM F710, a standard for preparing concrete floors to receive resilient flooring."</data>
+      <data key="d5">"standard development, floor preparation"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM F1859&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM F1859, a standard for rubber sheet floor covering without backing."</data>
+      <data key="d5">"standard development, rubber flooring"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM F1861&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM F1861, a standard for resilient wall base."</data>
+      <data key="d5">"standard development, wall base"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM F1913&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"ASTM International developed ASTM F1913, a standard for vinyl sheet floor covering without backing."</data>
+      <data key="d5">"standard development, vinyl flooring"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;NATIONAL FIRE PROTECTION ASSOCIATION&quot;" target="&quot;NFPA 253&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The National Fire Protection Association developed NFPA 253, a standard for the critical radiant flux of floor covering systems."</data>
+      <data key="d5">"standard development, radiant flux"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;NATIONAL FIRE PROTECTION ASSOCIATION&quot;" target="&quot;NFPA 258&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The National Fire Protection Association developed NFPA 258, a standard for determining smoke generation of solid materials."</data>
+      <data key="d5">"standard development, smoke generation"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;THE ENGINEERED WOOD ASSOCIATION&quot;" target="&quot;APA FORM L334&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Engineered Wood Association developed APA Form L334, a guideline for the selection, installation, and preparation of plywood underlayment."</data>
+      <data key="d5">"guideline development, plywood underlayment"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;THE ENGINEERED WOOD ASSOCIATION&quot;" target="&quot;PS 1&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Engineered Wood Association developed PS 1, a performance standard for structural plywood."</data>
+      <data key="d5">"standard development, structural plywood"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;THE ENGINEERED WOOD ASSOCIATION&quot;" target="&quot;PS 2&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Engineered Wood Association developed PS 2, a performance standard for wood structural panels."</data>
+      <data key="d5">"standard development, wood panels"</data>
+      <data key="d6">chunk-4ae2534d50f8617576779ed8e0680a08</data>
+    </edge>
+    <edge source="&quot;ASHRAE STD 55&quot;" target="&quot;HVAC SYSTEM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The HVAC system must maintain temperature and humidity levels as per ASHRAE Std 55 guidelines during the installation process."</data>
+      <data key="d5">"environmental control, compliance"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;OWNER&quot;" target="&quot;CONTRACTOR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Contractor provides training to the Owner's maintenance personnel on proper cleaning and maintenance techniques for resilient athletic flooring."</data>
+      <data key="d5">"training, maintenance"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;OWNER&quot;" target="&quot;MANUFACTURER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Manufacturer provides executed material warranties and installers' workmanship warranties in the Owner's name."</data>
+      <data key="d5">"warranties, product assurance"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;OWNER&quot;" target="&quot;ARCHITECT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Architect assists the Owner in making final selections of materials by reviewing field samples."</data>
+      <data key="d5">"material selection, collaboration"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;CONTRACTOR&quot;" target="&quot;MANUFACTURER&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Contractor may have the Manufacturer's representative perform training for the Owner's maintenance personnel."</data>
+      <data key="d5">"collaboration, training"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;MANUFACTURER&quot;" target="&quot;INSTALLER/APPLICATOR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Installer/Applicator uses materials and recommendations provided by the Manufacturer for the flooring installation."</data>
+      <data key="d5">"installation, product use"</data>
+      <data key="d6">chunk-4e62fe3dc4b6c4a69094ee3943f4a51b</data>
+    </edge>
+    <edge source="&quot;MANUFACTURER&quot;" target="&quot;RESILIENT FLOORING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The manufacturer provides specific instructions and recommendations for the installation of resilient flooring."</data>
+      <data key="d5">"guidelines, installation"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;ALTRO&quot;" target="&quot;AQUARIUS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Aquarius is a model of homogenous sheet flooring manufactured by Altro."</data>
+      <data key="d5">"product, manufacturer"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;ALTRO&quot;" target="&quot;ALTROFIX 30&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"AltroFix 30 is a resilient floor adhesive produced by Altro."</data>
+      <data key="d5">"product, manufacturer"</data>
+      <data key="d6">chunk-5842073edc939cdd41737176c5a32a28</data>
+    </edge>
+    <edge source="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;" target="&quot;SURFACE PREPARATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"This section outlines the quality requirements for surface preparation before installing resilient flooring."</data>
+      <data key="d5">"quality, preparation"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;" target="&quot;INSPECTION FOR SUBSTANTIAL COMPLETION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Section 01 40 00 - Quality Requirements outlines the standards and procedures for site tests and inspections to ensure quality control."</data>
+      <data key="d5">"quality control, standards"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;SECTION 01 74 19 - CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;" target="&quot;CLEANING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Section 01 74 19 - Construction Waste Management and Disposal outlines the requirements for cleaning and disposing of construction waste."</data>
+      <data key="d5">"cleaning, waste management"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;SECTION 01 70 00 - EXECUTION AND CLOSEOUT REQUIREMENTS&quot;" target="&quot;INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"This section provides guidelines for the execution and closeout requirements during the installation of resilient flooring."</data>
+      <data key="d5">"execution, closeout"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;PS 1, PS 2, AND APA FORM L334&quot;" target="&quot;WOOD SUBSTRATES AND EXTERIOR PANEL TYPE UNDERLAYMENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"These standards and forms provide guidelines for the preparation and installation of wood substrates and exterior panel type underlayment."</data>
+      <data key="d5">"standards, guidelines"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;ADHESIVE&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Adhesive is used to bond the resilient flooring to the substrate, ensuring proper adhesion and installation."&lt;SEP&gt;"Adhesive is used to bond the resilient flooring to the substrate, requiring proper set-up time and application."</data>
+      <data key="d5">"bonding, installation"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25&lt;SEP&gt;chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;EXPANSION JOINTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Expansion joints must be properly located and installed to accommodate movement in the resilient flooring."</data>
+      <data key="d5">"movement, installation"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;COVED BASE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Coved Base is installed at the floor to wall junction, extending the sheet flooring vertically."</data>
+      <data key="d5">"installation, junction"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;HAND ROLLER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Hand Roller is used to roll the seam area of the resilient flooring to ensure proper adhesion."</data>
+      <data key="d5">"tool, adhesion"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;THREE-SECTION ROLLER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Three-Section Roller is used to roll the resilient flooring in both directions, overlapping the previous rolled area."</data>
+      <data key="d5">"tool, adhesion"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;FOOT TRAFFIC&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Foot Traffic is restricted for 12 hours before and after installation to allow proper set-up time for the resilient flooring."</data>
+      <data key="d5">"restriction, protection"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;RESILIENT FLOORING&quot;" target="&quot;ROLLING TRAFFIC&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Rolling Traffic is restricted for 48 hours after installation to prevent damage to the resilient flooring."</data>
+      <data key="d5">"restriction, protection"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;ADHESIVE&quot;" target="&quot;SPRAY-APPLIED ADHESIVE METHOD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"This method involves applying adhesive to the substrate before laying the resilient flooring, following specific guidelines."</data>
+      <data key="d5">"application, method"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;ADHESIVE&quot;" target="&quot;TROWEL ADHESIVE METHOD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"This method involves using a trowel to apply adhesive to the substrate, ensuring a smooth and complete installation."</data>
+      <data key="d5">"application, method"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;CONTROL JOINTS&quot;" target="&quot;CONCRETE SUBSTRATE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Control joints are used to manage cracking in the concrete substrate and must be properly located and installed."</data>
+      <data key="d5">"cracking, management"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;CONTRACTION JOINTS&quot;" target="&quot;CONCRETE SUBSTRATE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Contraction joints manage the contraction of the concrete substrate and must be properly located and installed."</data>
+      <data key="d5">"contraction, management"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;ISOLATION JOINTS&quot;" target="&quot;CONCRETE SUBSTRATE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Isolation joints separate different sections of the concrete substrate and must be properly located and installed."</data>
+      <data key="d5">"separation, management"</data>
+      <data key="d6">chunk-17ea3d54d8b9a5cff4fa823730c57f25</data>
+    </edge>
+    <edge source="&quot;COVED BASE&quot;" target="&quot;METAL CAP STRIP&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Metal Cap Strip is used to cover the top edge of the vertically extended sheet flooring at the coved base."</data>
+      <data key="d5">"covering, protection"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;PREMOLDED UNITS&quot;" target="&quot;RESILIENT BASE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Premolded Units are used at external corners and exposed ends of the resilient base to ensure a proper fit."</data>
+      <data key="d5">"fitting, installation"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+    <edge source="&quot;SUBSTANTIAL COMPLETION&quot;" target="&quot;INITIAL OCCUPANCY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Substantial Completion is the stage when the work is sufficiently complete for the owner to occupy or utilize the space."</data>
+      <data key="d5">"completion, occupancy"</data>
+      <data key="d6">chunk-e44f87a5257700e66e210d4874171154</data>
+    </edge>
+  </graph>
+</graphml>

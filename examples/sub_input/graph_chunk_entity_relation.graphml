@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DEW CONSTRUCTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DEW Construction is the company responsible for the construction work at Charlotte Central School, specifically for Phase 2 Improvements."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Charlotte Central School is the institution undergoing Phase 2 Improvements as part of a construction project."&lt;SEP&gt;"Charlotte Central School is the institution undergoing Phase 2 Improvements, as mentioned in the document."&lt;SEP&gt;"Charlotte Central School is the location where Phase 2 Improvements are being carried out by DEW Construction."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-06e83776d9c437d9fd26a5f9c679cdb4&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American Society of Civil Engineers (ASCE) is a professional body that provides standards such as ASCE 7 for building design loads."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;ASTM INTERNATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM International is an organization that develops and publishes technical standards for a wide range of materials, products, systems, and services, including those for acoustical ceilings."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;UNDERWRITERS LABORATORIES (UL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Underwriters Laboratories (UL) is a global safety certification company that provides standards like the Fire Resistance Directory (FRD) for building materials."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;U.S. DEPARTMENT OF AGRICULTURE (USDA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Department of Agriculture (USDA) is a federal agency that provides various standards and guidelines, referenced in construction projects."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;ARMSTRONG WORLD INDUSTRIES, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Armstrong World Industries, Inc. is a manufacturer of acoustic tiles and panels, providing products for the construction project."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CertainTeed Corporation is a manufacturer of building materials, including acoustic tiles and panels, used in the construction project."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;USG CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USG Corporation is a manufacturer of building materials, including acoustic tiles and panels, used in the construction project."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;VERMONT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vermont is the state where the professional structural engineer must be licensed to sign and seal the design for the intermediate support framing system."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;PROFESSIONAL STRUCTURAL ENGINEER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Professional Structural Engineer is responsible for signing and sealing the design for the intermediate support framing system, and must be licensed in the state of Vermont."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;OWNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Owner is the entity that will receive maintenance materials and warranties for the project upon completion."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;ARCHITECT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Architect is responsible for accepting system materials from one manufacturer for the entire project, unless otherwise acceptable."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Awarding Authority is responsible for accepting other manufacturers' products as equal to the specified products in terms of construction, quality, durability, performance, and appearance."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;MANUFACTURER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Manufacturer provides the materials and issues warranties for the acoustical ceiling system upon completion of the work."</data>
+      <data key="d2">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </node>
+    <node id="&quot;ARMSTRONG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Armstrong is the manufacturer of the Prelude tee suspension system, which is specified as the basis of design for the project."&lt;SEP&gt;"Armstrong is the manufacturer of various acoustical products mentioned in the document, such as Calla, Ultima, and Ceramaguard Fine Fissured."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;UL (FRD)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL (FRD) is an organization that lists and classifies complete assemblies for fire resistance."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM (American Society for Testing and Materials) is an international standards organization whose standards are referenced for testing and installation procedures."&lt;SEP&gt;"ASTM is an international standards organization that develops and publishes technical standards for a wide range of materials and products, including acoustical units and suspension systems."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;IBC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"IBC (International Building Code) is a set of codes that provide minimum requirements to safeguard the public health, safety, and general welfare."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;MSBC (780 CMR)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MSBC (Massachusetts State Building Code) is a set of regulations that govern building construction in Massachusetts."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASCE 7&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASCE 7 is a standard referenced for the installation of the suspension system, ensuring structural integrity and safety."&lt;SEP&gt;"ASCE 7 is a standard that provides requirements for general structural design and includes means for determining loads and other forces."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;CHARLOTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte is the geographical location where the Central School is situated and undergoing improvements."&lt;SEP&gt;"Charlotte is the geographical location where the Charlotte Central School is situated."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM E119&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM E119 is a standard test method for determining the fire-resistance rating of building elements."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM E84&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM E84 is a standard test method for surface burning characteristics of building materials."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM E1264&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM E1264 is a standard classification for acoustical ceiling products."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM C635&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM C635 is a standard specification for the manufacture, performance, and testing of metal suspension systems for acoustical tile and lay-in panel ceilings."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ASTM C635M&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM C635M is the metric version of ASTM C635, specifying standards for metal suspension systems for acoustical ceilings."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;CALLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Calla is a product line of painted mineral fiber acoustical tiles manufactured by Armstrong."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ULTIMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ultima is a product line of painted mineral fiber acoustical panels manufactured by Armstrong."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;CERAMAGUARD FINE FISSURED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ceramaguard Fine Fissured is a product line of painted mineral fiber acoustical panels manufactured by Armstrong."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;PRELUDE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Prelude is a product line of tee suspension systems for acoustical ceilings manufactured by Armstrong."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Phase 2 Improvements refer to the ongoing construction and enhancement activities at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refer to the ongoing construction and renovation activities at Charlotte Central School."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;BID SET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Bid Set refers to the set of documents and drawings provided for bidding on the construction project at Charlotte Central School."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;STRUCTURAL DRAWINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Structural Drawings are part of the construction documentation for the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Acoustical Ceilings refer to the installation of acoustical units and suspended metal grid ceiling systems as part of the construction project."</data>
+      <data key="d2">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </node>
+    <node id="&quot;USG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USG is a company mentioned as a provider of prefinished aluminum Compasso edge trim, used in the project."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;ASCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASCE (American Society of Civil Engineers) is an organization whose standards are referenced for the installation of the suspension system."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;UL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL (Underwriters Laboratories) is a global safety certification company whose design numbers are referenced for roof/ceiling assembly."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;PRELUDE TEE SUSPENSION SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Prelude tee suspension system is a product by Armstrong, specified as the basis of design for the project."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;EXTRUDED ALUMINUM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Extruded aluminum is used for the exposed suspension system in the project."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;GALVANIZED STEEL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Galvanized steel is used for support channels, hangers, and hanger wire in the project."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;COMPASSO EDGE TRIM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Compasso edge trim by USG is used for acoustic ceiling clouds and ceiling height transitions."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gypsum Board is a fire-rated type used in the project, specified to be 5/8 inch thick with square ends and edges."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;TOUCH-UP PAINT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Touch-up Paint is used to match the acoustical and grid units in the project."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;ASTM C635/C635M&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASTM C635/C635M is a standard for testing the structural classification of the suspension system."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;ASTM C636/C636M&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASTM C636/C636M is a standard for the installation of the suspension system."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;ASTM E580/E580M&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASTM E580/E580M is a standard for the installation of the suspension system, particularly for seismic requirements."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;UL (FRD) DESIGN NUMBER&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"UL (FRD) Design Number is referenced for the roof/ceiling assembly, ensuring compliance with safety and fire-rated requirements."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;QUALITY REQUIREMENTS&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"Quality Requirements per Section 01 40 00 are referenced for the examination and acceptance of conditions before installation."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"Construction Waste Management and Disposal per Section 01 74 19 is referenced for cleaning requirements after installation."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;SUBSTANTIAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Substantial Completion is the date by which the installed work must be protected from subsequent construction operations."</data>
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </node>
+    <node id="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"ASTM standards are referenced for the installation of the suspension system, ensuring compliance with quality and safety requirements."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ROOF/CEILING ASSEMBLY&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"UL design numbers are referenced for the roof/ceiling assembly, ensuring compliance with safety and fire-rated requirements."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SUPPORT CHANNELS AND HANGERS&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Galvanized steel is used for support channels and hangers in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FIRE-RATED ASSEMBLY&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Gypsum Board is specified as a fire-rated type for the project, ensuring safety compliance."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ACOUSTICAL AND GRID UNITS&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Touch-up Paint is used to match the acoustical and grid units in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SUSPENSION SYSTEM TESTING&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"ASTM C635/C635M is a standard for testing the structural classification of the suspension system."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EXAMINATION AND ACCEPTANCE&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Quality Requirements per Section 01 40 00 are referenced for the examination and acceptance of conditions before installation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLEANING REQUIREMENTS&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Construction Waste Management and Disposal per Section 01 74 19 is referenced for cleaning requirements after installation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;INSTALLED WORK PROTECTION&quot;">
+      <data key="d2">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+      <data key="d1">"Substantial Completion is the date by which the installed work must be protected from subsequent construction operations."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"DEW Construction is responsible for the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"construction project, location"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction follows standards set by the American Society of Civil Engineers (ASCE) for building design loads."</data>
+      <data key="d5">"compliance, standards"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;ASTM INTERNATIONAL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction adheres to various ASTM International standards for the installation and performance of acoustical ceilings."</data>
+      <data key="d5">"compliance, standards"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;UNDERWRITERS LABORATORIES (UL)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction uses standards from Underwriters Laboratories (UL) for fire resistance in building materials."</data>
+      <data key="d5">"compliance, safety standards"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;U.S. DEPARTMENT OF AGRICULTURE (USDA)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction references standards from the U.S. Department of Agriculture (USDA) in their construction work."</data>
+      <data key="d5">"compliance, federal standards"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;ARMSTRONG WORLD INDUSTRIES, INC.&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction may use acoustic tiles and panels from Armstrong World Industries, Inc. for the project."</data>
+      <data key="d5">"supplier, materials"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction may use acoustic tiles and panels from CertainTeed Corporation for the project."</data>
+      <data key="d5">"supplier, materials"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;USG CORPORATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction may use acoustic tiles and panels from USG Corporation for the project."</data>
+      <data key="d5">"supplier, materials"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;PROFESSIONAL STRUCTURAL ENGINEER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction requires the design for the intermediate support framing system to be signed and sealed by a Professional Structural Engineer licensed in Vermont."</data>
+      <data key="d5">"design approval, licensing"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;OWNER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"DEW Construction will provide maintenance materials and warranties to the Owner upon project completion."</data>
+      <data key="d5">"project completion, maintenance"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;ARCHITECT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction must get system materials approved by the Architect unless otherwise acceptable."</data>
+      <data key="d5">"material approval, project compliance"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction may submit other manufacturers' products to the Awarding Authority for acceptance as equal to the specified products."</data>
+      <data key="d5">"product approval, compliance"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;MANUFACTURER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"DEW Construction will receive materials and warranties from the Manufacturer for the acoustical ceiling system."</data>
+      <data key="d5">"material supply, warranty"</data>
+      <data key="d6">chunk-06e83776d9c437d9fd26a5f9c679cdb4</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ARMSTRONG&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School uses various acoustical products manufactured by Armstrong for its Phase 2 Improvements."</data>
+      <data key="d5">"product usage, construction materials"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;UL (FRD)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Charlotte Central School's fire-resistance rating is determined by assemblies listed and classified by UL (FRD)."</data>
+      <data key="d5">"fire safety, compliance"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Charlotte Central School's acoustical units and suspension systems comply with ASTM standards."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;IBC&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School's construction complies with the International Building Code (IBC)."</data>
+      <data key="d5">"regulatory compliance, safety standards"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;MSBC (780 CMR)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School's construction complies with the Massachusetts State Building Code (MSBC)."</data>
+      <data key="d5">"regulatory compliance, safety standards"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ASCE 7&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School's construction complies with ASCE 7 standards for structural design."</data>
+      <data key="d5">"structural integrity, safety standards"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Charlotte Central School is undergoing Phase 2 Improvements as part of its construction and renovation activities."&lt;SEP&gt;"Charlotte Central School is undergoing Phase 2 Improvements as part of its development and enhancement activities."</data>
+      <data key="d5">"construction, development"&lt;SEP&gt;"construction, renovation"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28&lt;SEP&gt;chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Armstrong manufactures the acoustical units and suspension systems used in the Acoustical Ceilings installation."</data>
+      <data key="d5">"product usage, acoustical systems"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;CALLA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Calla is a product line of acoustical tiles manufactured by Armstrong."</data>
+      <data key="d5">"product line, manufacturer"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;ULTIMA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Ultima is a product line of acoustical panels manufactured by Armstrong."</data>
+      <data key="d5">"product line, manufacturer"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;CERAMAGUARD FINE FISSURED&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Ceramaguard Fine Fissured is a product line of acoustical panels manufactured by Armstrong."</data>
+      <data key="d5">"product line, manufacturer"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;PRELUDE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Prelude is a product line of tee suspension systems manufactured by Armstrong."</data>
+      <data key="d5">"product line, manufacturer"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ARMSTRONG&quot;" target="&quot;PRELUDE TEE SUSPENSION SYSTEM&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Armstrong is the manufacturer of the Prelude tee suspension system, which is specified as the basis of design for the project."&lt;SEP&gt;"The Prelude tee suspension system is a product manufactured by Armstrong, specified as the basis of design for the project."</data>
+      <data key="d5">"product specification, manufacturing"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM standards are referenced for the installation of the suspension system, ensuring compliance with quality and safety requirements."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASCE 7&quot;" target="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASCE 7 is a standard referenced for the installation of the suspension system, ensuring structural integrity and safety."</data>
+      <data key="d5">"standards compliance, structural integrity"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASTM E119&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The fire-resistance rating of the acoustical ceiling systems is determined in accordance with ASTM E119."</data>
+      <data key="d5">"fire safety, testing standards"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ASTM E84&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The acoustical units for the Acoustical Ceilings are tested for flame spread and smoke development in accordance with ASTM E84."</data>
+      <data key="d5">"fire safety, testing standards"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ASTM E1264&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The acoustical units and suspension systems for the Acoustical Ceilings comply with ASTM E1264 standards."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ASTM C635&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The suspension systems for the Acoustical Ceilings comply with ASTM C635 standards."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;ASTM C635M&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The suspension systems for the Acoustical Ceilings comply with ASTM C635M standards."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;BID SET&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Bid Set contains the documents and drawings necessary for contractors to bid on the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"bidding process, documentation"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;STRUCTURAL DRAWINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Structural Drawings are part of the documentation for the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"construction documentation, structural integrity"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;ACOUSTICAL CEILINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Acoustical Ceilings are being installed as part of the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"installation, acoustical systems"</data>
+      <data key="d6">chunk-ea135fe8e8b294954afc0a833b0b8891</data>
+    </edge>
+    <edge source="&quot;USG&quot;" target="&quot;COMPASSO EDGE TRIM&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Compasso edge trim by USG is used for acoustic ceiling clouds and ceiling height transitions in the project."&lt;SEP&gt;"USG provides the Compasso edge trim, which is used in the project for ceiling height transitions and acoustic ceiling clouds."</data>
+      <data key="d5">"product usage, construction materials"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASCE&quot;" target="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASCE standards are referenced for the installation of the suspension system, ensuring structural integrity and safety."</data>
+      <data key="d5">"standards compliance, structural integrity"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;ROOF/CEILING ASSEMBLY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"UL design numbers are referenced for the roof/ceiling assembly, ensuring compliance with safety and fire-rated requirements."</data>
+      <data key="d5">"safety compliance, fire-rated assembly"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;GALVANIZED STEEL&quot;" target="&quot;SUPPORT CHANNELS AND HANGERS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Galvanized steel is used for support channels and hangers in the project."</data>
+      <data key="d5">"material usage, construction"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;FIRE-RATED ASSEMBLY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gypsum Board is specified as a fire-rated type for the project, ensuring safety compliance."</data>
+      <data key="d5">"safety compliance, construction materials"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;TOUCH-UP PAINT&quot;" target="&quot;ACOUSTICAL AND GRID UNITS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Touch-up Paint is used to match the acoustical and grid units in the project."</data>
+      <data key="d5">"aesthetic matching, construction materials"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASTM C635/C635M&quot;" target="&quot;SUSPENSION SYSTEM TESTING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C635/C635M is a standard for testing the structural classification of the suspension system."</data>
+      <data key="d5">"standards compliance, structural testing"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASTM C636/C636M&quot;" target="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C636/C636M is a standard for the installation of the suspension system."</data>
+      <data key="d5">"standards compliance, installation procedures"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;ASTM E580/E580M&quot;" target="&quot;SUSPENSION SYSTEM INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM E580/E580M is a standard for the installation of the suspension system, particularly for seismic requirements."</data>
+      <data key="d5">"standards compliance, seismic requirements"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;UL (FRD) DESIGN NUMBER&quot;" target="&quot;ROOF/CEILING ASSEMBLY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"UL (FRD) Design Number is referenced for the roof/ceiling assembly, ensuring compliance with safety and fire-rated requirements."</data>
+      <data key="d5">"safety compliance, fire-rated assembly"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;QUALITY REQUIREMENTS&quot;" target="&quot;EXAMINATION AND ACCEPTANCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Quality Requirements per Section 01 40 00 are referenced for the examination and acceptance of conditions before installation."</data>
+      <data key="d5">"standards compliance, quality assurance"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;" target="&quot;CLEANING REQUIREMENTS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Construction Waste Management and Disposal per Section 01 74 19 is referenced for cleaning requirements after installation."</data>
+      <data key="d5">"standards compliance, waste management"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+    <edge source="&quot;SUBSTANTIAL COMPLETION&quot;" target="&quot;INSTALLED WORK PROTECTION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Substantial Completion is the date by which the installed work must be protected from subsequent construction operations."</data>
+      <data key="d5">"project timeline, construction protection"</data>
+      <data key="d6">chunk-7aab6ccc415e5b710c837db78da1ba28</data>
+    </edge>
+  </graph>
+</graphml>
