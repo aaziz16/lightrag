@@ -1,0 +1,321 @@
+---- Page 1 ----
+Cost #
+Conformed Construction Set
+Received_03/10/23
+DEW CONSTRUCTION
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+Job #
+1036
+SECTION 09 51 00
+ACOUSTICAL CEILINGS
+PART 1 GENERAL
+1.01
+SECTION INCLUDES
+A. Furnishing, delivering, erecting and installing the following work:
+1. Suspended metal grid ceiling system.
+2. Acoustical units.
+3. Supplementary insulation above ceiling.
+4. Trim, perimeter pockets, and other accessories required for a complete installation.
+1.02
+REFERENCE STANDARDS
+A. Editions of listed standards as referenced by applicable codes, or most current edition if not
+referenced:
+1. ASCE. American Society of Civil Engineers; www.asce.org.
+a. ASCE 7 - Minimum Design Loads and Associated Criteria for Buildings and Other
+Structures.
+2. ASTM. ASTM International; www.astm.org.
+a. ASTM C635/C635M - Standard Specification for Manufacture, Performance, and Testing
+of Metal Suspension Systems for Acoustical Tile and Lay-in Panel Ceilings.
+b. ASTM C636/C636M - Standard Practice for Installation of Metal Ceiling Suspension
+Systems for Acoustical Tile and Lay-In Panels.
+c. ASTM E119 - Standard Test Methods for Fire Tests of Building Construction and
+Materials.
+d. ASTM E119 - Standard Test Methods for Fire Tests of Building Construction and
+Materials.
+e. ASTM E580/E580M - Standard Practice for Installation of Ceiling Suspension Systems
+for Acoustical Tile and Lay-in Panels in Areas Subject to Earthquake Ground Motions.
+f.
+ASTM E1264 - Standard Classification for Acoustical Ceiling Products.
+g. ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials.
+3. UL. Underwriters Laboratories; www.ul.com.
+a. UL (FRD) - Fire Resistance Directory.
+4. USDA. U.S. Department of Agriculture; www.usda.gov.
+1.03
+ADMINISTRATIVE REQUIREMENTS
+A. Scheduling per Section 01 32 16 - Construction Progress Schedule, and as follows:
+1. Sequence work to ensure acoustical ceilings are not installed until building is enclosed,
+sufficient heat is provided, dust generating activities have terminated, and overhead work is
+completed, tested, and approved.
+2. Do not install acoustical units until after interior wet work is dry.
+1.04
+SUBMITTALS
+A. See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B. Construction Submittals
+1. Shop Drawings: Indicate grid layout and related dimensioning, junctions with other ceiling
+finishes, mechanical and electrical items installed in the ceiling, and seismic braces,
+compression resistant hangers, and other ceiling mounted equipment or devices. Indicate
+cut tile locations and working points within each space.
+Acoustical Ceilings
+09 51 00 - 1
+---- Page 2 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+2. Product Data: Submit manufacturer's printed product literature including products standards,
+acoustical tile materials, suspension system components, finishes, installation instructions,
+use limitations, and recommendations.
+3. Samples: Submit two samples 6 by 6 inch in size illustrating material and finish of acoustical
+units.
+4. Samples: Submit two samples each, 12 inches long, of suspension system main runner,
+cross runner, and perimeter molding.
+5. Engineering Data: Provide engineering data and shop drawings for intermediate support
+framing system for cafeteria "cloud" ceilings. Document loads on roof framing, fastening
+points, and types of anchorage and connectors. Design shall be signed and sealed by the
+professional structural engineer licensed in the state of Vermont.
+C. Closeout Submittals
+1. Submit in accordance with Section 01 70 00 - Execution and Closeout Requirements and
+Section 01 78 00 - Closeout Submittals.
+2. Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+a. See Section 01 60 00 - Product Requirements, for additional provisions.
+b. Extra Acoustical Units: Quantity equal to 5 percent of total installed.
+1.05
+QUALITY ASSURANCE
+A. Installer Qualifications: Company with a minimum of three years experience specializing in work
+of the type required by this Section.
+B. Single Source Responsibility: Furnish system materials from one manufacturer for entire Project,
+unless otherwise acceptable to Architect.
+1.06
+WARRANTY
+A. See Section 01 78 00 - Closeout Submittals, for additional warranty requirements and submittal
+instructions and the following:
+1. Materials and Workmanship Warranties: Provide 10 year panel / 15 year system, and 10
+year / lifetime system warranty (depending on tile specified) warranties, issued by the
+manufacturer upon completion of the work and beginning on the date of Substantial
+Completion.
+PART 2 PRODUCTS
+2.01
+MANUFACTURERS
+A. Acoustic Tiles/Panels: Subject to compliance with requirements of these Specifications, provide
+equivalent product from one of the following manufacturers, except where otherwise noted for
+specific ceiling types below:
+1. Armstrong World Industries, Inc: www.armstrongceilings.com.
+2. CertainTeed Corporation: www.certainteed.com.
+3. USG Corporation: www.usg.com/ceilings.
+4. Other manufacturer's products accepted by the Awarding Authority as equal to the specified
+products in terms of construction, quality, durability, performance, and or appearance.
+Submit as substitutions: see Section 01 25 00 - Substitution Procedures
+2.02
+PERFORMANCE REQUIREMENTS
+A. Fire-Resistance Rating: Determined in accordance with test procedures in ASTM E119 and
+complying with the following:
+1. Complete assembly listed and classified by UL (FRD) for the fire resistance indicated.
+2.03
+ACOUSTICAL UNITS AND SUSPENDED METAL GRID CEILING SYSTEMS
+A. Regulatory Requirements:
+1. Acoustical materials and suspension systems shall be installed in accordance with the
+manufacturer's recommendations and in compliance with seismic category as indicated on
+Acoustical Ceilings
+09 51 00 - 2
+---- Page 3 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+Structural Drawings.
+2. Acoustical materials and suspension systems shall be installed in accordance with the IBC,
+MSBC (780 CMR).
+3. Acoustical materials and suspension systems shall be installed in accordance with ASCE 7.
+4. Rate acoustical ceiling systems, indicated as fire resistant, for fire endurance as specified
+when tested in accordance with ASTM E119.
+5. Provide acoustical units with a flame spread of 25 or less and smoke development of 50 or
+less when tested in accordance with ASTM E84, Class 1.
+B. Acoustical Units - General: ASTM E1264, Class A.
+C. Performance / Design Criteria:
+1. Design Components to ensure light fixtures will not induce eccentric loads. Where
+components may induce rotation of ceiling system components, providing stabilizing
+reinforcement.
+2. Installed Ceiling System:
+a. Exhibit maximum deflection of 1/360 of span.
+2.04
+MATERIALS - ACOUSTICAL UNITS
+A. Acoustical Tile Type ACP1: Painted mineral fiber, ASTM E1264 Type III, with the following
+characteristics:
+1. Size: 24 by 48 inches .
+2. Thickness: 1 inches.
+3. Composition: Water felted.
+4. Light Reflectance: . 85 percent, determined in accordance with ASTM E1264.
+5. NRC: . 85, determined in accordance with ASTM E1264.
+6. Ceiling Attenuation Class (CAC): . 35, determined in accordance with ASTM E1264.
+7. Edge: Square lay-in.
+8. Surface Color: White.
+9. Surface Pattern: Fine textured.
+10. Basis-of Design Product: Calla by Armstrong.
+B. Acoustical Tile Type ACP1A: Painted mineral fiber, ASTM E1264 Type III, with to the following
+characteristics:
+1. Same as ACP1, except size is 24 by 24 inches.
+C. Acoustical Panels Type ACP2: Painted mineral fiber, ASTM E1264 Type IV, with the following
+characteristics:
+1. Size: 24 by 48 inches.
+AD2.2.01.04 Project Manual, section 09 51 00 ACOUSTICAL CEILINGS,
+2. Thickness: 3/4 inches.
+1. Same as ACP2, except size is 24 by 24 inches
+ASTM E1264 Type IV, with the following characteristics:
+D. Acoustical Panels Type ACP2A: Painted mineral fiber,
+After Acoustical Panels Type ACP2 section 2.04-C add
+3.
+Composition: Wet felted.
+4.
+Light Reflectance: . 90 percent, determined in accordance with ASTM E1264.
+Renumber subsequent subparagraphs accordingly.
+5.
+NRC: 00 determined in accordance with ASTM E1264.
+6. (NRC: . 85, determined as specified in ASTM E1264.1/2.2
+7.
+Ceiling Attenuation Class (CAC): 0.35, determined in accordance with ASTM E1264.
+8. Edge: Square lay-in.
+9. Surface Color: White.
+10. Surface Pattern: Fine textured.
+2.2
+11. Basis-of Design Product Ultima ?by Armstrong.
+D. Acoustical Panels Type ACP5: painted mineral fiber ASTM E1264 Type XX with the following
+characteristics:
+1. Size: 24 by 48 inches.
+Acoustical Ceilings
+09 51 00 - 3
+---- Page 4 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+2. Thickness: 5/8-inch
+3. Composition: Water-felted, ceramic bonded
+4. Light Reflectance: . 82 percent, determined as specified in ASTM E1264.
+5. NRC: . 55, determined as specified in ASTM E1264
+6. Ceiling Attenuation Class (CAC): 40, determined as specified in ASTM E1264.
+7. Panel Edge: Square lay-in.
+8. Surface Pattern: Smooth.
+9. Surface Color: White.
+10. Basis-of Design Product: Ceramaguard Fine Fissured by Armstrong.
+2.05
+SUSPENSION SYSTEM(S)
+A. Manufacturers:
+1. Same as for acoustical units.
+2. Other manufacturer's products accepted by the Awarding Authority as equal to the specified
+products in terms of construction, quality, durability, performance, and or appearance.
+Submit as substitutions: see Section 01 25 00 - Substitution Procedures.
+B. Suspension Systems - General: ASTM C635; die cut and interlocking components, with
+stabilizer bars, clips, splices, perimeter moldings, and hold down clips as necessitated by the
+work.
+C. Exposed Suspension System: Formed steel, commercial quality cold rolled.
+1. Structural Classification: Heavy-duty, when tested in accordance with ASTM C635/C635M.
+2. Profile: Tee; 15/16 inch face width.
+3. Finish: Baked enamel.
+4. Color: White.
+5. Basis of Design Product: Prelude tee suspension system, by Armstrong
+D. Exposed Suspension System: Extruded aluminum.
+1. Application(s): Wet areas.
+2. Structural Classification: Light-duty, when tested in accordance with ASTM C635/C635M.
+3. Profile: Tee; 15/16 inch face width.
+4.
+Construction: Double web.
+5. Finish: Baked enamel.
+6. Color: White.
+7. Basis of Design: Prelude, by Armstrong.
+2.06
+ACCESSORIES
+A. Support Channels and Hangers: Galvanized steel; size and type to suit application, seismic
+requirements, and ceiling system flatness requirement specified.
+B. Hanger Wire: 12 gauge, 0.08 inch galvanized steel wire.
+C. Perimeter Moldings: Same metal and finish as grid.
+1. At Exposed Grid: Angle molding: L-shaped, for mounting at same elevation as face of grid.
+2. At Acoustic Ceiling Clouds and where indicated on drawings: Prefinished aluminum
+Compasso edge trim by USG, or an Architect-acceptable equivalent.
+3. At celing height transitions in sizes and location indicated on Drawings: Compasso by USG,
+or an Architect-acceptable equivalent.
+D. Gypsum Board: Fire rated type; 5/8 inch thick, ends and edges square, paper faced.
+E. Touch-up Paint: Type and color to match acoustical and grid units.
+Acoustical Ceilings
+09 51 00 - 4
+---- Page 5 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+PART 3 EXECUTION
+3.01
+EXAMINATION
+A. Examination and Acceptance of Conditions per Section 01 40 00 - Quality Requirements, and as
+follows:
+1. Carefully examine installation areas with Installer present, for compliance with requirements
+affecting work performance.
+a. Verify that field measurements, substrates, structural support, utility connections,
+tolerances, levelness, plumbness, humidity, moisture content level, cleanliness and
+other conditions are ready to receive work.
+b. Verify that layout of hangers will not interfere with other work.
+2. Proceed with installation only after unsatisfactory conditions have been corrected.
+3.02
+INSTALLATION - SUSPENSION SYSTEM
+A. General: Install suspension system in accordance with ASTM C636/C636M, ASTM
+E580/E580M, and manufacturer's instructions, ASCE 7, Drawings and as follows:
+1. Install acoustical materials and suspension systems in accordance with UL (FRD) Design
+Number for roof/ceiling assembly indicated on Drawings.
+2. Rigidly secure system, including integral mechanical and electrical components, for
+maximum deflection of 1:360.
+a. Provide seismic bracing with diagonal wire hangers at each room exceeding 750 SF and
+as made necessary by building codes.
+b. Locate system on room axis according to reflected plan.
+c. Perimeter Molding: Install at intersection of ceiling and vertical surfaces and at junctions
+with other interruptions.
+1) Use longest practical lengths.
+2) Overlap and rivet corners.
+3. Install after major above-ceiling work is complete. Coordinate the location of hangers with
+other work.
+4. Provide hanger clips during steel deck erection. Provide additional hangers and inserts.
+5. Suspension System, Non-Seismic: Hang suspension system independent of walls, columns,
+ducts, pipes and conduit. Where carrying members are spliced, avoid visible displacement
+of face plane of adjacent members.
+6. Where ducts or other equipment prevent the regular spacing of hangers, reinforce the
+nearest affected hangers and related carrying channels to span the extra distance.
+7. Do not support components on main runners or cross runners if weight causes total dead
+load to exceed deflection capability.
+8. Support fixture loads using supplementary hangers located within 6 inches of each corner, or
+support components independently.
+9. Do not eccentrically load system or induce rotation of runners.
+10. Install light fixture boxes constructed of gypsum board above light fixtures in accordance with
+fire rated assembly requirements and light fixture ventilation requirements.
+11. Design and install intermediate steel support system to span between roof framing and
+provide suspension points coordinated with acoustical ceiling cloud configurations.
+3.03
+INSTALLATION - ACOUSTICAL UNITS
+A. General: Install suspension system in accordance with ASTM C636/C636M, ASTM
+E580/E580M, and manufacturer's instructions, ASCE 7, Drawings and as follows:
+1. Install acoustical materials and suspension systems in accordance with UL (FRD) Design
+Number for roof/ceiling assembly indicated on Drawings.
+Acoustical Ceilings
+09 51 00 - 5
+---- Page 6 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+2. Fit acoustical units in place, free from damaged edges or other defects detrimental to
+appearance and function.
+3. Fit border trim neatly against abutting surfaces.
+4. Install acoustical units level, in uniform plane, and free from twist, warp, and dents.
+5. Cutting Acoustical Units:
+a. Cut to fit irregular grid and perimeter edge trim.
+b. Make field cut edges of same profile as factory edges.
+c. Double cut and field paint exposed reveal edges.
+6. Install hold-down clips on panels within 20 ft of an exterior door.
+7. Locate ceiling access panels directly under the items that require access, and as indicated.
+3.04
+FIELD QUALITY CONTROL
+A. See Section 01 40 00 - Quality Requirements, for additional requirements.
+B. Remove, repair and reinstall or restore in place damaged items prior to inspection for Substantial
+Completion.
+1. Replace damaged materials and components with new if repair not acceptable to Architect.
+3.05
+CLEANING
+A. Comply with requirements of Section 01 74 19 - Construction Waste Management and Disposal.
+B. Following installation, clean dirty discolored surfaces of acoustical units and leave them free of
+defects.
+3.06
+PROTECTION
+A. Protect installed work from subsequent construction operations until date of Substantial
+Completion or Owner occupancy, whichever occurs first.
+END OF SECTION
+Acoustical Ceilings
+09 51 00 - 6

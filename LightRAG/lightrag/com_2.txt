@@ -1,0 +1,136 @@
+Step 1-3 Results for Specification Document
+Step 1: Extract Numbered Items Under "SECTION INCLUDES"
+The section titled "SECTION INCLUDES" contains the following numbered items:
+
+Resilient sheet flooring.
+Resilient base.
+Step 2: Identify Aliases for Key Products
+Based on the extracted items, the key products are:
+
+Resilient sheet flooring
+Resilient base
+There are no aliases provided for these products in the "SECTION INCLUDES" portion of the document.
+
+Step 3: Verify and Update the List of Products and Aliases
+Since no aliases were identified in Step 2, there are no additional products or aliases to verify or add. The list remains as follows:
+
+Resilient sheet flooring
+Resilient base
+No products or aliases were excluded from the list.
+
+Step 4 Results for Specification Document
+Construction Materials Report
+1. Resilient Sheet Flooring
+Relevant Sections
+SECTION INCLUDES
+Resilient sheet flooring.
+INSTALLATION - SHEET FLOORING
+PREPARATION
+ACCESSORIES
+CLEANING
+PROTECTION
+Extracted Detailed Information
+SECTION INCLUDES
+Resilient sheet flooring.
+INSTALLATION - SHEET FLOORING
+General Installation Requirements:
+
+Lay out without adhesive, and reverse roll the resilient sheet flooring during the acclimation period.
+Fit joints and butt seams tightly.
+Lay flooring with tightly butted seams, unless recommended otherwise by the flooring manufacturer.
+Extend flooring into toe spaces, door reveals, closets, and similar openings.
+Scribe flooring to walls, columns, cabinets, floor outlets, and other appurtenances to produce tight joints.
+Do not saw-cut joints after installing resilient flooring.
+Use seam sealer as recommended by the manufacturer for specific flooring type.
+Roll the seam area using a hand roller.
+Roll the floor in both directions, with a 100 lb three-section roller overlapping the previous rolled area by 1/2 of the width of the roller.
+Press the flooring in place with a heavy roller to attain full adhesion.
+Adhesive Application Methods:
+
+Trowel Adhesive Method:
+Adhere resilient sheet flooring to substrates using a full spread of adhesive applied with a trowel.
+Spray-Applied Adhesive Method:
+Apply the adhesive from eight-12 inches (200mm to 300mm) above the substrate.
+Ensure proper bonding with instant shear strength.
+Seaming:
+
+Heat weld seams where indicated.
+Use a solid bead welding rod compatible with the flooring, produced by the flooring manufacturer.
+Cutting:
+
+Lay resilient sheet flooring starting at the marked centerline.
+Cut the sheet closely to the wall using a utility knife.
+PREPARATION
+Surface Preparation:
+Prepare substrates to ensure proper adhesion of the resilient flooring system.
+Verify that surfaces are flat to tolerances acceptable to the flooring manufacturer, free of cracks that might telegraph through flooring, clean, dry, and free of curing compounds, surface hardeners, and other chemicals that might interfere with bonding of flooring to substrate.
+Remove subfloor ridges and bumps. Fill minor low spots, cracks, joints, holes, and other defects with subfloor filler to achieve a smooth, flat, hard surface.
+Apply primer to prevent "bleed-through" or interference with adhesion by substances that cannot be removed.
+ACCESSORIES
+Seaming Materials:
+Type as recommended by the resilient flooring manufacturer for installation.
+Welding Rod:
+Solid bead in material compatible with flooring, produced by the flooring manufacturer for heat welding seams, and in color matching field color.
+Filler for Coved Base:
+Plastic.
+CLEANING
+General Cleaning Requirements:
+Remove excess adhesive from floor, base, and wall surfaces without damage.
+Clean, and provide initial preparation, maintenance, and other requirements, for initial occupancy, in accordance with the manufacturer's instructions.
+PROTECTION
+General Protection Requirements:
+Protect finished resilient flooring from construction traffic to ensure that it is without damage upon Date of Substantial Completion or Owner occupancy, whichever occurs first.
+Prohibit traffic on resilient flooring for 48 hours after installation, or for the time period indicated by the manufacturer.
+Keep furniture, fixtures, and rolling traffic off the floor for 48 hours.
+2. Resilient Base
+Relevant Sections
+SECTION INCLUDES
+2. Resilient base.
+INSTALLATION - RESILIENT BASE
+PREPARATION
+ACCESSORIES
+CLEANING
+PROTECTION
+Extracted Detailed Information
+SECTION INCLUDES
+Resilient base.
+INSTALLATION - RESILIENT BASE
+General Installation Requirements:
+
+Install base on solid backing. Bond tightly to wall and floor surfaces.
+Fit joints tightly and make vertical. Maintain a minimum dimension of 18 inches between joints.
+Miter internal corners. At external corners, use premolded units. At exposed ends, use premolded units.
+Scribe and fit to door frames and other interruptions.
+Extend resilient sheet flooring to the center of door openings.
+Install edge strips at unprotected or exposed edges, where flooring terminates, and where transitions to other flooring systems.
+Use a hand roller to roll the seam area during the installation of resilient sheet flooring.
+Height and Thickness:
+
+Height: Four inches.
+Thickness: 0.125 inch.
+Seaming:
+
+Heat weld seams where indicated.
+Use a solid bead welding rod compatible with the flooring, produced by the flooring manufacturer.
+PREPARATION
+Surface Preparation:
+Verify that wall surfaces are smooth and flat within the tolerances specified for that type of work, are dust-free, and are ready to receive resilient base.
+ACCESSORIES
+Seaming Materials:
+Type as recommended by the resilient flooring manufacturer for installation.
+Welding Rod:
+Solid bead in material compatible with flooring, produced by the flooring manufacturer for heat welding seams, and in color matching field color.
+Filler for Coved Base:
+Plastic.
+CLEANING
+General Cleaning Requirements:
+Remove excess adhesive from floor, base, and wall surfaces without damage.
+Clean, and provide initial preparation, maintenance, and other requirements, for initial occupancy, in accordance with the manufacturer's instructions.
+PROTECTION
+General Protection Requirements:
+Protect finished resilient flooring from construction traffic to ensure that it is without damage upon Date of Substantial Completion or Owner occupancy, whichever occurs first.
+Prohibit traffic on resilient flooring for 48 hours after installation, or for the time period indicated by the manufacturer.
+Keep furniture, fixtures, and rolling traffic off the floor for 48 hours.
+Notes:
+The extracted information is comprehensive and includes all necessary specifications and descriptions for each material.
+No ambiguities or missing data were identified in the provided text.

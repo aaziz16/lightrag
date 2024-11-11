@@ -1,0 +1,1914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DEW CONSTRUCTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DEW Construction is the company responsible for the construction work at Charlotte Central School, specifically for Phase 2 Improvements."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Charlotte Central School is an educational institution undergoing Phase 2 Improvements as part of a construction project."&lt;SEP&gt;"Charlotte Central School is an educational institution undergoing Phase 2 improvements as part of a construction project."&lt;SEP&gt;"Charlotte Central School is the institution undergoing Phase 2 Improvements as part of a construction project."&lt;SEP&gt;"Charlotte Central School is the institution undergoing Phase 2 Improvements as part of the construction project."&lt;SEP&gt;"Charlotte Central School is the location undergoing Phase 2 Improvements as mentioned in the text."&lt;SEP&gt;"Charlotte Central School is the location undergoing Phase 2 Improvements, as indicated in the document."&lt;SEP&gt;"Charlotte Central School is the location undergoing Phase 2 Improvements, which includes the installation of various types of gypsum board."&lt;SEP&gt;"Charlotte Central School is the location where Phase 2 Improvements are being carried out by DEW Construction."&lt;SEP&gt;"Charlotte Central School is the organization associated with the construction or renovation project described in the text."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c&lt;SEP&gt;chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-4ebe181d76d08cfcf602d7485db659ef&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-b625217386a257cac4fb0f37208910e0&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5&lt;SEP&gt;chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Phase 2 Improvements is a construction project aimed at enhancing the facilities of Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements is a construction project at Charlotte Central School involving the installation of gypsum board ceilings and other related work."&lt;SEP&gt;"Phase 2 Improvements is a construction project at Charlotte Central School, involving various tasks such as metal stud wall framing, gypsum ceiling suspension system, and more."&lt;SEP&gt;"Phase 2 Improvements is a construction project involving various tasks such as installing corner beads, edge trim, and joint treatment at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refer to the ongoing construction and enhancement activities at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing construction and enhancement project at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing construction and renovation activities at Charlotte Central School."&lt;SEP&gt;"Phase 2 Improvements refers to the ongoing construction or renovation project at Charlotte Central School."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c&lt;SEP&gt;chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-b625217386a257cac4fb0f37208910e0&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5&lt;SEP&gt;chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;AMERICAN IRON AND STEEL INSTITUTE (AISI)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American Iron and Steel Institute (AISI) is an organization that provides standards for the design of cold-formed steel structural members."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American National Standards Institute (ANSI) is an organization that provides national standards for various specifications, including those for cementitious backer units."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM INTERNATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM International is an organization that develops and publishes voluntary consensus technical standards for a wide range of materials, products, systems, and services."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;GYPSUM ASSOCIATION (GA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Gypsum Association (GA) is an organization that provides standards and guidelines for the application and finishing of gypsum panel products."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;UNDERWRITERS LABORATORIES (UL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Underwriters Laboratories (UL) is an organization that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;AISI S100&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"AISI S100 is a standard for the design of cold-formed steel structural members."&lt;SEP&gt;"AISI S100 is the North American Specification for the Design of Cold-Formed Steel Structural Members, provided by the American Iron and Steel Institute."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ANSI A108.11&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ANSI A108.11 is the American National Standard Specifications for Interior Installation of Cementitious Backer Units, provided by the American National Standards Institute."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ANSI A118.9&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ANSI A118.9 is the American National Standard Specifications for Test Methods and Specifications for Cementitious Backer Units, provided by the American National Standards Institute."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM A653/A653M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM A653/A653M is a standard specification for steel sheet, zinc-coated (galvanized) or zinc-iron alloy-coated (galvannealed) by the hot-dip process."&lt;SEP&gt;"ASTM A653/A653M is the Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process, provided by ASTM International."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM C645&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C645 is a standard specification for non-structural steel framing members."&lt;SEP&gt;"ASTM C645 is the Standard Specification for Nonstructural Steel Framing Members, provided by ASTM International."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM C665&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C665 is the Standard Specification for Mineral-Fiber Blanket Thermal Insulation for Light Frame Construction and Manufactured Housing, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM C754&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C754 is a standard specification for installation of steel framing members to receive screw-attached gypsum panel products."&lt;SEP&gt;"ASTM C754 is a standard specification for the installation of steel framing members for gypsum board construction."&lt;SEP&gt;"ASTM C754 is a standard specification for the installation of steel framing members to ensure proper construction and performance."&lt;SEP&gt;"ASTM C754 is the Standard Specification for Installation of Steel Framing Members to Receive Screw-Attached Gypsum Panel Products, provided by ASTM International."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3&lt;SEP&gt;chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;ASTM C840&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C840 is a standard published by ASTM International that defines levels of finish for gypsum board."&lt;SEP&gt;"ASTM C840 is a standard specification for the application and finishing of gypsum board."&lt;SEP&gt;"ASTM C840 is the Standard Specification for Application and Finishing of Gypsum Board, provided by ASTM International."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;ASTM C1047&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1047 is the Standard Specification for Accessories for Gypsum Wallboard and Gypsum Veneer Base, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM C1177/C1177M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1177/C1177M is the Standard Specification for Glass Mat Gypsum Substrate for Use as Sheathing, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM C1280&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1280 is a standard specification for exterior sheathing, which is referenced for compliance in the installation process."&lt;SEP&gt;"ASTM C1280 is the Standard Specification for Application of Exterior Gypsum Panel Products for Use as Sheathing, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;ASTM C1325&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1325 is a standard specification for non-gypsum-based cementitious backer units."&lt;SEP&gt;"ASTM C1325 is the Standard Specification for Fiber-Mat Reinforced Cementitious Backer Units, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;ASTM C1396/C1396M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1396/C1396M is a standard specification for gypsum board, defining the requirements for the material used in the project."&lt;SEP&gt;"ASTM C1396/C1396M is a standard specification for gypsum board."&lt;SEP&gt;"ASTM C1396/C1396M is the Standard Specification for Gypsum Board, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;ASTM C1658/C1658M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1658/C1658M is a standard specification for glass mat gypsum panels."&lt;SEP&gt;"ASTM C1658/C1658M is the Standard Specification for Glass Mat Gypsum Panels, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;ASTM D3273&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM D3273 is a standard test method for determining the resistance of gypsum board to mold growth, used to ensure mold-resistant properties."&lt;SEP&gt;"ASTM D3273 is a standard test method for determining the resistance of materials to mold growth."&lt;SEP&gt;"ASTM D3273 is the Standard Test Method for Resistance to Growth of Mold on the Surface of Interior Coatings in an Environmental Chamber, provided by ASTM International."</data>
+      <data key="d2">chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;ASTM E90&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E90 is a standard test method for laboratory measurement of airborne sound transmission loss of building partitions and elements."&lt;SEP&gt;"ASTM E90 is the Standard Test Method for Laboratory Measurement of Airborne Sound Transmission Loss of Building Partitions and Elements, provided by ASTM International."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM E413&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E413 is a standard classification for rating sound insulation, developed by ASTM."&lt;SEP&gt;"ASTM E413 is the Classification for Rating Sound Insulation, provided by ASTM International."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;GA-214&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GA-214 is a standard by the Gypsum Association for levels of finish for gypsum panel products."&lt;SEP&gt;"GA-214 is a standard published by the Gypsum Association that provides guidelines for levels of finish for gypsum board."&lt;SEP&gt;"GA-214 is the standard for Levels of Finish for Gypsum Panel Products, provided by the Gypsum Association."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;GA-216&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GA-216 is a standard by the Gypsum Association for the application and finishing of gypsum panel products."&lt;SEP&gt;"GA-216 is a standard published by the Gypsum Association that provides specifications for the application and finishing of gypsum board."&lt;SEP&gt;"GA-216 is the standard for Application and Finishing of Gypsum Panel Products, provided by the Gypsum Association."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;GA-600&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GA-600 is a fire resistance and sound control design manual provided by the Gypsum Association."&lt;SEP&gt;"GA-600 is the Fire Resistance and Sound Control Design Manual, provided by the Gypsum Association."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba</data>
+    </node>
+    <node id="&quot;ASTM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM (American Society for Testing and Materials) is an international standards organization that develops and publishes technical standards for a wide range of materials, products, systems, and services."&lt;SEP&gt;"ASTM (American Society for Testing and Materials) is an international standards organization that develops and publishes voluntary consensus technical standards for a wide range of materials, products, systems, and services."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Gypsum Association is a not-for-profit organization in North America that represents manufacturers of gypsum board in the U.S. and Canada and provides technical information and standards for the industry."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;UNDERWRITERS LABORATORIES, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Underwriters Laboratories, Inc. (UL) is a global safety certification company headquartered in Northbrook, Illinois, that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;WARNOCK HERSEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Warnock Hersey is a certification mark provided by Intertek, a multinational inspection, product testing, and certification company, indicating that a product has been tested and meets specific safety and performance standards."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;CLARKDIETRICH BUILDING SYSTEMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ClarkDietrich Building Systems is a manufacturer of steel framing products and systems for commercial and residential construction."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;MARINO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Marino is a manufacturer of steel framing products, known for their ViperStud product line, used in construction."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;PHILLIPS MANUFACTURING CO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Phillips Manufacturing Co is a company that produces ViperStud, a product mentioned in the text."&lt;SEP&gt;"Phillips Manufacturing Co is a manufacturer of building products, including the ViperStud line of steel framing products."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;CHARLOTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte is a geographic location where the Charlotte Central School is situated and undergoing construction improvements."&lt;SEP&gt;"Charlotte is the geographical location where the Central School is situated."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;UL (FRD)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"UL (FRD) refers to the Fire Resistance Directory published by Underwriters Laboratories, Inc."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;PRODUCT DATA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Product Data refers to the information provided about metal framing, gypsum board, accessories, and joint finishing systems."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;TEST REPORTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Test Reports refer to the independent laboratory reports showing maximum stud heights at required spacings and deflections for stud framing products."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;CERTIFICATES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Certificates refer to the documentation confirming that materials are asbestos-free."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;SINGLE SOURCE RESPONSIBILITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Single Source Responsibility refers to the requirement to furnish all materials of the same type from one manufacturer for the entire project."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;SUBMITTALS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Submittals refer to the documents and data provided for review and approval during the construction process."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;CONSTRUCTION SUBMITTALS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Construction Submittals refer to the specific documents and data related to construction materials and methods that need to be submitted for approval."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;ADMINISTRATIVE REQUIREMENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Administrative Requirements refer to the section of the project specifications that outlines the procedures for submitting documents and data."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;FIELD CONDITIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Field Conditions refer to the environmental factors such as temperature, humidity, and other conditions that affect the installation of gypsum board assemblies."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;INTERIOR PARTITIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Interior Partitions refer to the completed assemblies of gypsum board with specific characteristics for acoustic attenuation and fire resistance."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;CEILINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ceilings refer to the gypsum board assemblies installed on the ceiling with specific deflection requirements."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;WALL SURFACES TO RECEIVE TILE FINISH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Wall Surfaces to Receive Tile Finish refer to the gypsum board assemblies that will be finished with tile, requiring specific deflection compliance."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;FIRE-RESISTANCE-RATED ASSEMBLIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fire-Resistance-Rated Assemblies refer to the gypsum board assemblies that meet specific fire resistance standards as indicated on drawings or required by code."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;NON-STRUCTURAL FRAMING SYSTEM COMPONENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Non-structural Framing System Components refer to the galvanized sheet steel components used in the construction of gypsum board assemblies."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </node>
+    <node id="&quot;SUBSTITUTION PROCEDURES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Substitution Procedures are guidelines for submitting alternative products for approval, ensuring they meet the required standards and specifications."&lt;SEP&gt;"Substitution Procedures refer to the process outlined in Section 01 25 00 for submitting products as substitutions."&lt;SEP&gt;"Substitution Procedures refer to the section of the project specifications that outlines the process for submitting and approving alternative products."</data>
+      <data key="d2">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Awarding Authority is an entity responsible for accepting or rejecting products based on their construction, quality, durability, performance, and appearance."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;AISI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"AISI (American Iron and Steel Institute) is an association of North American steel producers that develops standards for steel products."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;UL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL (Underwriters Laboratories) is a global safety certification company that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."&lt;SEP&gt;"UL (Underwriters Laboratories) is a global safety certification company that tests and certifies products for safety and performance."&lt;SEP&gt;"UL (Underwriters Laboratories) is an organization that provides safety-related certification, including for fire-rated gypsum board assemblies."&lt;SEP&gt;"UL (Underwriters Laboratories) is an organization that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;MARINOWARE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MarinoWARE is a company mentioned in the text, associated with the website www.marinoware.com."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;VIPERSTUD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ViperStud is a product produced by Phillips Manufacturing Co, mentioned in the text."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;ASTM E72&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"ASTM E72 is a standard test method for conducting strength tests of panels for building construction."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;UL-LISTED FIRE-RESISTANCE-RATED HEAD OF PARTITION JOINT SYSTEMS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"UL-listed fire-resistance-rated head of partition joint systems are components that meet UL standards for fire resistance."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;DEFLECTION AND FIRESTOP TRACK&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Deflection and Firestop Track is a product with an intumescent strip that expands when exposed to heat or flames to provide a perimeter joint seal."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;GYPSUM CEILING SUSPENSION SYSTEM&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Gypsum Ceiling Suspension System is a pre-engineered suspended tee grid system for gypsum board ceilings."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;COLD ROLLED STEEL MAIN AND CROSS TEES&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Cold Rolled Steel Main and Cross Tees are components of the Gypsum Ceiling Suspension System with a hot dip galvanized finish."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;TILE MANUFACTURER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Tile Manufacturer refers to the entity providing recommendations for deflection where wall is to receive tile finish."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;RESILIENT FURRING CHANNELS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Resilient Furring Channels are used for sound-rated partitions and come in single or double leg configurations."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;SHAFT WALL STUDS AND ACCESSORIES&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Shaft Wall Studs and Accessories are components made of galvanized sheet steel, complying with ASTM C645 and C754 standards."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;PARTITION HEAD TO STRUCTURE CONNECTIONS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Partition Head to Structure Connections are mechanical anchorage devices that accommodate deflection and prevent rotation of studs while maintaining structural performance."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;MECHANICAL ANCHORAGE DEVICES&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Mechanical Anchorage Devices are used to accommodate deflection while maintaining the fire-rating of the wall assembly."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Gypsum Board Assemblies refer to the construction assemblies involving gypsum board, as mentioned in the text."&lt;SEP&gt;"Gypsum Board Assemblies refer to the construction components and techniques involving gypsum boards, as detailed in the construction specifications."&lt;SEP&gt;"Gypsum Board Assemblies refers to the construction process involving the installation of gypsum boards as described in the text."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-b625217386a257cac4fb0f37208910e0&lt;SEP&gt;chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Charlotte Central School - Phase 2 Improvements / 19-0799 is a construction project for which various building materials are specified."&lt;SEP&gt;"Charlotte Central School - Phase 2 Improvements / 19-0799 refers to the specific project and bid set for improvements at Charlotte Central School."</data>
+      <data key="d2">chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;USG CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USG Corporation is a company that produces various building materials, including Durock Brand Cement Board and Sheetrock Brand Sag-Resistant Interior Gypsum Ceiling Board."&lt;SEP&gt;"USG Corporation is a company that produces various types of gypsum panels, including Sheetrock Brand Mold Tough AR Gypsum Panels and Sheetrock Brand Mold Tough - VHI Abuse-Resistant panels."&lt;SEP&gt;"USG Corporation is a manufacturer of building materials, including the Sheetrock Exterior Gypsum Ceiling Board."&lt;SEP&gt;"USG Corporation is a manufacturer of gypsum panels, specifically the Sheetrock Brand Gypsum Panels."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CertainTeed Corporation is a company that manufactures ProRoc Brand Exterior Soffit Board."&lt;SEP&gt;"CertainTeed Corporation is a company that produces ProRoc Brand Moisture and Mold Resistant Gypsum Board with M2Tech and Extreme Impact Resistant Drywall with M2Tech."&lt;SEP&gt;"CertainTeed Corporation is a manufacturer of building materials, including the ProRoc Brand Exterior Soffit Board."&lt;SEP&gt;"CertainTeed Corporation is a manufacturer of gypsum board products, specifically the ProRoc Brand Gypsum Board with M2Tech."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Gypsum is a company that manufactures ToughRock Span 24 Ceiling Board and DensGlass Sheathing."&lt;SEP&gt;"Georgia-Pacific Gypsum is a company that produces ToughRock Mold-Guard gypsum panels."&lt;SEP&gt;"Georgia-Pacific Gypsum is a manufacturer of gypsum board products, specifically the ToughRock Mold-Guard Board."&lt;SEP&gt;"Georgia-Pacific Gypsum is a manufacturer of gypsum products, including the ToughRock Fireguard C Soffit Board and DensGlass Shaftliner."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"National Gypsum Company is a company that produces Gold Bond Hi-Abuse Brand XP Board and Gold Bond XP Hi-Impact Gypsum Board."&lt;SEP&gt;"National Gypsum Company is a company that produces PermaBase Brand Cement Board and Gold Bond eXP Fire-Shield Sheathing."&lt;SEP&gt;"National Gypsum Company is a manufacturer of gypsum board products, specifically the Gold Bond Brand Gypsum Board."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gypsum Board is a construction material used for creating walls and ceilings, specified in various types for different applications in the project."&lt;SEP&gt;"Gypsum Board is a construction material used for walls and ceilings, installed to minimize butt end joints and provide a smooth surface for finishing."&lt;SEP&gt;"Gypsum Board, also known as drywall, is a panel made of gypsum plaster pressed between two thick sheets of paper, used in the construction of interior walls and ceilings."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;TYPE X BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Type X board is a type of gypsum board with enhanced fire-resistance properties, specified for use in fire-rated assemblies."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;WH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WH (Warnock Hersey) is a certification mark indicating that a product has been tested and meets specific safety and performance standards."&lt;SEP&gt;"WH (Warnock Hersey) is an organization that provides certification for fire-rated building materials, including gypsum board."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;FIRE-RESISTANCE RATING&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Fire-Resistance Rating is a measure of a material's ability to withstand fire, important for safety in building construction."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;MOLD RESISTANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Mold Resistance refers to the ability of gypsum board to resist mold growth, ensuring durability and safety in moist environments."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;HANGER WIRE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Hanger Wire is a component used to suspend the gypsum board ceiling system, specified to be 12 gauge and installed according to specific guidelines."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;FASTENER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fastener refers to the hardware used to secure the gypsum board ceiling system, specified to be of a type and size recommended by the manufacturer."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;SHEETROCK BRAND GYPSUM PANELS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sheetrock Brand Gypsum Panels are a product of USG Corporation, specified as the basis-of-design for the project."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;PROROC BRAND GYPSUM BOARD WITH M2TECH&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ProRoc Brand Gypsum Board with M2Tech is a product of CertainTeed Corporation, specified for its mold-resistant properties."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;TOUGHROCK MOLD-GUARD BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ToughRock Mold-Guard Board is a product of Georgia-Pacific Gypsum, specified for its mold-resistant properties."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;GOLD BOND BRAND GYPSUM BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gold Bond Brand Gypsum Board is a product of National Gypsum Company, specified for use in the project."</data>
+      <data key="d2">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </node>
+    <node id="&quot;ASTM C1629/C1629M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1629/C1629M is a standard test method for evaluating the impact resistance of gypsum panels."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;USG CORPORATION; DUROCK BRAND CEMENT BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USG Corporation produces Durock Brand Cement Board, which is used as a cementitious tile backer board for wet areas."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;CUSTOM BUILDING PRODUCTS; WONDERBOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Custom Building Products produces Wonderboard, a cementitious tile backer board for wet areas."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;NATIONAL GYPSUM COMPANY; PERMABASE BRAND CEMENT BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"National Gypsum Company produces PermaBase Brand Cement Board, a cementitious tile backer board for wet areas."</data>
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </node>
+    <node id="&quot;CUSTOM BUILDING PRODUCTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Custom Building Products is a company that manufactures Wonderboard, a type of cement board."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gold Bond Building Products, LLC, provided by National Gypsum Company, produces Gold Bond eXP Fire-Shield Sheathing."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;ANSI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ANSI (American National Standards Institute) is an organization that oversees the creation and use of norms and guidelines that directly impact businesses in nearly every sector."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;PORTLAND CEMENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Portland Cement is a type of cement used in construction, known for its durability and strength."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;DUROCK BRAND CEMENT BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Durock Brand Cement Board is a cement-based panel produced by USG Corporation, used for various construction applications."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;WONDERBOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Wonderboard is a cement-based panel produced by Custom Building Products, used for various construction applications."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;PERMABASE BRAND CEMENT BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"PermaBase Brand Cement Board is a cement-based panel produced by National Gypsum Company, used for various construction applications."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;TOUGHROCK SPAN 24 CEILING BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ToughRock Span 24 Ceiling Board is a special sag-resistant gypsum ceiling board produced by Georgia-Pacific Gypsum."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;SHEETROCK BRAND SAG-RESISTANT INTERIOR GYPSUM CEILING BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Sheetrock Brand Sag-Resistant Interior Gypsum Ceiling Board is a gypsum ceiling board produced by USG Corporation."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;DENSGLASS SHEATHING&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"DensGlass Sheathing is a glass mat faced gypsum substrate produced by Georgia-Pacific Gypsum, used for exterior sheathing."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;GOLD BOND EXP FIRE-SHIELD SHEATHING&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Gold Bond eXP Fire-Shield Sheathing is a glass mat faced gypsum substrate produced by Gold Bond Building Products, LLC, used for exterior sheathing."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;SECUROCK GLASS-MAT SHEATHING&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Securock Glass-Mat Sheathing is a glass mat faced gypsum substrate produced by USG Corporation, used for exterior sheathing."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;PROROC BRAND EXTERIOR SOFFIT BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ProRoc Brand Exterior Soffit Board is an exterior gypsum soffit board produced by CertainTeed Corporation."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD C SOFFIT&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ToughRock Fireguard C Soffit is an exterior gypsum soffit board produced by Georgia-Pacific Gypsum."</data>
+      <data key="d2">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </node>
+    <node id="&quot;TYPE X&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Type X is a type of gypsum board with a thickness of 5/8 inch."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;TYPE C&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Type C is a type of gypsum board with a thickness of 5/8 inch."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;REGULAR TYPE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Regular Type is a type of gypsum board with a thickness of 1/2 inch for framing 16 inches on center, and 5/8 inch for framing 24 inches on center."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;SHAFTWALL AND COREBOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Shaftwall and Coreboard are types of gypsum board used for specific construction purposes, including Type X with a thickness of 1 inch and beveled long edges."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;ACOUSTIC INSULATION&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Acoustic Insulation is used to reduce sound transmission, placed tightly within spaces, around cut openings, and behind and around electrical and mechanical items within partitions."&lt;SEP&gt;"Acoustic Insulation refers to mineral wool insulation used for soundproofing, as specified in Section 07 21 00 - Thermal Insulation."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;ACOUSTIC SEALANT&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Acoustic Sealant is an acrylic emulsion latex or water-based elastomeric sealant used in conjunction with gypsum board for soundproofing."&lt;SEP&gt;"Acoustic Sealant is used to seal partitions, ceilings, control joints, and around penetrations to reduce sound transmission, installed according to the manufacturer's instructions."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;FINISHING ACCESSORIES&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Finishing Accessories include various types of galvanized steel components used for finishing gypsum board installations, complying with ASTM C1047."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;CONTROL JOINTS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Control Joints are joints between edges of board panels that allow for movement and prevent cracking, sealed with continuous beads of sealant."&lt;SEP&gt;"Control Joints are one-piece joint assemblies made of non-corrosive metal or extruded vinyl, used in gypsum board installations to allow for expansion and contraction."&lt;SEP&gt;"Control Joints refers to the placement of control joints consistent with lines of building spaces and as indicated, including the insertion of control joint strips into open joints."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-4ebe181d76d08cfcf602d7485db659ef&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;JOINT TREATMENT&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Joint Treatment includes tape and compound used for treating joints in gypsum board installations, complying with ASTM C475/C475M."</data>
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </node>
+    <node id="&quot;ASTM C475/C475M&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM C475/C475M is a standard specification for joint compound and joint tape for finishing gypsum board, ensuring compliance with quality and performance requirements."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;GYP BD-5&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"GYP BD-5 is a special chemical hardening type exterior joint compound used for exterior applications."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;GYP BD-1&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"GYP BD-1 is a 'setting' type of joint compound recommended by the manufacturer for abuse-resistant and reinforced gypsum board."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;SELF ADHERING VINYL TAPE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Self adhering vinyl tape is used for raw edges of moisture resistant board types, ensuring proper sealing and moisture resistance."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;SPECIAL WATER RESISTANT TYPE JOINT COMPOUND&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Special water resistant type joint compound is used for treating joints, fasten heads, and cut edges of moisture resistant board types."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;SPECIAL CHEMICAL HARDENING TYPE EXTERIOR JOINT COMPOUND&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Special chemical hardening type exterior joint compound, referred to as GYP BD-5, is used for exterior applications."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;SETTING TYPE OF JOINT COMPOUND&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Setting type of joint compound, referred to as GYP BD-1, is recommended by the manufacturer for abuse-resistant and reinforced gypsum board."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;TYPE 'S' BUGLE HEAD SCREWS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Type 'S' bugle head screws are fasteners with a minimum length of 1-1/4 inches, used for securing gypsum wall assemblies."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;ZINC COATED SCREWS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Zinc coated screws are used for fastening moisture resistant gypsum wall assembly types, providing corrosion resistance."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;INSTALLER/APPLICATOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Installer/Applicator is responsible for examining installation areas and ensuring compliance with requirements affecting work performance."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;UL (FRD) LISTED ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL (FRD) Listed Assembly refers to assemblies that meet the safety and performance standards set by Underwriters Laboratories for fire-rated designs."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;METAL FRAMING&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Metal Framing refers to the use of metal components to create the structural framework for walls and ceilings."&lt;SEP&gt;"Metal framing is used in the construction of gypsum board assemblies, installed according to ASTM C754 and manufacturer's instructions."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;SUSPENDED CEILINGS AND SOFFITS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Suspended Ceilings and Soffits are ceiling systems that are hung from the structure above, often used to conceal mechanical and electrical systems."&lt;SEP&gt;"Suspended ceilings and soffits are framing and furring members spaced at 24 inches on center, leveled to a tolerance of 1/1200."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;SPECIAL FRICTION STUDS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Special friction studs are used in shaft wall installations to secure shaft wall liners sequentially."</data>
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </node>
+    <node id="&quot;STATE BUILDING CODE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"State Building Code refers to the regulatory framework governing construction practices and standards within a specific state."&lt;SEP&gt;"The State Building Code refers to the set of regulations and standards that govern the construction, alteration, and maintenance of buildings within a specific state."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;STUDS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Studs are vertical framing members used in the construction of walls and partitions."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;BRACING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Bracing refers to the structural elements used to provide stability and support to framing systems, particularly in resisting wind uplift and other forces."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;JACK STUDS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Jack Studs are shorter studs used to support headers above openings such as doors and windows."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;DOUBLE-HEADERS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Double-headers are horizontal framing members used to support the load above openings in walls."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;SILL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sill refers to the horizontal framing member at the bottom of an opening, such as a window or door."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;BLOCKING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Blocking refers to the additional framing installed within walls to provide support for mounted items or to reinforce the structure."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;STEEL PLATE REINFORCEMENT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Steel Plate Reinforcement involves the use of steel plates to strengthen and support framing members."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;GYPSUM CEILING SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gypsum Ceiling System refers to a suspended ceiling system made of gypsum board, used to create a smooth, finished ceiling surface."</data>
+      <data key="d2">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;MAIN TEES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Main Tees are structural components installed 48 inches on center, suspended from the existing structure with hanger wires, and are part of the Non Fire Rated System."&lt;SEP&gt;"Main Tees are the primary structural members in a suspended ceiling system, running parallel to each other and supporting cross tees."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;CROSS TEES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Cross Tees are secondary structural members in a suspended ceiling system, running perpendicular to the main tees and providing additional support."&lt;SEP&gt;"Cross Tees are structural components installed perpendicular to main runners, 16 inches on center, and adjacent to un-supported sides of recessed fixtures."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;HANGER WIRES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Hanger Wires are used to suspend main tees and other components, wrapped tightly three full turns at each end to ensure stability."&lt;SEP&gt;"Hanger Wires are wires used to suspend the ceiling system from the structure above, ensuring stability and proper alignment."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </node>
+    <node id="&quot;NON FIRE RATED SYSTEM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Non Fire Rated System refers to a construction system that does not have a fire-resistance rating, involving the installation of main tees, cross tees, wall tracks, and additional hanger wires."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;WALL TRACK&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Wall Track is a component installed on vertical surfaces, intersecting suspension components, according to the manufacturer's instructions and industry standards."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;DIAGONAL HANGER WIRE SPLAY BRACING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Diagonal Hanger Wire Splay Bracing is a method of bracing using diagonal hanger wires to meet seismic requirements of the state building code."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;PARTITION INSULATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Partition Insulation is blanket insulation installed for sound attenuation, completely filling spaces between studs to the full height of the partition or wall."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;CEILING INSULATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ceiling Insulation is blanket insulation installed for sound attenuation, providing continuous wall-to-wall coverage throughout the space."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;SETTING TYPE JOINT COMPOUND&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Setting Type Joint Compound is used at abuse-resistant and reinforced gypsum board walls to meet the manufacturer's recommendations."&lt;SEP&gt;"Setting Type Joint Compound refers to the specific type of joint compound used in the installation of abuse-resistant and reinforced gypsum board walls."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;CONDUIT, PIPE, DUCTS, AND ROUGH-IN BOXES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Conduit, Pipe, Ducts, and Rough-in Boxes are components that penetrate partitions and ceilings, requiring sealing around them to prevent sound transmission."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;MANUFACTURER'S INSTRUCTIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Manufacturer's Instructions refer to the guidelines provided by the manufacturer for the proper installation and use of their products."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;INDUSTRY ACCEPTED STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Industry Accepted Standards refer to the commonly accepted practices and guidelines within the construction industry for ensuring quality and safety."</data>
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </node>
+    <node id="&quot;EXTERIOR SOFFITS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Exterior Soffits are architectural features located on the exterior of buildings, where gypsum board is installed as part of the construction project."&lt;SEP&gt;"Exterior Soffits refers to the installation process of exterior soffit boards, which is part of the construction activities described."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;SINGLE-LAYER NON-RATED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Single-Layer Non-Rated refers to the installation method of gypsum board using the longest length boards practical, with ends and edges occurring over firm bearing."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;DOUBLE LAYER APPLICATION FOR WALLS AND CEILINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Double Layer Application for Walls and Ceilings refers to the method of mechanically fastening both layers to supports with screws, ensuring staggered vertical joints on opposite sides of partitions."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;FIRE-RESISTANCE-RATED CONSTRUCTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fire-Resistance-Rated Construction refers to the installation of gypsum board in strict compliance with the requirements of assembly listing to ensure fire resistance."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;EXTERIOR SHEATHING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Exterior Sheathing refers to the installation of sheathing vertically, with edges butted tight and ends occurring over firm bearing, in compliance with ASTM C1280."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;CEMENTITIOUS BACKING BOARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cementitious Backing Board refers to the installation of backing board over steel framing members and plywood substrate as indicated in the manufacturer's instructions."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;INSTALLATION ON METAL FRAMING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Installation on Metal Framing refers to the use of screws for attaching gypsum board to metal studs and ceiling framing."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;MOISTURE PROTECTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Moisture Protection refers to the treatment of cut edges and holes in moisture-resistant gypsum board and exterior gypsum soffit board with sealant."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;CORNER BEADS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Corner Beads refers to the installation of corner beads at external corners using the longest practical lengths."</data>
+      <data key="d2">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </node>
+    <node id="&quot;MANUFACTURER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Manufacturer is the entity providing instructions and recommendations for the installation and treatment of materials used in the construction project."</data>
+      <data key="d2">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;UTILITY AREAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Utility Areas are specific locations within the building where Level 2 finish is applied to gypsum board, typically behind cabinetry or on backing board to receive tile finish."</data>
+      <data key="d2">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;FIRE-RESISTANCE-RATED WALL AREAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fire-resistance-rated Wall Areas are sections of the building that require a Level 1 finish for fire safety, located above finished ceilings."</data>
+      <data key="d2">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;FIELD-APPLIED DECORATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Field-applied Decoration refers to the final decorative finishes applied to walls and ceilings after joint treatment and preparation."</data>
+      <data key="d2">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;SUBSTANTIAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Substantial Completion is the stage in the construction process when the work is sufficiently complete, allowing for inspection and approval."&lt;SEP&gt;"Substantial Completion is the stage in the construction project when the work is sufficiently complete and ready for inspection."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </node>
+    <node id="&quot;ARCHITECT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Architect is responsible for approving the acceptability of repairs and replacements of damaged materials and components."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;OWNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Owner is the entity that will occupy the building upon Final Completion or earlier, as specified."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;CAMBER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Camber refers to the maximum allowable deviation in the alignment of the construction materials, specified as 1/32 inch."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;FIELD QUALITY CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Field Quality Control encompasses the procedures and standards for ensuring the quality of construction work, as outlined in Section 01 40 00 - Quality Requirements."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;FINAL COMPLETION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Final Completion is the stage when all construction work is finished, and the building is ready for occupancy by the Owner."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 40 00 - Quality Requirements is a document outlining additional quality control requirements for the construction project."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;SECTION 01 74 19 - CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Section 01 74 19 - Construction Waste Management and Disposal is a document specifying the requirements for managing and disposing of construction waste."</data>
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </node>
+    <node id="&quot;SHEETROCK BRAND MOLD TOUGH AR GYPSUM PANELS&quot;">
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+      <data key="d1">"USG Corporation produces Sheetrock Brand Mold Tough AR Gypsum Panels, which are specified for use in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PROROC BRAND MOISTURE AND MOLD RESISTANT GYPSUM BOARD WITH M2TECH&quot;">
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+      <data key="d1">"CertainTeed Corporation produces ProRoc Brand Moisture and Mold Resistant Gypsum Board with M2Tech, which is specified for use in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TOUGHROCK MOLD-GUARD&quot;">
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+      <data key="d1">"Georgia-Pacific Gypsum produces ToughRock Mold-Guard, which is specified for use in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GOLD BOND HI-ABUSE BRAND XP BOARD&quot;">
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+      <data key="d1">"National Gypsum Company produces Gold Bond Hi-Abuse Brand XP Board, which is specified for use in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GOLD BOND XP HI-IMPACT GYPSUM BOARD&quot;">
+      <data key="d2">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+      <data key="d1">"National Gypsum Company produces Gold Bond XP Hi-Impact Gypsum Board, which is specified for use in the project."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD C SOFFIT BOARD&quot;">
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+      <data key="d1">"Georgia-Pacific Gypsum manufactures the ToughRock Fireguard C Soffit Board, which is specified in the document."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DENSGLASS SHAFTLINER&quot;">
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+      <data key="d1">"Georgia-Pacific Gypsum manufactures the DensGlass Shaftliner, which is specified in the document."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SHEETROCK EXTERIOR GYPSUM CEILING BOARD&quot;">
+      <data key="d2">chunk-8d105a2e548cb7294ce30bf186063288</data>
+      <data key="d1">"USG Corporation manufactures the Sheetrock Exterior Gypsum Ceiling Board, which is specified in the document."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MOISTURE RESISTANT BOARD TYPES&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Self adhering vinyl tape is used for raw edges of moisture resistant board types to ensure proper sealing and moisture resistance."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EXTERIOR APPLICATIONS&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Special chemical hardening type exterior joint compound, referred to as GYP BD-5, is used for exterior applications."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ABUSE-RESISTANT AND REINFORCED GYPSUM BOARD&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Setting type of joint compound, referred to as GYP BD-1, is recommended by the manufacturer for abuse-resistant and reinforced gypsum board."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GYPSUM WALL ASSEMBLIES&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Type 'S' bugle head screws are used for securing gypsum wall assemblies, ensuring proper fastening."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MOISTURE RESISTANT GYPSUM WALL ASSEMBLY TYPES&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Zinc coated screws are used for fastening moisture resistant gypsum wall assembly types, providing corrosion resistance."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;INSTALLATION AREAS&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"The Installer/Applicator is responsible for examining installation areas and ensuring compliance with requirements affecting work performance."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FRAMING AND FURRING MEMBERS&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Suspended ceilings and soffits are framing and furring members spaced at 24 inches on center, leveled to a tolerance of 1/1200."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SHAFT WALL LINERS&quot;">
+      <data key="d2">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+      <data key="d1">"Special friction studs are used in shaft wall installations to secure shaft wall liners sequentially."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FIRE RATED SYSTEM&quot;">
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+      <data key="d1">"The Fire Rated System is installed in accordance with UL design guidelines, indicating UL's role in providing safety standards for the system."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;BOARD INSTALLATION&quot;">
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+      <data key="d1">"Board Installation complies with ASTM C 840, indicating ASTM's role in setting standards for the installation process."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PARTITIONS&quot;">
+      <data key="d2">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+      <data key="d1">"Acoustic Sealant is used to seal partitions to reduce sound transmission, providing continuous beads of sealant."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLEANING&quot;">
+      <data key="d2">chunk-b625217386a257cac4fb0f37208910e0</data>
+      <data key="d1">"Cleaning procedures must comply with the requirements specified in Section 01 74 19 - Construction Waste Management and Disposal."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"DEW Construction is performing construction work at Charlotte Central School."</data>
+      <data key="d5">"construction, project execution"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"DEW Construction is responsible for executing the Phase 2 Improvements project at Charlotte Central School."</data>
+      <data key="d5">"project management, construction activities"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;PHASE 2 IMPROVEMENTS&quot;">
+      <data key="d3">89.0</data>
+      <data key="d4">"Charlotte Central School is the location where the Phase 2 Improvements construction project is taking place."&lt;SEP&gt;"Charlotte Central School is the site undergoing Phase 2 Improvements, indicating the school's involvement in the construction project."&lt;SEP&gt;"Charlotte Central School is the site where Phase 2 Improvements are being carried out."&lt;SEP&gt;"Charlotte Central School is undergoing Phase 2 Improvements as part of its construction and enhancement activities."&lt;SEP&gt;"Charlotte Central School is undergoing Phase 2 Improvements, indicating the current construction activities at the school."&lt;SEP&gt;"Charlotte Central School is undergoing Phase 2 Improvements, which involves the use of various specified building materials."&lt;SEP&gt;"Phase 2 Improvements is a construction project taking place at Charlotte Central School."</data>
+      <data key="d5">"construction project, facility enhancement"&lt;SEP&gt;"construction project, school improvements"&lt;SEP&gt;"construction project, site location"&lt;SEP&gt;"construction, enhancement"&lt;SEP&gt;"construction, renovation"&lt;SEP&gt;"construction, school improvement"&lt;SEP&gt;"location, project site"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4&lt;SEP&gt;chunk-868db19683bfb819acf88835e297ddba&lt;SEP&gt;chunk-4f771d3193522d95d5910404ca4639e3&lt;SEP&gt;chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c&lt;SEP&gt;chunk-4c3821d1780887185d31d928eb3b63a3&lt;SEP&gt;chunk-b625217386a257cac4fb0f37208910e0&lt;SEP&gt;chunk-1d3097688924e945ae0e6d299de796f5&lt;SEP&gt;chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;CHARLOTTE&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Charlotte Central School is located in Charlotte, indicating the geographic context of the construction project."&lt;SEP&gt;"Charlotte Central School is located in Charlotte."</data>
+      <data key="d5">"geographical location"&lt;SEP&gt;"location, context"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8&lt;SEP&gt;chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;CLARKDIETRICH BUILDING SYSTEMS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ClarkDietrich Building Systems provides metal framing products for the construction at Charlotte Central School."</data>
+      <data key="d5">"supplier, construction"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;MARINO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Marino provides metal framing products for the construction at Charlotte Central School."</data>
+      <data key="d5">"supplier, construction"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;PHILLIPS MANUFACTURING CO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Phillips Manufacturing Co provides metal framing products for the construction at Charlotte Central School."</data>
+      <data key="d5">"supplier, construction"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;USG CORPORATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School is using products from USG Corporation for its Phase 2 Improvements."</data>
+      <data key="d5">"construction project, material sourcing"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School is using products from CertainTeed Corporation for its Phase 2 Improvements."</data>
+      <data key="d5">"construction project, material sourcing"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School is using products from Georgia-Pacific Gypsum for its Phase 2 Improvements."</data>
+      <data key="d5">"construction project, material sourcing"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School is using products from National Gypsum Company for its Phase 2 Improvements."</data>
+      <data key="d5">"construction project, material sourcing"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Charlotte Central School is the organization overseeing or involved in the gypsum board installation process."</data>
+      <data key="d5">"construction, oversight"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;MANUFACTURER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Manufacturer provides instructions and recommendations for the materials and methods used in the construction project at Charlotte Central School."</data>
+      <data key="d5">"guidance, material specifications"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;ARCHITECT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Architect oversees the quality control and approval of repairs and replacements at Charlotte Central School."</data>
+      <data key="d5">"oversight, quality control"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL&quot;" target="&quot;OWNER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Owner will occupy the Charlotte Central School upon completion of the Phase 2 Improvements."</data>
+      <data key="d5">"occupancy, ownership"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;USG CORPORATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"USG Corporation's Sheetrock Brand Gypsum Panels are specified for use in the Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction materials"</data>
+      <data key="d6">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"CertainTeed Corporation's ProRoc Brand Gypsum Board with M2Tech is specified for use in the Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction materials"</data>
+      <data key="d6">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum's ToughRock Mold-Guard Board is specified for use in the Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction materials"</data>
+      <data key="d6">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"National Gypsum Company's Gold Bond Brand Gypsum Board is specified for use in the Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction materials"</data>
+      <data key="d6">chunk-1d3097688924e945ae0e6d299de796f5</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;ASTM C754&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Phase 2 Improvements at Charlotte Central School are being conducted in accordance with ASTM C754 standards."</data>
+      <data key="d5">"compliance, construction standards"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;STATE BUILDING CODE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Phase 2 Improvements must comply with the State Building Code."</data>
+      <data key="d5">"regulatory compliance, construction standards"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;ASTM C840&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ASTM C840 provides the standards for levels of finish that are being followed during the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"standards compliance, quality control"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;GA-214&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"GA-214 provides guidelines for levels of finish that are being followed during the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"guidelines, quality control"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;GA-216&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"GA-216 provides specifications for the application and finishing of gypsum board during the Phase 2 Improvements at Charlotte Central School."</data>
+      <data key="d5">"specifications, quality control"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;EXTERIOR SOFFITS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Exterior Soffits are part of the construction project where gypsum board is installed as part of the Phase 2 Improvements."</data>
+      <data key="d5">"installation, architectural features"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;UTILITY AREAS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Utility Areas are specific locations within the building where Level 2 finish is applied to gypsum board during the Phase 2 Improvements."</data>
+      <data key="d5">"specific locations, finish application"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;FIRE-RESISTANCE-RATED WALL AREAS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire-resistance-rated Wall Areas require a Level 1 finish for fire safety as part of the Phase 2 Improvements."</data>
+      <data key="d5">"safety, finish application"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;FIELD-APPLIED DECORATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Field-applied Decoration is the final step in the construction project, applied after joint treatment and preparation during the Phase 2 Improvements."</data>
+      <data key="d5">"final finishes, decoration"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;PHASE 2 IMPROVEMENTS&quot;" target="&quot;SUBSTANTIAL COMPLETION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Substantial Completion marks the stage when the Phase 2 Improvements are sufficiently complete and ready for inspection."</data>
+      <data key="d5">"project milestone, inspection readiness"</data>
+      <data key="d6">chunk-590f0c6cda5eaa7ffc8c3ff15a89d41c</data>
+    </edge>
+    <edge source="&quot;AMERICAN IRON AND STEEL INSTITUTE (AISI)&quot;" target="&quot;AISI S100&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"AISI S100 is a specification provided by the American Iron and Steel Institute for the design of cold-formed steel structural members."</data>
+      <data key="d5">"standards, structural design"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)&quot;" target="&quot;ANSI A108.11&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ANSI A108.11 is a specification provided by the American National Standards Institute for the interior installation of cementitious backer units."</data>
+      <data key="d5">"standards, installation"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)&quot;" target="&quot;ANSI A118.9&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ANSI A118.9 is a specification provided by the American National Standards Institute for test methods and specifications for cementitious backer units."</data>
+      <data key="d5">"standards, testing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM A653/A653M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM A653/A653M is a specification provided by ASTM International for steel sheet, zinc-coated or zinc-iron alloy-coated by the hot-dip process."</data>
+      <data key="d5">"standards, material specifications"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C645&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C645 is a specification provided by ASTM International for nonstructural steel framing members."</data>
+      <data key="d5">"standards, framing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C665&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C665 is a specification provided by ASTM International for mineral-fiber blanket thermal insulation for light frame construction and manufactured housing."</data>
+      <data key="d5">"standards, insulation"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C754&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C754 is a specification provided by ASTM International for installation of steel framing members to receive screw-attached gypsum panel products."</data>
+      <data key="d5">"standards, installation"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C840&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C840 is a specification provided by ASTM International for application and finishing of gypsum board."</data>
+      <data key="d5">"standards, finishing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1047&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1047 is a specification provided by ASTM International for accessories for gypsum wallboard and gypsum veneer base."</data>
+      <data key="d5">"standards, accessories"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1177/C1177M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1177/C1177M is a specification provided by ASTM International for glass mat gypsum substrate for use as sheathing."</data>
+      <data key="d5">"standards, sheathing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1280&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1280 is a specification provided by ASTM International for application of exterior gypsum panel products for use as sheathing."</data>
+      <data key="d5">"standards, sheathing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1325&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1325 is a specification provided by ASTM International for fiber-mat reinforced cementitious backer units."</data>
+      <data key="d5">"standards, backer units"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1396/C1396M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1396/C1396M is a specification provided by ASTM International for gypsum board."</data>
+      <data key="d5">"standards, gypsum board"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM C1658/C1658M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C1658/C1658M is a specification provided by ASTM International for glass mat gypsum panels."</data>
+      <data key="d5">"standards, gypsum panels"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM D3273&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM D3273 is a test method provided by ASTM International for resistance to growth of mold on the surface of interior coatings in an environmental chamber."</data>
+      <data key="d5">"standards, mold resistance"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM E90&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM E90 is a test method provided by ASTM International for laboratory measurement of airborne sound transmission loss of building partitions and elements."</data>
+      <data key="d5">"standards, sound transmission"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM INTERNATIONAL&quot;" target="&quot;ASTM E413&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM E413 is a classification provided by ASTM International for rating sound insulation."</data>
+      <data key="d5">"standards, sound insulation"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION (GA)&quot;" target="&quot;GA-214&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GA-214 is a standard provided by the Gypsum Association for levels of finish for gypsum panel products."</data>
+      <data key="d5">"standards, finishing"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION (GA)&quot;" target="&quot;GA-216&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GA-216 is a standard provided by the Gypsum Association for application and finishing of gypsum panel products."</data>
+      <data key="d5">"standards, application"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION (GA)&quot;" target="&quot;GA-600&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GA-600 is a manual provided by the Gypsum Association for fire resistance and sound control design."</data>
+      <data key="d5">"standards, fire resistance, sound control"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;UNDERWRITERS LABORATORIES (UL)&quot;" target="&quot;UL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Underwriters Laboratories (UL) provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."</data>
+      <data key="d5">"safety, certification"</data>
+      <data key="d6">chunk-868db19683bfb819acf88835e297ddba</data>
+    </edge>
+    <edge source="&quot;ASTM C645&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM C645 is a standard specification developed by ASTM for non-structural steel framing members."</data>
+      <data key="d5">"standard, steel framing"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM C754&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM C754 is a standard specification developed by ASTM for the installation of steel framing members to receive screw-attached gypsum panel products."</data>
+      <data key="d5">"standard, steel framing installation"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM C754&quot;" target="&quot;METAL FRAMING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Metal framing is installed according to ASTM C754 to ensure proper construction and performance."</data>
+      <data key="d5">"construction standards, performance"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;ASTM C840&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM C840 is a standard specification developed by ASTM for the application and finishing of gypsum board."</data>
+      <data key="d5">"standard, gypsum board application"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM C1280&quot;" target="&quot;EXTERIOR SHEATHING&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ASTM C1280 provides the standard specifications that must be followed for the installation of exterior sheathing."</data>
+      <data key="d5">"compliance, standards"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;ASTM E90&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM E90 is a standard test method developed by ASTM for the laboratory measurement of airborne sound transmission loss of building partitions and elements."</data>
+      <data key="d5">"standard, sound transmission"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM E413&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM E413 is a standard developed by ASTM for rating sound insulation."</data>
+      <data key="d5">"standard, sound insulation"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;GA-214&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"GA-214 is a standard developed by the Gypsum Association for levels of finish for gypsum panel products."</data>
+      <data key="d5">"standard, gypsum panel finish"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;GA-216&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"GA-216 is a standard developed by the Gypsum Association for the application and finishing of gypsum panel products."</data>
+      <data key="d5">"standard, gypsum panel application"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;GA-600&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"GA-600 is a fire resistance and sound control design manual provided by the Gypsum Association."</data>
+      <data key="d5">"manual, fire resistance, sound control"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Gypsum Association references ASTM standards for gypsum panel products, indicating a reliance on ASTM's technical standards."</data>
+      <data key="d5">"standards, compliance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;UNDERWRITERS LABORATORIES, INC.&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Underwriters Laboratories, Inc. references ASTM standards for fire resistance, indicating a reliance on ASTM's technical standards."</data>
+      <data key="d5">"standards, compliance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;WARNOCK HERSEY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Warnock Hersey references ASTM standards for safety and performance, indicating a reliance on ASTM's technical standards."</data>
+      <data key="d5">"standards, compliance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;PHILLIPS MANUFACTURING CO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Phillips Manufacturing Co's products must comply with ASTM standards for construction and performance."</data>
+      <data key="d5">"standards compliance"</data>
+      <data key="d6">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;PORTLAND CEMENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM develops technical standards for Portland Cement, ensuring its performance and safety in construction applications."</data>
+      <data key="d5">"standards, technical specifications"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;BOARD INSTALLATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Board Installation complies with ASTM C 840, indicating ASTM's role in setting standards for the installation process."</data>
+      <data key="d5">"standards compliance, construction"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;UNDERWRITERS LABORATORIES, INC.&quot;" target="&quot;UL (FRD)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"UL (FRD) is the Fire Resistance Directory published by Underwriters Laboratories, Inc."</data>
+      <data key="d5">"directory, fire resistance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;PHILLIPS MANUFACTURING CO&quot;" target="&quot;VIPERSTUD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Phillips Manufacturing Co produces ViperStud, a product mentioned in the text."</data>
+      <data key="d5">"product manufacturing"</data>
+      <data key="d6">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;PHILLIPS MANUFACTURING CO&quot;" target="&quot;AWARDING AUTHORITY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Awarding Authority has the power to accept or reject products from Phillips Manufacturing Co based on specified criteria."</data>
+      <data key="d5">"product evaluation, quality control"</data>
+      <data key="d6">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;PRODUCT DATA&quot;" target="&quot;CONSTRUCTION SUBMITTALS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Product Data is part of the Construction Submittals, providing information about metal framing, gypsum board, accessories, and joint finishing systems."</data>
+      <data key="d5">"documentation, construction materials"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;TEST REPORTS&quot;" target="&quot;CONSTRUCTION SUBMITTALS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Test Reports are part of the Construction Submittals, providing independent laboratory reports showing maximum stud heights at required spacings and deflections."</data>
+      <data key="d5">"documentation, compliance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CERTIFICATES&quot;" target="&quot;CONSTRUCTION SUBMITTALS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Certificates are part of the Construction Submittals, confirming that materials are asbestos-free."</data>
+      <data key="d5">"documentation, safety"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;SINGLE SOURCE RESPONSIBILITY&quot;" target="&quot;ADMINISTRATIVE REQUIREMENTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Single Source Responsibility is outlined in the Administrative Requirements, ensuring all materials of the same type are from one manufacturer."</data>
+      <data key="d5">"consistency, quality control"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ADMINISTRATIVE REQUIREMENTS&quot;" target="&quot;FIELD CONDITIONS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Field Conditions are outlined in the Administrative Requirements, specifying environmental factors that affect the installation of gypsum board assemblies."</data>
+      <data key="d5">"environmental factors, installation"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;ADMINISTRATIVE REQUIREMENTS&quot;" target="&quot;SUBSTITUTION PROCEDURES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Substitution Procedures are outlined in the Administrative Requirements, specifying the process for submitting and approving alternative products."</data>
+      <data key="d5">"documentation, alternative products"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;INTERIOR PARTITIONS&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Interior Partitions are a type of Gypsum Board Assemblies with specific characteristics for acoustic attenuation and fire resistance."</data>
+      <data key="d5">"construction, acoustic attenuation, fire resistance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CEILINGS&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Ceilings are a type of Gypsum Board Assemblies installed on the ceiling with specific deflection requirements."</data>
+      <data key="d5">"construction, deflection"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;CEILINGS&quot;" target="&quot;ACOUSTIC SEALANT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Acoustic Sealant is used to seal ceilings to reduce sound transmission, providing continuous beads of sealant."</data>
+      <data key="d5">"sound attenuation, sealing"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;WALL SURFACES TO RECEIVE TILE FINISH&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Wall Surfaces to Receive Tile Finish are a type of Gypsum Board Assemblies that will be finished with tile, requiring specific deflection compliance."</data>
+      <data key="d5">"construction, tile finish"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;FIRE-RESISTANCE-RATED ASSEMBLIES&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Resistance-Rated Assemblies are a type of Gypsum Board Assemblies that meet specific fire resistance standards."</data>
+      <data key="d5">"construction, fire resistance"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;NON-STRUCTURAL FRAMING SYSTEM COMPONENTS&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Non-structural Framing System Components are used in the construction of Gypsum Board Assemblies."</data>
+      <data key="d5">"construction, framing"</data>
+      <data key="d6">chunk-976559fc23c5c3a8314ae10fe3121ef8</data>
+    </edge>
+    <edge source="&quot;AISI&quot;" target="&quot;PARTITION HEAD TO STRUCTURE CONNECTIONS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Partition Head to Structure Connections must maintain structural performance as per AISI standards."</data>
+      <data key="d5">"structural standards, compliance"</data>
+      <data key="d6">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;PARTITION HEAD TO STRUCTURE CONNECTIONS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Partition Head to Structure Connections must be UL-listed for fire-resistance-rated head of partition joint systems."</data>
+      <data key="d5">"fire safety, certification"</data>
+      <data key="d6">chunk-296abc63b24d56d82876aff39c5d17b4</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;FIRE RATED SYSTEM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Fire Rated System is installed in accordance with UL design guidelines, indicating UL's role in providing safety standards for the system."</data>
+      <data key="d5">"safety standards, compliance"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;UL (FRD) LISTED ASSEMBLY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gypsum board assemblies are installed according to UL (FRD) Listed Assembly requirements to meet safety and performance standards."</data>
+      <data key="d5">"safety, performance standards"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;EXTERIOR SOFFITS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The installation of exterior soffits is part of the overall gypsum board assemblies process."</data>
+      <data key="d5">"construction process, component"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;SETTING TYPE JOINT COMPOUND&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Setting Type Joint Compound is used in the installation process of abuse-resistant and reinforced gypsum board walls."</data>
+      <data key="d5">"installation, materials"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;SINGLE-LAYER NON-RATED&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Single-Layer Non-Rated is a method used in the installation of gypsum boards."</data>
+      <data key="d5">"installation method, construction"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;DOUBLE LAYER APPLICATION FOR WALLS AND CEILINGS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Double Layer Application for Walls and Ceilings is a method used in the installation of gypsum boards."</data>
+      <data key="d5">"installation method, construction"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;FIRE-RESISTANCE-RATED CONSTRUCTION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fire-Resistance-Rated Construction is a method used in the installation of gypsum boards to ensure fire resistance."</data>
+      <data key="d5">"fire safety, installation method"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;EXTERIOR SHEATHING&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Exterior Sheathing is a part of the gypsum board installation process, following ASTM C1280 standards."</data>
+      <data key="d5">"installation, compliance"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;CEMENTITIOUS BACKING BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Cementitious Backing Board is installed as part of the gypsum board installation process over steel framing members and plywood substrate."</data>
+      <data key="d5">"installation, materials"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;INSTALLATION ON METAL FRAMING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Installation on Metal Framing is a method used in the gypsum board installation process, involving the use of screws."</data>
+      <data key="d5">"installation method, materials"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;MOISTURE PROTECTION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Moisture Protection involves treating cut edges and holes in moisture-resistant gypsum board as part of the installation process."</data>
+      <data key="d5">"installation, protection"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;CONTROL JOINTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Control Joints are placed as part of the gypsum board installation process to manage building space lines."</data>
+      <data key="d5">"installation, structural integrity"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD ASSEMBLIES&quot;" target="&quot;CORNER BEADS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Corner Beads are installed at external corners as part of the gypsum board installation process."</data>
+      <data key="d5">"installation, finishing"</data>
+      <data key="d6">chunk-4ebe181d76d08cfcf602d7485db659ef</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;USG CORPORATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"USG Corporation's products, such as Durock Brand Cement Board and Sheetrock Brand Sag-Resistant Interior Gypsum Ceiling Board, are specified for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;CUSTOM BUILDING PRODUCTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Custom Building Products' Wonderboard is specified as a potential product for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"National Gypsum Company's products, such as PermaBase Brand Cement Board and Gold Bond eXP Fire-Shield Sheathing, are specified for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum's products, such as ToughRock Span 24 Ceiling Board and DensGlass Sheathing, are specified for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC's Gold Bond eXP Fire-Shield Sheathing is specified for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL - PHASE 2 IMPROVEMENTS / 19-0799&quot;" target="&quot;CERTAINTEED CORPORATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"CertainTeed Corporation's ProRoc Brand Exterior Soffit Board is specified for use in the Charlotte Central School - Phase 2 Improvements project."</data>
+      <data key="d5">"product specification, construction project"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;USG CORPORATION&quot;" target="&quot;SHEETROCK BRAND MOLD TOUGH AR GYPSUM PANELS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"USG Corporation produces Sheetrock Brand Mold Tough AR Gypsum Panels, which are specified for use in the project."</data>
+      <data key="d5">"product provision, construction materials"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;USG CORPORATION&quot;" target="&quot;DUROCK BRAND CEMENT BOARD&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"USG Corporation produces Durock Brand Cement Board, a cement-based panel used in construction."&lt;SEP&gt;"USG Corporation produces Durock Brand Cement Board, which is specified for use in wet areas of the project."</data>
+      <data key="d5">"product provision, construction materials"&lt;SEP&gt;"production, construction material"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;USG CORPORATION&quot;" target="&quot;SHEETROCK BRAND SAG-RESISTANT INTERIOR GYPSUM CEILING BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"USG Corporation produces Sheetrock Brand Sag-Resistant Interior Gypsum Ceiling Board, a gypsum ceiling board used in construction."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;USG CORPORATION&quot;" target="&quot;SECUROCK GLASS-MAT SHEATHING&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"USG Corporation produces Securock Glass-Mat Sheathing, a glass mat faced gypsum substrate used for exterior sheathing."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;USG CORPORATION&quot;" target="&quot;SHEETROCK EXTERIOR GYPSUM CEILING BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"USG Corporation manufactures the Sheetrock Exterior Gypsum Ceiling Board, which is specified in the document."</data>
+      <data key="d5">"manufacturing, product specification"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;CERTAINTEED CORPORATION&quot;" target="&quot;PROROC BRAND MOISTURE AND MOLD RESISTANT GYPSUM BOARD WITH M2TECH&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"CertainTeed Corporation produces ProRoc Brand Moisture and Mold Resistant Gypsum Board with M2Tech, which is specified for use in the project."</data>
+      <data key="d5">"product provision, construction materials"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;CERTAINTEED CORPORATION&quot;" target="&quot;PROROC BRAND EXTERIOR SOFFIT BOARD&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"CertainTeed Corporation manufactures the ProRoc Brand Exterior Soffit Board, which is specified in the document."&lt;SEP&gt;"CertainTeed Corporation produces ProRoc Brand Exterior Soffit Board, an exterior gypsum soffit board used in construction."</data>
+      <data key="d5">"manufacturing, product specification"&lt;SEP&gt;"production, construction material"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK MOLD-GUARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum produces ToughRock Mold-Guard, which is specified for use in the project."</data>
+      <data key="d5">"product provision, construction materials"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK SPAN 24 CEILING BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum produces ToughRock Span 24 Ceiling Board, a special sag-resistant gypsum ceiling board."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;DENSGLASS SHEATHING&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum produces DensGlass Sheathing, a glass mat faced gypsum substrate used for exterior sheathing."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK FIREGUARD C SOFFIT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum produces ToughRock Fireguard C Soffit, an exterior gypsum soffit board used in construction."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK FIREGUARD C SOFFIT BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum manufactures the ToughRock Fireguard C Soffit Board, which is specified in the document."</data>
+      <data key="d5">"manufacturing, product specification"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;DENSGLASS SHAFTLINER&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum manufactures the DensGlass Shaftliner, which is specified in the document."</data>
+      <data key="d5">"manufacturing, product specification"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;GOLD BOND HI-ABUSE BRAND XP BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"National Gypsum Company produces Gold Bond Hi-Abuse Brand XP Board, which is specified for use in the project."</data>
+      <data key="d5">"product provision, construction materials"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;GOLD BOND XP HI-IMPACT GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"National Gypsum Company produces Gold Bond XP Hi-Impact Gypsum Board, which is specified for use in the project."</data>
+      <data key="d5">"product provision, construction materials"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;PERMABASE BRAND CEMENT BOARD&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"National Gypsum Company produces PermaBase Brand Cement Board, a cement-based panel used in construction."&lt;SEP&gt;"National Gypsum Company produces PermaBase Brand Cement Board, which is specified for use in wet areas of the project."</data>
+      <data key="d5">"product provision, construction materials"&lt;SEP&gt;"production, construction material"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;GYPSUM CEILING SYSTEM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Board is used in the construction of Gypsum Ceiling Systems, providing a smooth, finished surface."</data>
+      <data key="d5">"ceiling construction, finishing"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;SETTING TYPE JOINT COMPOUND&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Setting Type Joint Compound is used at abuse-resistant and reinforced gypsum board walls to meet the manufacturer's recommendations."</data>
+      <data key="d5">"joint compound, reinforcement"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;CONTROL JOINTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Control Joints are installed in gypsum board to allow for movement and prevent cracking, sealed with continuous beads of sealant."</data>
+      <data key="d5">"movement, sealing"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;CUSTOM BUILDING PRODUCTS&quot;" target="&quot;WONDERBOARD&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Custom Building Products produces Wonderboard, a cement-based panel used in construction."&lt;SEP&gt;"Custom Building Products produces Wonderboard, which is specified for use in wet areas of the project."</data>
+      <data key="d5">"product provision, construction materials"&lt;SEP&gt;"production, construction material"</data>
+      <data key="d6">chunk-81c8e0a93fc105cc5d14eeb9a359cc4d&lt;SEP&gt;chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND EXP FIRE-SHIELD SHEATHING&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC produces Gold Bond eXP Fire-Shield Sheathing, a glass mat faced gypsum substrate used for exterior sheathing."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;ANSI&quot;" target="&quot;PORTLAND CEMENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ANSI oversees the standards for Portland Cement, ensuring its quality and compliance with industry norms."</data>
+      <data key="d5">"standards, quality assurance"</data>
+      <data key="d6">chunk-11671a54094a2ab8c3e2767e42f2b190</data>
+    </edge>
+    <edge source="&quot;TYPE X&quot;" target="&quot;SHAFTWALL AND COREBOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Type X is a specific type of Shaftwall and Coreboard with a thickness of 1 inch and beveled long edges."</data>
+      <data key="d5">"product specification, construction material"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC INSULATION&quot;" target="&quot;ACOUSTIC SEALANT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Acoustic Insulation and Acoustic Sealant are both used for soundproofing in conjunction with gypsum board installations."</data>
+      <data key="d5">"soundproofing, construction material"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC INSULATION&quot;" target="&quot;PARTITION INSULATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Partition Insulation is a type of Acoustic Insulation used to reduce sound transmission within partitions."</data>
+      <data key="d5">"sound attenuation, insulation"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC INSULATION&quot;" target="&quot;CEILING INSULATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Ceiling Insulation is a type of Acoustic Insulation used to reduce sound transmission within ceilings."</data>
+      <data key="d5">"sound attenuation, insulation"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC SEALANT&quot;" target="&quot;PARTITIONS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Acoustic Sealant is used to seal partitions to reduce sound transmission, providing continuous beads of sealant."</data>
+      <data key="d5">"sound attenuation, sealing"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC SEALANT&quot;" target="&quot;CONTROL JOINTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Acoustic Sealant is used to seal control joints to reduce sound transmission, providing continuous beads of sealant."</data>
+      <data key="d5">"sound attenuation, sealing"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;ACOUSTIC SEALANT&quot;" target="&quot;CONDUIT, PIPE, DUCTS, AND ROUGH-IN BOXES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Acoustic Sealant is used to seal around conduit, pipe, ducts, and rough-in boxes to prevent sound transmission."</data>
+      <data key="d5">"sealing, sound attenuation"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;FINISHING ACCESSORIES&quot;" target="&quot;CONTROL JOINTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Finishing Accessories include Control Joints, which are used to allow for expansion and contraction in gypsum board installations."</data>
+      <data key="d5">"construction material, finishing"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;FINISHING ACCESSORIES&quot;" target="&quot;JOINT TREATMENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint Treatment is part of the Finishing Accessories used in gypsum board installations to ensure a smooth finish."</data>
+      <data key="d5">"construction material, finishing"</data>
+      <data key="d6">chunk-8d105a2e548cb7294ce30bf186063288</data>
+    </edge>
+    <edge source="&quot;SELF ADHERING VINYL TAPE&quot;" target="&quot;MOISTURE RESISTANT BOARD TYPES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Self adhering vinyl tape is used for raw edges of moisture resistant board types to ensure proper sealing and moisture resistance."</data>
+      <data key="d5">"sealing, moisture resistance"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;SPECIAL WATER RESISTANT TYPE JOINT COMPOUND&quot;" target="&quot;MOISTURE RESISTANT BOARD TYPES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Special water resistant type joint compound is used for treating joints, fasten heads, and cut edges of moisture resistant board types."</data>
+      <data key="d5">"joint treatment, moisture resistance"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;SPECIAL CHEMICAL HARDENING TYPE EXTERIOR JOINT COMPOUND&quot;" target="&quot;EXTERIOR APPLICATIONS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Special chemical hardening type exterior joint compound, referred to as GYP BD-5, is used for exterior applications."</data>
+      <data key="d5">"exterior use, hardening"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;SETTING TYPE OF JOINT COMPOUND&quot;" target="&quot;ABUSE-RESISTANT AND REINFORCED GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Setting type of joint compound, referred to as GYP BD-1, is recommended by the manufacturer for abuse-resistant and reinforced gypsum board."</data>
+      <data key="d5">"reinforcement, durability"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;TYPE 'S' BUGLE HEAD SCREWS&quot;" target="&quot;GYPSUM WALL ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Type 'S' bugle head screws are used for securing gypsum wall assemblies, ensuring proper fastening."</data>
+      <data key="d5">"fastening, construction"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;ZINC COATED SCREWS&quot;" target="&quot;MOISTURE RESISTANT GYPSUM WALL ASSEMBLY TYPES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Zinc coated screws are used for fastening moisture resistant gypsum wall assembly types, providing corrosion resistance."</data>
+      <data key="d5">"fastening, corrosion resistance"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;INSTALLER/APPLICATOR&quot;" target="&quot;INSTALLATION AREAS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Installer/Applicator is responsible for examining installation areas and ensuring compliance with requirements affecting work performance."</data>
+      <data key="d5">"inspection, compliance"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;METAL FRAMING&quot;" target="&quot;STUDS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Studs are a key component of Metal Framing, providing vertical support in wall construction."</data>
+      <data key="d5">"structural support, construction"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;SUSPENDED CEILINGS AND SOFFITS&quot;" target="&quot;FRAMING AND FURRING MEMBERS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Suspended ceilings and soffits are framing and furring members spaced at 24 inches on center, leveled to a tolerance of 1/1200."</data>
+      <data key="d5">"spacing, leveling"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;SUSPENDED CEILINGS AND SOFFITS&quot;" target="&quot;MAIN TEES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Main Tees are installed as part of the Suspended Ceilings and Soffits system, providing primary structural support."</data>
+      <data key="d5">"structural support, ceiling system"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;SUSPENDED CEILINGS AND SOFFITS&quot;" target="&quot;CROSS TEES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Cross Tees are installed perpendicular to Main Tees in the Suspended Ceilings and Soffits system, providing additional support."</data>
+      <data key="d5">"structural support, ceiling system"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;SUSPENDED CEILINGS AND SOFFITS&quot;" target="&quot;HANGER WIRES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Hanger Wires are used to suspend the Suspended Ceilings and Soffits system from the structure above."</data>
+      <data key="d5">"suspension, ceiling system"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;SPECIAL FRICTION STUDS&quot;" target="&quot;SHAFT WALL LINERS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Special friction studs are used in shaft wall installations to secure shaft wall liners sequentially."</data>
+      <data key="d5">"securing, installation"</data>
+      <data key="d6">chunk-4c3821d1780887185d31d928eb3b63a3</data>
+    </edge>
+    <edge source="&quot;STATE BUILDING CODE&quot;" target="&quot;DIAGONAL HANGER WIRE SPLAY BRACING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Diagonal Hanger Wire Splay Bracing is installed in conformance with the seismic requirements of the State Building Code, indicating the code's influence on construction standards."</data>
+      <data key="d5">"regulatory compliance, seismic safety"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;JACK STUDS&quot;" target="&quot;DOUBLE-HEADERS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Jack Studs support Double-headers above openings in walls, providing structural stability."</data>
+      <data key="d5">"structural support, wall construction"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;DOUBLE-HEADERS&quot;" target="&quot;SILL&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Double-headers and Sills work together to frame openings in walls, such as doors and windows."</data>
+      <data key="d5">"framing, wall construction"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;BLOCKING&quot;" target="&quot;STEEL PLATE REINFORCEMENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Blocking and Steel Plate Reinforcement are used together to provide additional support and strength to framing members."</data>
+      <data key="d5">"reinforcement, structural support"</data>
+      <data key="d6">chunk-4f771d3193522d95d5910404ca4639e3</data>
+    </edge>
+    <edge source="&quot;MAIN TEES&quot;" target="&quot;NON FIRE RATED SYSTEM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Main Tees are a key component of the Non Fire Rated System, installed 48 inches on center and suspended from the existing structure."</data>
+      <data key="d5">"structural component, installation"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;CROSS TEES&quot;" target="&quot;NON FIRE RATED SYSTEM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Cross Tees are installed perpendicular to main runners as part of the Non Fire Rated System, providing additional support."</data>
+      <data key="d5">"structural component, support"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;HANGER WIRES&quot;" target="&quot;NON FIRE RATED SYSTEM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Hanger Wires are used to suspend main tees and other components in the Non Fire Rated System, ensuring stability."</data>
+      <data key="d5">"suspension, stability"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;NON FIRE RATED SYSTEM&quot;" target="&quot;WALL TRACK&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Wall Track is installed on vertical surfaces as part of the Non Fire Rated System, intersecting suspension components."</data>
+      <data key="d5">"structural component, installation"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;NON FIRE RATED SYSTEM&quot;" target="&quot;DIAGONAL HANGER WIRE SPLAY BRACING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Diagonal Hanger Wire Splay Bracing is used in the Non Fire Rated System to meet seismic requirements."</data>
+      <data key="d5">"seismic safety, bracing"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;WALL TRACK&quot;" target="&quot;MANUFACTURER'S INSTRUCTIONS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Wall Track is installed according to the manufacturer's instructions to ensure proper installation and performance."</data>
+      <data key="d5">"installation guidelines, compliance"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;WALL TRACK&quot;" target="&quot;INDUSTRY ACCEPTED STANDARDS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Wall Track is installed according to industry accepted standards to ensure quality and safety."</data>
+      <data key="d5">"quality, safety"</data>
+      <data key="d6">chunk-43c2e074b660ceca94918b55b2bca35a</data>
+    </edge>
+    <edge source="&quot;SUBSTANTIAL COMPLETION&quot;" target="&quot;FIELD QUALITY CONTROL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Field Quality Control procedures must be followed and completed before the inspection for Substantial Completion."</data>
+      <data key="d5">"inspection, quality assurance"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;ARCHITECT&quot;" target="&quot;FIELD QUALITY CONTROL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Architect is responsible for ensuring that Field Quality Control standards are met before approving the work."</data>
+      <data key="d5">"oversight, quality assurance"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;OWNER&quot;" target="&quot;FINAL COMPLETION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Owner will occupy the building upon Final Completion of the construction work."</data>
+      <data key="d5">"occupancy, completion"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;FIELD QUALITY CONTROL&quot;" target="&quot;SECTION 01 40 00 - QUALITY REQUIREMENTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Field Quality Control must comply with the standards outlined in Section 01 40 00 - Quality Requirements."</data>
+      <data key="d5">"compliance, standards"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+    <edge source="&quot;SECTION 01 74 19 - CONSTRUCTION WASTE MANAGEMENT AND DISPOSAL&quot;" target="&quot;CLEANING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Cleaning procedures must comply with the requirements specified in Section 01 74 19 - Construction Waste Management and Disposal."</data>
+      <data key="d5">"compliance, waste management"</data>
+      <data key="d6">chunk-b625217386a257cac4fb0f37208910e0</data>
+    </edge>
+  </graph>
+</graphml>

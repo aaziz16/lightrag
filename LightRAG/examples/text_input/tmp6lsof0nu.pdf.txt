@@ -1,0 +1,413 @@
+---- Page 1 ----
+Cost #
+Conformed Construction Se
+Received_0
+03/10/23
+DEW CONSTRUCTION
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+Job #
+1036
+SECTION 09 65 00
+RESILIENT FLOORING
+PART 1 GENERAL
+1.01
+SECTION INCLUDES
+A. Furnishing, delivering, and installing the following resilient flooring work:
+1. Resilient sheet flooring.
+2. Resilient base.
+3. Accessories required for a complete installation.
+1.02
+REFERENCE STANDARDS
+A. Editions of listed standards as referenced by applicable codes, or most current edition if not
+referenced:
+1. ASHRAE. American Society of Heating, Refrigerating, and Air-Conditioning Engineers;
+ashrae.org.
+a. ASHRAE Std 55 - Thermal Environmental Conditions for Human Occupancy.
+2. ASTM. ASTM International; www.astm.org
+a. ASTM E662 - Standard Test Method for Specific Optical Density of Smoke Generated
+by Solid Materials.
+b. ASTM E648 - Standard Test Method for Critical Radiant Flux of Floor-Covering Systems
+Using a Radiant Heat Energy Source.
+c. ASTM F710 - Standard Practice for Preparing Concrete Floors to Receive Resilient
+Flooring.
+d. ASTM F1859 - Standard Specification for Rubber Sheet Floor Covering Without
+Backing.
+e. ASTM F1861 - Standard Specification for Resilient Wall Base.
+f. ASTM F1913 - Standard Specification for Vinyl Sheet Floor Covering Without Backing.
+3. IEC. International Electrotechnical Commission; www.iec.ch.
+4. NFPA. National Fire Protection Association; www.nfpa.org.
+a. NFPA 253 - Standard Method of Test for Critical Radiant Flux of Floor Covering Systems
+Using a Radiant Heat Energy Source.
+b. NFPA 258 - Recommended Practice for Determining Smoke Generation of Solid
+Materials.
+5. OTC. Ozone Transport Commission; www.OTCAIR.org
+6. APA. The Engineered Wood Association; www.apawood.org.
+a. APA Form L334 - Selection, Installation and Preparation of Plywood Underlayment.
+b. PS 1 - Structural Plywood.
+c. PS 2 - Performance Standard for Wood Structural Panels.
+7. RFCI. Resilient Floor Covering Institute; rfci.com
+1.03
+ADMINISTRATIVE REQUIREMENTS
+A. Coordination per Section 01 31 14 - Coordination, and as follows:
+1. Preinstallation Meeting: Preinstallation Meeting: Convene a preinstallation meeting one
+week before starting work of this Section; require attendance by all affected installers; review
+preparation and installation procedures and coordination and scheduling necessary for
+related work.
+1.04
+SUBMITTALS
+A. See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B. Construction Submittals
+Resilient Flooring
+09 65 00 - 1
+---- Page 2 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+1. Product Data: Submit manufacturer's printed product literature for products specified,
+including product standards, identifying materials, components and systems, performance
+criteria, finishes, use limitations, preparation and installation recommendations, and initial
+maintenance protective coating and cleaning recommendations, and the following:
+a. Typical section details indicating each specified system on proposed substrates and
+transitions to other flooring systems.
+b. Typical sections indicating flooring system abutting walls.
+2. Shop Drawings: Submit drawings showing plans, illustrative seams, location and types of
+transition strips, abrication and installation details, layout, patterns, colors, and the following:
+a. Requirements for expansion and contraction.
+b. Details and locations of each floor and wall termination condition.
+3. Selection Samples: Submit sample chains or architectural binder indicating manufacturer's
+complete range for each type of flooring material specified, to determine color, pattern,
+and/or composition for each type of material finish exposed to view.
+4. Verification Samples: Submit three representative samples of actual flooring material
+specified, not less than 12 by 12 inch in size, mounted on solid backing, illustrating color,
+pattern, and composition, for each resilient flooring product specified.
+a. When wood grain flooring is selected or specified, submit samples of visual wear layer
+demonstrating appearance of pattern; sample shall be not less than 4 square feet in
+size.
+5. Concrete Subfloor Test Report: Submit a copy of the moisture and alkalinity (pH) test
+reports, , and adhesive compatibility and adhesion test report.
+6. Certification: Prior to installation of flooring, submit written certification by flooring
+manufacturer and adhesive manufacturer that condition of subfloor is acceptable.
+7. Installer's Qualification Statement.
+C. Closeout Submittals
+1. Submit in accordance with Section 01 70 00 - Execution and Closeout Requirements and
+Section 01 78 00 - Closeout Submittals.
+2. Operation and Maintenance Data: Including maintenance procedures, recommended
+maintenance materials, related product data and MSDS sheets, directions for product use
+and performance, and suggested schedule for cleaning, and stripping and re-waxing if
+applicable to flooring material.
+3. Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+a. See Section 01 60 00 - Product Requirements, for additional provisions.
+b. Extra Flooring Material: Quantity equivalent to not less than five percent of each type,
+color, and pattern, in new, unopened packages.
+c. Extra Wall Base: Quantity equivalent to not less than five percent of each type and color
+in new, unopened packages.
+d. Extra Stair Materials: Quantity equivalent to five percent of each type and color.
+4. Warranty Documentation Manufacturers' executed material warranties and installers'
+workmanship warranties completed in Owner's name and registered with manufacturer, for
+each type of resilient flooring system installed on project ..
+5. Demonstration and Training: Provide training to Owner's maintenance personnel on proper
+cleaning and maintenance techniques for resilient athletic flooring. At Contractor's option,
+have flooring manufacturer's representative perform training. Contractor to coordinate.
+1.05
+QUALITY ASSURANCE
+A. Single Source Responsibility: Obtain materials through one source from a single manufacturer
+per flooring type.
+Resilient Flooring
+09 65 00 - 2
+---- Page 3 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+1. Provide accessory materials, including patching and fill material, seam sealant, and repair
+materials, of type and from source recommended by manufacturer of primary materials.
+B. Installer/Applicator Qualifications: Company specializing in installing specified flooring with
+minimum three years documented experience on installations of similar size and scope.
+C. Field Samples per Section 01 40 00 - Quality Requirements: Provide field samples, dry laid, to
+demonstrate aesthetic effects of materials in situ, assisting the Architect and Owner in making
+final selections.
+1. Minimum Layout Size: 25 square feet (2.3 square meters).
+D. Regulatory Requirements:
+1. Fire-Test-Response Characteristics: As determined by testing identical products according
+to ASTM E648 or NFPA 253 by a qualified testing agency.
+a. Critical Radiant Flux Classification: Class I; not less than 0.45 W/cm2
+b. Smoke Density per ASTM E662 or NFPA 258: 450 or less
+1.06
+DELIVERY, STORAGE, AND HANDLING
+A. See Section 01 74 19 - Construction Waste Management and Disposal for packaging waste
+requirements.
+B. Comply with manufacturer's instructions and recommendations, Section 01 60 00 - Product
+Requirements, and as follows:
+1. Deliver materials to project site in unopened containers clearly labeled with manufacturer's
+name and identification of contents.
+2. Upon receipt, immediately remove any shrink-wrap and check materials for damage and the
+correct style, color, quantity and run numbers.
+3. Store all materials off of the floor in an acclimatized, weather-tight space. in dry and clean
+location until needed for installation. During installation, handle in a manner that will prevent
+marring and soiling of finished surfaces.
+4. Protect roll materials from damage by storing on end, unless otherwise indicated by
+manufacturer.
+5. Store base material unrolled and flat, unless otherwise indicated by manufacturer.
+1.07
+FIELD CONDITIONS
+A. Conditions and Measurements: Visit jobsite to verify installation conditions and floor
+measurements.
+B. Ambient Conditions per manufacturer's written recommendations, Section 01 70 00 - Execution
+and Closeout Requirements, and as follows:
+1. New concrete slabs shall be flat, clean and dry passing all flooring manufacturers' moisture
+testing requirements.
+2. Environmental Limitations: Do not deliver or install until building is enclosed, wet work is
+complete and HVAC system has been operating a minimum of two weeks, consistently
+maintaining temperature and RH at occupancy levels per ASHRAE Std 55 (Figure 5.2.1.1.),
+per manufacturer's recommendations.
+a. Maintain temperature and humidity at occupancy levels.
+3. Acclimate product to installation location.
+a. Deliver materials to jobsite room in which it will be installed 48 hours before installation.
+b. Maintain Temperature: Minimum 65 degrees F, and maximum 80 degrees F for not less
+than 48 hours prior to and during installation and for not less than one week after
+installation has been completed. Susequently, do not allow temperature in installed
+spaces to drop below 55 degrees F or to go above 100 degrees F.
+c. Maintain Humidity: 25 to 60 percent RH prior to and during Installation.
+Resilient Flooring
+09 65 00 - 3
+---- Page 4 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+1.08
+WARRANTY
+A. Manufacturer Warranty: Prepare and submit in accordance with Section 01 78 00 - Closeout
+Submittals.
+1. Resilient Sheet Flooring: Provide manufacturer's limited warranty stating resilient flooring is
+guaranteed to be free from wear-through due to normal use in light industrial and
+commercial applications.
+a. Warranty Period: five years from date of Substantial Completion.
+B. Adhesive Delamination Warranty: Provide manufacturer's warranty stating that there shall be no
+delamination failure:
+1. Due to adhesive failure for a period of three years from the date of Substantial Completion
+when applied to adhere flooring materials per Adhesive manufacturer's requirements.
+2. As long as substrate moisture vapor emissions and alkalinity comply with adhesive
+manufacturer's requirements.
+3. Adhesive shall be warrantied to a minimum of 99 percent Relative Humidity.
+PART 2 PRODUCTS
+2.01
+SHEET FLOORING
+A. Homogenous Sheet Flooring: Homogeneous without backing, with color and pattern throughout
+full thickness.
+1. Manufacturers:
+a. Altro; Aquarius: www.altrofloors.com. (Basis of Design)
+2. Minimum Requirements: Comply with ASTM F1859, without backing.
+3. Critical Radiant Flux (CRF): Minimum 0.45 watt per square centimeter, when tested in
+accordance with ASTM E 648 or ASTM E 648.
+4. Thickness: 2 mm minimum.
+5. Seams: Heat welded.
+6. Integral coved base. Height: As indicated on Drawings.
+7. Surface Texture: Safety flooring.
+8. Color and pattern: Jellyfish PX2005.
+B. Welding Rod: Solid bead in material compatible with flooring, produced by flooring manufacturer
+for heat welding seams, and in color matching field color.
+2.02
+RESILIENT BASE (RB)
+A. Resilient Base: ASTM F1861, Type TS rubber, vulcanized thermoset; top set Style B, Cove.
+1. Manufacturers: Subject to compliance with these Specifications, provide one of the following:
+a. Mannington; www.manningtoncommercial.com.
+b. Nora Systems, Inc .; www.nora.com.
+c. Roppe Corp: www.roppe.com (Basis of Design).
+d. Other manufacturer's products accepted by the Awarding Authority as equal to the
+specified products in terms of construction, quality, durability, performance, and or
+appearance. Submit as substitutions: see Section 01 25 00 - Substitution Procedures.
+2. Height: four inch.
+3. Thickness: 0.125 inch.
+4. Finish: Satin.
+5. Length: Roll.
+6. Color: As indicated on drawings.
+7. Premolded external corners, internal corners, and end stops.
+Resilient Flooring
+09 65 00 - 4
+---- Page 5 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+2.03
+ACCESSORIES
+A. Resilient Floor Adhesive: Low VOC, low odor 2-part polyurethane water-resistant type as
+recommended by resilient sheet flooring manufacturer for use in occupied facilities to suit
+resilient sheet flooring product and substrate conditions indicated.
+1. Adhesive - Manufacturers List: Subject to compliance with requirements, provide one of the
+following products:
+a. BOD for use on porous surfaces, including wood for floors where spillage is anticipated
+or with drains: AltroFix 30
+b. Other manufacturer's products accepted by the Awarding Authority as equal to the
+specified products in terms of construction, quality, durability, performance, and or
+appearance. Submit as substitutions: see Section 01 25 00 - Substitution Procedures.
+2. VOC limits: < 25 g/L.
+B. Resilient base adhesive: Low VOC adhesives as recommended by resilient base manufacturer
+for the appropriate sub-state.
+1. VOC limits: < 50g/L
+C. Primers: Solvent-free, low odor type as recommended by resilient flooring manufacturer for
+installation.
+D. Seaming Materials: Type as recommended by resilient flooring manufacturer for installation.
+1. Color: As selected by Architect from flooring manufacturer's complete range of standard and
+custom colors.
+E. Moldings, Transition and Edge Strips: Shapes and profiles as indicated on the Drawings; Same
+manufacturer as base.
+F. Filler for Coved Base: Plastic.
+G. Cleaner: Neutral, as recommended by manufacturer.
+PART 3 EXECUTION
+3.01
+EXAMINATION
+A. Examination and Acceptance of Conditions per Section 01 40 00 - Quality Requirements,
+Section 01 70 00 - Execution and Closeout Requirements, and as follows:
+1. Acceptance of Conditions: Carefully examine installation areas with Installer/Applicator
+present, for compliance with requirements affecting work performance.
+a. Verify that field measurements, surfaces, substrates, deflection, tolerances, levelness,
+plumbness, temperature, humidity, moisture content level, cleanliness and other
+conditions are per manufacturer's requirements, and ready to receive work.
+1) Verify that substrate is flat to within 1/8 inch in 10 feet (4.69mm in 3m) and within the
+equivalent of 1/32 inch in 12 inches (0.78mm per 0.3m) per ASTM F710.
+2) Where flatness and levelness tolerances deviate from manufactuerer requirements,
+provide floor leveling toppings to bring substrate withing manufaccturer tolerances.
+2. Do not install until Owner-engaged independent testing agency shows moisture emission
+rate, alkalinity pH, and bond testing results meet flooring and adhesive manufacturer's
+requirements.
+a. If test results exceed limitation, flooring installation shall not proceed until corrective
+action has been completed and new tests are below requirements.
+b. Proceed with installation only after unsatisfactory conditions have been corrected.
+B. Verify that surfaces are flat to tolerances acceptable to flooring manufacturer, free of cracks that
+might telegraph through flooring, clean, dry, and free of curing compounds, surface hardeners,
+and other chemicals that might interfere with bonding of flooring to substrate.
+C. Verify that wall surfaces are smooth and flat within the tolerances specified for that type of work,
+are dust-free, and are ready to receive resilient base.
+Resilient Flooring
+09 65 00 - 5
+---- Page 6 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+3.02
+PREPARATION
+A. Surface Preparation: Refer to manufacturer's instructions and recommendations, Section 01 40
+00 - Quality Requirements, and Section 01 70 00 - Execution and Closeout Requirements, and
+as follows:
+1. Prepare substrates to ensure proper adhesion of the resilient flooring system.
+2. Wood Substrates and Exterior Panel Type Underlayment. Prepare and install per PS 1, PS
+2, and APA Form L334.
+3. Expansion joints, isolation joints or other moving joints in concrete shall not be filled with
+patching compound nor covered with resilient flooring.
+4. Sweep and vacuum clean flooring substrates immediately prior to installation of resilient
+sheet flooring
+B. Remove subfloor ridges and bumps. Fill minor low spots, cracks, joints, holes, and other defects
+with subfloor filler to achieve smooth, flat, hard surface.
+C. Prohibit traffic until filler is fully cured.
+D. Apply primer to prevent "bleed-through" or interference with adhesion by substances that cannot
+be removed.
+3.03
+INSTALLATION - GENERAL
+A. General: Install Resilient Flooring and Accessories according to the Drawings, submittals,
+manufacturer's instructions, Section 01 70 00 - Execution and Closeout Requirements, and as
+follows:
+1. Starting installation constitutes acceptance of subfloor conditions.
+2. Install in accordance with manufacturer's written instructions.
+3. Adhesive-Applied Installation:
+a. Spread only enough adhesive to permit installation of materials before initial set.
+b. Fit joints and butt seams tightly.
+c. Set flooring in place, press with heavy roller to attain full adhesion.
+4. Where type of floor finish, pattern, or color are different on opposite sides of door, terminate
+flooring under centerline of door.
+5. Install edge strips at unprotected or exposed edges, where flooring terminates, and where
+indicated.
+6. Scribe flooring to walls, columns, cabinets, floor outlets, and other appurtenances to produce
+tight joints.
+3.04
+INSTALLATION - SHEET FLOORING
+A. Lay out without adhesive, and reverse roll the resilient sheet flooring during acclimation period.
+1. Dry lay the sheet on the floor for 24 hours to ensure the sheet is totally relaxed.
+2. Seal seams by heat welding where indicated.
+3. Lay flooring with tightly butted seams, unless recommended otherwise by the flooring
+manufacturer.
+a. Use seam sealer as recommended by the manufacturer for specific flooring type.
+B. Cutting: Lay resilient sheet flooring starting at the marked centerline. Cut the sheet closely to the
+wall using a utility knife.
+1. Leave a 3/16 inch (5mm) gap at all inside and outside corners.
+2. Double cut sheet at seams.
+C. Extend flooring into toe spaces, door reveals, closets, and similar openings.
+1. Extend resilient sheet flooring to center of door openings.
+D. Maintain reference markers, holes, and openings that are in place or marked for future cutting by
+repeating on sheet flooring as marked on substrates.
+1. Use chalk or other non-permanent, non-staining marking device.
+Resilient Flooring
+09 65 00 - 6
+---- Page 7 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+E. Expansion Joints: Locate expansion joints and other sealant-filled joints, including control,
+contraction, and isolation joints, where indicated during installation of adhesive and resilient
+sheet flooring.
+1. Do not saw-cut joints after installing resilient flooring.
+F. Do not fill movement joints with patching compound or cover with resilient flooring.
+1. Install movement joint systems per manufacturers instructions.
+G. Spray-Applied Adhesive Method:
+1. Do not place finish-flooring product until adhesive applied to substrate is ready to receive it
+per adhesive manufacturer's instructions.
+2. Mark floor equivalent to manufacturer's recommended area for size of container used. Apply
+no more or less adhesive than what manufacturer recommends.
+3. Outline perimeter of the room with a four to five inch (100mm to 125mm) wide band of
+adhesive. Apply the adhesive from eight-12 inches (200mm to 300mm) above the substrate.
+4. Lay flooring finish material, adjust and reset until layout placement is certain.
+5. Following installation of finish flooring (typically within an hour after installing) roll entire floor
+area with a 75 to 100 lb (34 to 45 kg) roller to ensure proper bonding with instant shear
+strength.
+6. Close space to traffic for two hours before beginning installation, however, flooring is
+immediately available after rolling for all range of use.
+H. Trowel Adhesive Method: Adhere resilient sheet flooring to substrates using a full spread of
+adhesive applied to substrate with a trowel to produce a completed installation without open
+cracks, voids, raising and puckering at joints, telegraphing of adhesive spreader marks, or other
+surface imperfections.
+1. Allow adhesive to set-up.
+2. Roll the flooring within an hour after placing the flooring into the adhesive bed.
+a. Roll the seam area using a hand roller.
+b. Roll the floor in both directions, with a 100 lb three-section roller overlapping the
+previous rolled area by 1/2 of the width of the roller.
+3. Protect flooring from foot traffic for 12 hours before and after installation per adhesive
+manufacturer's instructions to allow proper set up time.
+a. Keep furniture, fixtures, and rolling traffic off the floor for 48 hours.
+I. Coved Base: Install as detailed on drawings, using coved base filler as backing at floor to wall
+junction. Extend sheet flooring vertically to height indicated, and cover top edge with metal cap
+strip.
+3.05
+INSTALLATION - RESILIENT BASE
+A. Fit joints tightly and make vertical. Maintain minimum dimension of 18 inches between joints.
+B. Miter internal corners. At external corners, use premolded units. At exposed ends, use
+premolded units.
+C. Install base on solid backing. Bond tightly to wall and floor surfaces.
+D. Scribe and fit to door frames and other interruptions.
+3.06
+FIELD QUALITY CONTROL
+A. Site Tests and Inspections per Section 01 40 00 - Quality Requirements, and as follows:
+1. Inspect floor installation for non-conforming work including, but not limited to, the following:
+a. Improper substrate preparation as iIndicated by: Buckling or telegraphing; air blisters,
+buckles, and dirt or debris under the sheet flooring; and Moisture related failures.
+b. Lack of adequate adhesion as exhibited by: Loose edges or seams; seams peaking;
+shrinkage, or wide or too tight joints; or adhesive oozing or adhesive on top of the
+flooring
+Resilient Flooring
+09 65 00 - 7
+---- Page 8 ----
+Charlotte Central School - Phase 2 Improvements / 19-0799
+Bid Set
+c. Damaged flooring as indicated by indentations, splits, cuts, cracks, punctures, melting,
+or burn marks
+B. Remove, repair and reinstall or restore-in-place damaged items prior to inspection for
+Substantial Completion.
+1. ouch-up damaged surface finishes.
+2. Replace damaged materials or items with new if repair not acceptable to Architect.
+3.07
+CLEANING
+A. Comply with requirements of Section 01 74 19 - Construction Waste Management and Disposal.
+B. Remove excess adhesive from floor, base, and wall surfaces without damage.
+C. Clean, and provide initial preparation, maintenance, and other requirements, for initial
+occupancy, in accordance with manufacturer's instructions.
+3.08
+PROTECTION
+A. Protect finished resilient flooring from construction traffic to ensure that it is without damage
+upon Date of Substantial Completion or Owner ccupancy, whichever occurs first.
+B. Prohibit traffic on resilient flooring for 48 hours after installation, or for time period indicated by
+manufacturer, whichever is longer.
+END OF SECTION
+Resilient Flooring
+09 65 00 - 8

@@ -1,0 +1,2484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DEW CONSTRUCTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DEW Construction is a construction company located at 277 Blair Park Road, Suite 130, Williston, Vermont 05495. They are involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;BECKY ST. GEORGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Becky St. George is the Submittal Manager at DEW Construction, responsible for managing submittals for the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;STEEL ELEMENTS INTERNATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Steel Elements International is a contractor involved in the Charlotte Central School Phase project, responsible for providing materials and services."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;PETER GAUTHIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Gauthier is a representative of Steel Elements International, involved in the submittal process for the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;MIKE WANDERLICH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mike Wanderlich is an approver from Dore &amp; Whittier Architects, responsible for reviewing submittals for the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;LUKE KEENAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Luke Keenan is a representative of DEW Construction, involved in the review and approval process for submittals related to the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;DORE &amp; WHITTIER ARCHITECTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dore &amp; Whittier Architects is an architectural firm involved in the Charlotte Central School Phase project, responsible for reviewing and approving submittals."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;CHAMPLAIN VALLEY SCHOOL DISTRICT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Champlain Valley School District is the educational organization overseeing the Charlotte Central School, which is undergoing renovations in Phase II of the project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Charlotte Central School Phase II is a renovation project for the Charlotte Central School, involving multiple organizations and contractors."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;CHARLOTTE, VERMONT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte, Vermont is the location of the Charlotte Central School, which is undergoing renovations in Phase II of the project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;THOMAS HENGELSBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thomas Hengelsberg is a representative of Dore &amp; Whittier Architects, involved in the review process for the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;HEATHER GRATTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Heather Gratton is a representative of Dore &amp; Whittier Architects, involved in the review process for the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;DAKOTA STENDER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dakota Stender is a representative of DEW Construction, involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;SCOTT SPEYERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scott Speyers is a representative of DEW Construction, involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;KEVIN CORMIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kevin Cormier is a representative of Steel Elements International, involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;SUE RAMSEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sue Ramsey is a representative of Steel Elements International, involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;CHRIS GIARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chris Giard is a representative of Champlain Valley School District, involved in the Charlotte Central School Phase project."</data>
+      <data key="d2">chunk-c77192228c613548a1748d49aa00502b</data>
+    </node>
+    <node id="&quot;GOLD BOND XP HI-IMPACT GYPSUM BOARD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gold Bond XP Hi-Impact Gypsum Board is a specific type of gypsum board mentioned in the text, known for its impact resistance."&lt;SEP&gt;"Gold Bond XP Hi-Impact Gypsum Board is a type of gypsum board that is mold, mildew, moisture, and fire-resistant, used for interior wall and ceiling applications."&lt;SEP&gt;"Gold Bond XP Hi-Impact Gypsum Board is a type of gypsum board with specific physical properties, including thickness, width, length, weight, and various strengths and resistances."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-c77192228c613548a1748d49aa00502b&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38</data>
+    </node>
+    <node id="&quot;XP HI-IMPACT GYPSUM BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"XP Hi-Impact Gypsum Board is a type of gypsum board that is 100-percent recycled, offers superior abrasion, mold, mildew, and moisture resistance, and contains a fiberglass mesh for impact and penetration resistance."</data>
+      <data key="d2">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;GRIDMARX&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GridMarX is a guide mark system printed on the surface of XP Hi-Impact Gypsum Board to facilitate faster and more accurate installation."&lt;SEP&gt;"GridMarX is a guide system that helps in making accurate cuts and provides quick identification and uniform nail/screw patterns for gypsum board installation."&lt;SEP&gt;"GridMarX is a preprinted fastening guide on gypsum boards that allows for faster and more accurate installation."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;GA-214&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GA-214 is a guideline document that provides recommendations for the levels of finish for gypsum board, glass mat, and fiber-reinforced gypsum panels."&lt;SEP&gt;"GA-214 is a guideline document titled 'Recommended Levels of Finish for Gypsum Board, Glass Mat and Fiber-Reinforced Gypsum Panels.'"&lt;SEP&gt;"GA-214 is a guideline for recommended levels of finish for gypsum board, used to determine the level of finishing needed for decoration."&lt;SEP&gt;"GA-214 is a guideline provided by the Gypsum Association for the recommended levels of finish for gypsum board, glass mat, and fiber-reinforced gypsum panels."&lt;SEP&gt;"GA-214 is a standard for finishing gypsum board, which is referenced for the finishing of XP Hi-Impact Gypsum Board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;ASTM D3273&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM D3273 is a standard test method for resistance to growth of mold on the surface of interior coatings in an environmental chamber."&lt;SEP&gt;"ASTM D3273 is a standard test method for resistance to mold growth on the surface of interior coatings in an environmental chamber, which XP Hi-Impact Gypsum Board meets with a score of 10."&lt;SEP&gt;"ASTM D3273 is a standard test method used to evaluate the resistance of materials to mold growth in an environmental chamber."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;ASTM G21&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM G21 is a standard practice for determining resistance of synthetic polymeric materials to fungi, which XP Hi-Impact Gypsum Board meets with a score of 0."&lt;SEP&gt;"ASTM G21 is a standard practice for determining resistance of synthetic polymeric materials to fungi."&lt;SEP&gt;"ASTM G21 is a standard test method used to evaluate the resistance of materials to mold."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;MAX 12&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MaX 12 is an optimized fastener pattern for perimeter and field in UL designs, providing 1-hour fire ratings with fewer fasteners for 5/8 in. Fire-Shield products."&lt;SEP&gt;"MaX 12 is an optimized fastener pattern for perimeter and field in UL designs, providing 1-hour fire ratings with fewer fasteners."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;GREENGUARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GREENGUARD is a certification program that certifies products for low chemical emissions into indoor air during product usage, which XP Hi-Impact Gypsum Board has achieved."&lt;SEP&gt;"GREENGUARD is an organization that certifies products for low chemical emissions into indoor air during product usage."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;CALIFORNIA SPECIFICATION 01350&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"California Specification 01350 is a set of standards for low-VOC emitting materials in California."&lt;SEP&gt;"California Specification 01350 is a standard for low-VOC emitting materials, which XP Hi-Impact Gypsum Board meets."&lt;SEP&gt;"California Specification 01350 is a standard that qualifies materials as low-VOC emitting, ensuring they meet specific environmental criteria."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;UL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL (Underwriters Laboratories) is a global safety certification company that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."&lt;SEP&gt;"UL is an organization that certifies products for low chemical emissions, as indicated by the UL 2818 certification for Gold Bond Building Products."&lt;SEP&gt;"UL is an organization that provides certification for fire-rated designs and low chemical emissions standards."&lt;SEP&gt;"UL is an organization that provides information about product usage and qualifications for low-VOC emitting materials."&lt;SEP&gt;"UL is an organization that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services, referenced in the context of MaX 12 fastener patterns."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;JOB NAME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Job Name refers to the specific construction project for which the gypsum board is being used."&lt;SEP&gt;"Job Name refers to the specific project or task for which the XP Hi-Impact Gypsum Board is being used."&lt;SEP&gt;"Job Name refers to the specific project or task for which the gypsum board is being installed."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;CONTRACTOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Contractor refers to the individual or company responsible for the construction project."&lt;SEP&gt;"Contractor refers to the individual or company responsible for the installation of XP Hi-Impact Gypsum Board."&lt;SEP&gt;"The Contractor is the individual or company responsible for the installation of the gypsum board."&lt;SEP&gt;"The contractor is responsible for selecting the paint to provide the desired finish characteristics for gypsum board surfaces."&lt;SEP&gt;"The contractor is responsible for selecting the paint to provide the desired finish characteristics on the gypsum board."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;PURPLE FACE PAPER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PURPLE face paper is a type of heavy paper that is 100-percent recycled and offers superior abrasion, mold, mildew, and moisture resistance."</data>
+      <data key="d2">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;GRAY BACK PAPER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gray back paper is a 100-percent recycled paper that is mold, mildew, and moisture resistant, with a fiberglass mesh embedded into the core for more impact and penetration resistance."</data>
+      <data key="d2">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;GRIDMARX GUIDE MARKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GridMarX guide marks are preprinted marks on gypsum boards that help in making accurate cuts and ensuring uniform nail/screw patterns."&lt;SEP&gt;"GridMarX guide marks are printed on the paper surface of XP Hi-Impact Gypsum Board to allow for faster and more accurate installation."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;ASTM C840&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM C840 is a specific standard provided by ASTM for the installation of gypsum board."&lt;SEP&gt;"ASTM C840 is a standard referenced for the application of drywall adhesive to the face of studs or joists in continuous beads."&lt;SEP&gt;"ASTM C840 is a standard specification for the application and finishing of gypsum board."&lt;SEP&gt;"ASTM C840 is a standard that describes the methods for installing gypsum board."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </node>
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the United States that has specific specifications for low-VOC emitting materials, known as California Specification 01350."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38</data>
+    </node>
+    <node id="&quot;ASTM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM (American Society for Testing and Materials) is an international standards organization that develops and publishes voluntary consensus technical standards for a wide range of materials, products, systems, and services."&lt;SEP&gt;"ASTM is an international standards organization that develops and publishes voluntary consensus technical standards for a wide range of materials, products, systems, and services."&lt;SEP&gt;"ASTM is an international standards organization that provides methods for installing gypsum board, as described in ASTM C840."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38</data>
+    </node>
+    <node id="&quot;GA-216&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GA-216 is a guideline document that outlines the requirements for steel studs to maximize impact resistance and eliminate potential screw spin-out."&lt;SEP&gt;"GA-216 is a guideline provided by the Gypsum Association for the application and finishing of gypsum panel products."&lt;SEP&gt;"GA-216 is a specific standard provided by the Gypsum Association for the installation of gypsum board."&lt;SEP&gt;"GA-216 is a standard provided by the Gypsum Association for the installation of gypsum board."&lt;SEP&gt;"GA-216 is a standard that provides guidelines for the application and finishing of gypsum panel products."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;CALRECYCLE.CA.GOV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"calrecycle.ca.gov is a website that provides information about California's green building specifications, including Section 01350."&lt;SEP&gt;"calrecycle.ca.gov is a website that provides information on California's green building standards, including Specification 01350."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;XP HI-IMPACT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"XP Hi-Impact is a type of gypsum board with specific physical properties, including thickness, width, length, weight, and various strengths and resistances."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38</data>
+    </node>
+    <node id="&quot;GOLD BOND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gold Bond is a brand that produces XP Hi-Impact Gypsum Board, known for its durability and specific physical properties."&lt;SEP&gt;"Gold Bond is a company that manufactures gypsum board products, including Fire-Shield Gypsum Board."&lt;SEP&gt;"Gold Bond is a company that produces gypsum board products, including Fire-Shield Gypsum Board."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;SUBMITTAL APPROVALS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Submittal Approvals refer to the process of getting stamps or signatures to approve the installation and use of materials like gypsum board."&lt;SEP&gt;"Submittal Approvals refer to the process of getting stamps or signatures to approve the installation or use of materials."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;PHYSICAL PROPERTIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Physical Properties refer to the measurable attributes of the XP Hi-Impact Gypsum Board, such as thickness, width, length, weight, and various strengths and resistances."</data>
+      <data key="d2">chunk-4e97beba92897404a080de1129584a38</data>
+    </node>
+    <node id="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gypsum Association is an organization that provides guidelines and recommendations for the application and finishing of gypsum panel products, as well as the prevention of mold growth."&lt;SEP&gt;"Gypsum Association is an organization that provides standards and guidelines for the application and finishing of gypsum panel products."&lt;SEP&gt;"Gypsum Association is an organization that provides standards for the installation of gypsum board, including GA-216."&lt;SEP&gt;"Gypsum Association is an organization that publishes guidelines for joint treatment and finishing, referenced in the document."&lt;SEP&gt;"Gypsum Association is an organization that publishes standards and manuals for the application and fire resistance design of gypsum boards."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-5177f40160ba93c1221e4bd9780d6f42&lt;SEP&gt;chunk-4e97beba92897404a080de1129584a38&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gold Bond Building Products, LLC is a manufacturer of gypsum board products, including Fire-Shield Gypsum Board, and is serviced exclusively by National Gypsum Company."&lt;SEP&gt;"Gold Bond Building Products, LLC is a manufacturer that provides standards and guidelines for construction materials, specifically gypsum board products."&lt;SEP&gt;"Gold Bond Building Products, LLC is a manufacturer that provides standards and guidelines for the application and finishing of gypsum panel products."&lt;SEP&gt;"Gold Bond Building Products, LLC manufactures the Gold Bond family of products, including Fire-Shield Gypsum Board."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;ASTM C1396&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1396 is a standard specification for gypsum board, defining criteria for special fire resistance."&lt;SEP&gt;"ASTM C1396 is a standard specification for gypsum board, defining minimum values for various properties."&lt;SEP&gt;"ASTM C1396 is a standard specification for gypsum board, detailing the requirements for physical properties and performance."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;ASTM C473&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C473 is a standard test method for physical testing of gypsum panel products, including tests for bending radius, thermal resistance, and water absorption."&lt;SEP&gt;"ASTM C473 is a standard test method for physical testing of gypsum panel products."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;ASTM C518&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C518 is a standard test method for measuring the thermal performance of materials, which is used to test the gypsum board."&lt;SEP&gt;"ASTM C518 is a standard test method for steady-state thermal transmission properties by means of the heat flow meter apparatus."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;ASTM C1629&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM C1629 is a standard classification for abuse-resistant nondecorated interior gypsum panel products and fiber-reinforced cement panels."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ASTM E84&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E84 is a standard test method for surface burning characteristics of building materials, referenced for the flame spread and smoke developed ratings of the gypsum boards."&lt;SEP&gt;"ASTM E84 is a standard test method for surface burning characteristics of building materials."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;ASTM E96&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E96 is a standard test method for water vapor transmission of materials."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ASTM E119&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E119 is a standard test method for fire tests of building construction and materials."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;ASTM E136&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E136 is a standard test method for assessing the noncombustibility of materials."&lt;SEP&gt;"ASTM E136 is a standard test method for behavior of materials in a vertical tube furnace at 750°C."&lt;SEP&gt;"ASTM E136 is a standard test method for the behavior of materials in a vertical tube furnace at 750°C, referenced to indicate that the core of the gypsum board is noncombustible."&lt;SEP&gt;"ASTM E136 is a standard test method for the behavior of materials in a vertical tube furnace at 750°C."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-5177f40160ba93c1221e4bd9780d6f42&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;GOLD BOND® XP® HI-IMPACT® GYPSUM BOARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gold Bond® XP® Hi-Impact® Gypsum Board is a product that provides high impact resistance and is used in construction, with specific guidelines for installation and finishing."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;THERMAL RESISTANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Thermal Resistance refers to the ability of a material to resist the flow of heat, measured in R-values."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;PERMEANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Permeance is a measure of the ability of a material to allow the passage of water vapor, measured in perms."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;WATER ABSORPTION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Water Absorption refers to the amount of water absorbed by a material, expressed as a percentage of its weight."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;MOLD RESISTANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Mold Resistance indicates the ability of a material to resist the growth of mold, often tested using ASTM standards."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;SURFACE ABRASION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Surface Abrasion refers to the resistance of a material's surface to wear and tear, often tested using ASTM methods."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;INDENTATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Indentation measures the resistance of a material to being dented or indented, often tested using ASTM methods."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;SOFT-BODY IMPACT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Soft-Body Impact refers to the resistance of a material to impacts from soft objects, often tested using ASTM methods."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;HARD-BODY IMPACT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Hard-Body Impact refers to the resistance of a material to impacts from hard objects, often tested using ASTM methods."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;COMBUSTIBILITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Combustibility refers to the ability of a material to catch fire and burn, often tested using ASTM standards."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;SURFACE BURNING CHARACTERISTICS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Surface Burning Characteristics describe how a material behaves when exposed to fire, including flame spread and smoke development, often tested using ASTM E84."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;FLAME SPREAD&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flame Spread is a measure of how quickly flames spread across the surface of a material, often tested using ASTM E84."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;SMOKE DEVELOPMENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Smoke Development measures the amount of smoke produced by a material when it burns, often tested using ASTM E84."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;PRODUCT STANDARD COMPLIANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Product Standard Compliance indicates that a product meets specific standards and regulations, often set by organizations like ASTM."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;CORE TYPE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Core Type refers to the specific type of core material used in a product, such as Type X for fire resistance."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;UL TYPE DESIGNATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"UL Type Designation is a classification given by Underwriters Laboratories to indicate the fire resistance of a material."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;XP HI-IMPACT®&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"XP HI-IMPACT® is a type of gypsum board known for its high impact resistance, manufactured by Gold Bond Building Products, LLC."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;NGC CONSTRUCTION GUIDE&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"NGC Construction Guide is a document provided by Gold Bond Building Products, LLC that includes manufacturer standards."&lt;SEP&gt;"NGC Construction Guide is a document provided by Gold Bond Building Products, LLC that includes standards and guidelines for construction using their products."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;ASTM D3274&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM D3274 is a standard test method for rating the resistance of coatings to mold growth."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ASTM D4977&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM D4977 is a standard test method for measuring the abrasion resistance of materials."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ASTM D5420&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM D5420 is a standard test method for measuring the impact resistance of materials."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ASTM E695&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ASTM E695 is a standard test method for measuring the resistance of materials to soft-body impacts."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;ANNEX A1&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Annex A1 is a section within ASTM standards that provides additional guidelines or methods, such as for hard-body impact testing."</data>
+      <data key="d2">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </node>
+    <node id="&quot;HI-IMPACT XP GYPSUM BOARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hi-Impact XP Gypsum Board is a product designed to provide extra protection against mold and mildew compared to standard gypsum board products."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;1-800-NATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"1-800-NATIONAL is a contact number provided for obtaining copies of specific fire resistance tests."&lt;SEP&gt;"1-800-NATIONAL is a contact number provided for obtaining copies of specific tests related to construction designs and fire-resistance requirements."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gypsum Board is a building material used for walls and ceilings, produced by Gold Bond and tested for various standards."&lt;SEP&gt;"Gypsum Board is a construction material used for creating walls and ceilings, with specific installation and handling guidelines."&lt;SEP&gt;"Gypsum Board is a construction material used for walls and ceilings, known for its fire resistance and ease of installation."&lt;SEP&gt;"Gypsum Board is a construction material used for walls and ceilings, mentioned throughout the text for its various applications and requirements."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;CONTROL JOINTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Control Joints are intentional gaps in construction materials like gypsum board to manage the natural expansion and contraction of the materials."&lt;SEP&gt;"Control Joints are intentional gaps in construction materials to allow for movement and prevent cracking, recommended for long continuous runs of walls, partitions, or ceilings."&lt;SEP&gt;"Control Joints are specific points in gypsum board installations designed to manage the location of joints and prevent cracking."&lt;SEP&gt;"Control Joints are structural elements used to isolate gypsum board from building movement and prevent direct loads on the assemblies."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;DOUBLE NAILING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Double Nailing is an alternate method of attaching gypsum board to minimize nail pops by doubling up on field nails."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;DRYWALL ADHESIVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Drywall Adhesive is used to attach gypsum board to studs or joists, applied in continuous beads."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;MOLD AND MILDEW RESISTANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mold and Mildew Resistance refers to the ability of Hi-Impact XP Gypsum Board to resist mold and mildew compared to standard gypsum board products."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;FIRE RESISTANCE RATINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fire Resistance Ratings represent the results of tests on assemblies made up of specific materials in a specific configuration to meet fire-resistance requirements."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;ROOM TEMPERATURE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Room Temperature refers to the ambient temperature maintained in a room, which is crucial for the proper installation and curing of gypsum board."&lt;SEP&gt;"Room Temperature refers to the specific temperature conditions required during the application and curing of gypsum board."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;VENTILATION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ventilation is the process of supplying fresh air to a space, important during the installation and curing of gypsum board to ensure proper drying."&lt;SEP&gt;"Ventilation refers to the adequate airflow required in the working area during the installation and curing period of gypsum board."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;DRYWALL SCREWS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Drywall Screws are accessories used in the installation of gypsum board."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;JOINT TAPE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Joint Tape is an accessory used to cover joints between pieces of gypsum board."&lt;SEP&gt;"Joint tape is a supplemental material used to cover joints between gypsum boards."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;READY MIX JOINT COMPOUND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ready Mix Joint Compound is an accessory used for finishing joints between pieces of gypsum board."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;SETTING COMPOUNDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Setting Compounds are accessories used in the finishing process of gypsum board installation."</data>
+      <data key="d2">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </node>
+    <node id="&quot;ARCHITECT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The architect is responsible for selecting the paint to provide the desired finish characteristics for gypsum board surfaces."&lt;SEP&gt;"The architect is responsible for selecting the paint to provide the desired finish characteristics on the gypsum board."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;SKYLIGHTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Skylights are ceiling areas that can create critical lighting conditions, revealing minor surface imperfections."&lt;SEP&gt;"Skylights are windows installed in roofs or ceilings, providing natural light and potentially creating critical lighting areas."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;LONG HALLWAYS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Long Hallways are extended passageways in buildings that can be critical lighting areas due to their length and lighting conditions."&lt;SEP&gt;"Long hallways are areas that can create critical lighting conditions, revealing minor surface imperfections."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;ATRIUMS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Atriums are large open spaces within buildings, often with natural or artificial lighting, which can create critical lighting areas."&lt;SEP&gt;"Atriums with large surface areas washed with artificial or natural lighting are examples of critical lighting areas."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;GLASS MAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Glass Mat is a type of gypsum panel mentioned in the text, used in construction for its specific properties."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;FIBER-REINFORCED GYPSUM PANELS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fiber-Reinforced Gypsum Panels are a type of gypsum panel mentioned in the text, known for their enhanced strength and durability."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;DRYWALL PRIMER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Drywall Primer is a type of paint applied to gypsum board surfaces to equalize porosities and improve fastener and joint concealment."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;CEILING BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ceiling Board refers to gypsum board used specifically for ceiling applications, which may require special finishing techniques in critical lighting areas."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;VAPOR RETARDER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A Vapor Retarder is a material used to prevent moisture from passing through walls and ceilings, which can be installed behind gypsum board."&lt;SEP&gt;"A Vapor Retarder is a material used to prevent moisture from penetrating walls and ceilings, often installed behind gypsum board."&lt;SEP&gt;"A vapor retarder is a material used behind gypsum boards to prevent moisture from passing through and causing condensation."&lt;SEP&gt;"Vapor Retarder is a material installed in exterior ceilings behind gypsum board to prevent moisture buildup."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;INSULATION BLANKETS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Insulation Blankets are materials used in construction to provide thermal insulation, which should be installed properly to avoid issues with gypsum board."&lt;SEP&gt;"Insulation Blankets are materials used to insulate buildings, which should not be installed directly over gypsum board with facer flanges across framing members."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;DRAPERIES AND BLINDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Draperies and Blinds are window treatments mentioned as a way to soften shadows and minimize the effects of critical lighting on gypsum board surfaces."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;LEVEL 5 FINISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Level 5 Finish is the highest level of finish for gypsum board, recommended for areas with critical lighting to hide surface imperfections."</data>
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </node>
+    <node id="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"National Gypsum Company is a manufacturer of gypsum board and related products, providing technical information and installation recommendations."&lt;SEP&gt;"National Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC, offering technical information and support."&lt;SEP&gt;"National Gypsum Company is the exclusive service provider for products manufactured by Gold Bond Building Products, LLC."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;CHARLOTTE, NC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte, NC is the location of Gold Bond Building Products, LLC's headquarters."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;FIRE-SHIELD GYPSUM BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Fire-Shield Gypsum Board is a fire-resistant gypsum board with a heavy, natural finish and 100-percent recycled paper on the face and back sides, used for interior, fire-rated wall and ceiling applications."&lt;SEP&gt;"Fire-Shield Gypsum Board is a type of gypsum board produced by Gold Bond, designed for enhanced fire resistance."&lt;SEP&gt;"Fire-Shield Gypsum Board is a type of gypsum board produced by Gold Bond, designed for fire resistance and used in construction."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;GOLD BOND BUILDING PRODUCTS CSI MASTERFORMAT® 3-PART GUIDE SPECIFICATIONS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"The Gold Bond Building Products CSI MasterFormat® 3-part guide specifications are downloadable as editable Microsoft® Word documents from goldbondbuilding.com."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;GRIDMARX® GUIDE MARKS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GridMarX® guide marks are printed on the paper surface of the Fire-Shield Gypsum Board to aid in the speed of installation."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;TYPE C CORE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Type C core is a specially formulated core available in Fire-Shield Gypsum Board for enhanced fire resistance."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;UL 2818 CERTIFICATION&quot;">
+      <data key="d0">"CERTIFICATION"</data>
+      <data key="d1">"UL 2818 certification indicates that a product has low chemical emissions, as certified by UL."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;1-800-NATIONAL (628-4662)&quot;">
+      <data key="d0">"CONTACT INFORMATION"</data>
+      <data key="d1">"1-800-NATIONAL (628-4662) is the contact number for National Gypsum Company Construction Services."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;2001 REXFORD ROAD&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"2001 Rexford Road is the address of Gold Bond Building Products, LLC's headquarters in Charlotte, NC."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;FIRE-SHIELD® GYPSUM BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Fire-Shield® Gypsum Board is a fire-resistant gypsum board with a heavy, natural finish and 100-percent recycled paper on the face and back sides, used for interior, fire-rated wall and ceiling applications."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;GOLD BOND®&quot;">
+      <data key="d0">"BRAND"</data>
+      <data key="d1">"Gold Bond® is a brand under which Gold Bond Building Products, LLC manufactures its products, including Fire-Shield Gypsum Board."</data>
+      <data key="d2">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </node>
+    <node id="&quot;TECHNICAL INFORMATION 800.NATIONAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Technical Information 800.NATIONAL is a helpline provided by National Gypsum Company for technical support and information."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;UL DESIGNS U420, U465, V417, V438, V450, V482, V483, V486, V488, W417, W421, W444&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"These are specific UL-rated designs that provide guidelines for fire-rated construction using gypsum board."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;FIRE-SHIELD PRODUCTS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fire-Shield products are gypsum boards that provide 1-hour fire ratings and are part of specific UL-rated designs."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;GREENGUARD GOLD CERTIFICATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GREENGUARD Gold Certification is a higher standard of certification for products with even lower emissions of volatile organic compounds (VOCs)."&lt;SEP&gt;"GREENGUARD Gold Certification is a higher standard of certification for products with low chemical emissions, ensuring better indoor air quality."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;LOOSE FILL INSULATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Loose Fill Insulation is a type of insulation material that is poured or blown into spaces to provide thermal resistance."&lt;SEP&gt;"Loose fill insulation is a type of insulation material that is installed after the gypsum board to provide thermal resistance."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;BATT OR BLANKET CEILING INSULATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Batt or blanket ceiling insulation is a type of insulation installed before the gypsum board to provide thermal resistance and prevent condensation."</data>
+      <data key="d2">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </node>
+    <node id="&quot;FASTENERS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fasteners are nails or screws used to attach gypsum board to framing members, ensuring it is held in place securely."</data>
+      <data key="d2">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;FIRE-SHIELD C&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fire-Shield C is a specific type of Fire-Shield Gypsum Board with a nominal thickness of 1/2 inch, designed for fire resistance."&lt;SEP&gt;"Fire-Shield C is a type of gypsum board product that meets specific fire-resistance characteristics."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;FIRE-SHIELD X&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fire-Shield X is a specific type of Fire-Shield Gypsum Board with a nominal thickness of 5/8 inch, designed for enhanced fire resistance."&lt;SEP&gt;"Fire-Shield X is another type of gypsum board product that meets specific fire-resistance characteristics."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;CONCRETE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Concrete is a construction material used for building structures, often requiring clearance from gypsum board to prevent moisture wicking."</data>
+      <data key="d2">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;MASONRY&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Masonry refers to the construction of structures using individual units like bricks or stones, which also require clearance from gypsum board to prevent moisture wicking."</data>
+      <data key="d2">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </node>
+    <node id="&quot;GA-238&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GA-238 is a guideline provided by the Gypsum Association for the prevention of mold growth on gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;FSW-C&quot;">
+      <data key="d0">"DESIGNATION"</data>
+      <data key="d1">"FSW-C is a UL type designation for a specific type of fire-resistant gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;FSW&quot;">
+      <data key="d0">"DESIGNATION"</data>
+      <data key="d1">"FSW is a UL type designation for another specific type of fire-resistant gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;NON-COMBUSTIBLE CORE&quot;">
+      <data key="d0">"FEATURE"</data>
+      <data key="d1">"Non-combustible Core refers to the core material of the gypsum board that does not combust."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;CLASS A&quot;">
+      <data key="d0">"RATING"</data>
+      <data key="d1">"Class A is a surface burning characteristic rating indicating the highest level of fire resistance."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;FLAME SPREAD 15&quot;">
+      <data key="d0">"RATING"</data>
+      <data key="d1">"Flame Spread 15 is a rating indicating the flame spread index of the gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;SMOKE DEVELOPMENT 0&quot;">
+      <data key="d0">"RATING"</data>
+      <data key="d1">"Smoke Development 0 is a rating indicating the smoke development index of the gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;5/8\&quot; FIRE-SHIELD C&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"5/8\" Fire-Shield C is a specific size and type of fire-resistant gypsum board."</data>
+      <data key="d2">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </node>
+    <node id="&quot;WINDOW MULLIONS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Window Mullions are structural elements that divide adjacent window units, often creating critical lighting areas."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </node>
+    <node id="&quot;DRAPERIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Draperies are fabric coverings for windows that can be used to soften shadows and minimize the effects of critical lighting."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </node>
+    <node id="&quot;BLINDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Blinds are window coverings that can be adjusted to control light and minimize the effects of critical lighting."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </node>
+    <node id="&quot;ATTIC SPACES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Attic Spaces are areas located directly below the roof of a building, which need proper ventilation to prevent moisture buildup above gypsum board ceilings."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </node>
+    <node id="&quot;CEILING-SUPPORTED INSULATION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ceiling-Supported Insulation refers to insulation materials supported by the ceiling structure, with specific weight recommendations to prevent sagging in gypsum board ceilings."</data>
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Gypsum is a company that manufactures ToughRock Fireguard X and Fireguard C Gypsum Board and provides recommendations for their application and decoration."&lt;SEP&gt;"Georgia-Pacific Gypsum is a company that provides recommendations for the application of a sealer prior to applying wallpaper or other wall coverings to prevent damage during redecorating."&lt;SEP&gt;"Georgia-Pacific Gypsum is a manufacturer of ToughRock Fireguard X and Fireguard CR Gypsum Board, with a focus on fire resistance and low emissions of VOCs."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC CANADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Canada is a branch of Georgia-Pacific Gypsum, located in Mississauga, ON, providing technical services and support for gypsum board products."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;ATLANTA, GA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Atlanta, GA is the location of Georgia-Pacific Gypsum's headquarters."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;MISSISSAUGA, ON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mississauga, ON is the location of Georgia-Pacific Canada's office."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;GOLD BOND FIRE-SHIELD GYPSUM BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Gold Bond Fire-Shield Gypsum Board is a type of gypsum board manufactured by Gold Bond Building Products, LLC, designed for fire resistance."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;GOLD BOND BUILDING PRODUCTS CSI MASTERFORMAT 3-PART GUIDE SPECIFICATIONS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"The Gold Bond Building Products CSI MasterFormat 3-part guide specifications are downloadable documents that provide architectural specifications for Gold Bond products."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;GREENGUARD CERTIFICATION&quot;">
+      <data key="d0">"CERTIFICATION"</data>
+      <data key="d1">"GREENGUARD Certification indicates that a product has low emissions of volatile organic compounds (VOCs), ensuring better indoor air quality."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;CHPS HIGH PERFORMANCE PRODUCT DATABASE&quot;">
+      <data key="d0">"DATABASE"</data>
+      <data key="d1">"The CHPS High Performance Product Database lists products that meet high performance criteria, including low emissions of VOCs."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ToughRock Fireguard X Gypsum Board is a type of gypsum board designed for fire resistance and used in building construction."&lt;SEP&gt;"ToughRock Fireguard X Gypsum Board is a type of gypsum board manufactured by Georgia-Pacific Gypsum, designed for fire resistance with a reinforced core."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ToughRock Fireguard CR Gypsum Board is a type of gypsum board manufactured by Georgia-Pacific Gypsum, designed for fire resistance with a reinforced core."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;CAN/ULC S114&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"CAN/ULC S114 is a Canadian standard test method for assessing the noncombustibility of materials."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;1-800-225-6119&quot;">
+      <data key="d0">"CONTACT"</data>
+      <data key="d1">"1-800-225-6119 is the contact number for technical information in the U.S.A. and Canada."&lt;SEP&gt;"1-800-225-6119 is the technical service hotline for Georgia-Pacific Gypsum."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;133 PEACHTREE STREET&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"133 Peachtree Street is the address of Georgia-Pacific Gypsum's headquarters in Atlanta, GA."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;2180 MEADOWVALE BOULEVARD, SUITE 200&quot;">
+      <data key="d0">"ADDRESS"</data>
+      <data key="d1">"2180 Meadowvale Boulevard, Suite 200 is the address of Georgia-Pacific Canada's office in Mississauga, ON."</data>
+      <data key="d2">chunk-e290636892e496316b57babf3b6dd866</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ToughRock Fireguard X is a type of gypsum board classified for special fire resistance, meeting ASTM C1396 criteria and classified by Underwriters Laboratories LLC."&lt;SEP&gt;"ToughRock Fireguard X is a type of gypsum board used as wall or ceiling covering materials in building construction, designed for direct mechanical attachment to wood or metal framing with a designated fire resistance rating."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ToughRock Fireguard C is a type of gypsum board classified as UL Type TG-C and ULC classified, designed for fire resistance and sound control."&lt;SEP&gt;"ToughRock Fireguard C is a type of gypsum board used as wall or ceiling covering materials in building construction, designed for direct mechanical attachment to wood or metal framing with a designated fire resistance rating."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;CSA-A82.27-M&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CSA-A82.27-M is a standard developed by the Canadian Standards Association for gypsum board."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;FEDERAL SS-L-30D&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Federal SS-L-30D is a federal specification for gypsum board, including Type III, Grade X and SS-6-30D."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;ULC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ULC (Underwriters Laboratories of Canada) is a Canadian safety certification company that provides safety-related certification, validation, testing, inspection, auditing, advising, and training services."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;IBC/IRC BUILDING CODES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"IBC/IRC building codes are uniform building codes that provide standards for building construction and safety."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;CHPS® HIGH PERFORMANCE PRODUCT DATABASE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CHPS® High Performance Product Database is a database that lists low-emitting products for high performance building projects."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ToughRock Fireguard C Gypsum Board is a type of gypsum board designed for fire resistance and used in building construction."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;ASTM C1396 SECTION 5&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ASTM C1396 Section 5 is a standard specification for gypsum board, including requirements for fire resistance."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;FEDERAL SS-L-30D, TYPE III, GRADE X AND SS-6-30D&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Federal SS-L-30D, Type III, Grade X and SS-6-30D are federal specifications for gypsum board, including requirements for fire resistance."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;UL TYPE X&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL Type X is a classification for gypsum board that meets specific fire resistance criteria."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;UL TYPE TG-C&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL Type TG-C is a classification for gypsum board that meets specific fire resistance criteria."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;ULC TYPE C&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ULC Type C is a classification for gypsum board that meets specific fire resistance criteria."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;TECHNICAL SERVICE HOTLINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Technical Service Hotline is a service provided by the manufacturer for technical support and inquiries."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;WWW.GPGYPSUM.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"www.gpgypsum.com is the official website for Georgia-Pacific Gypsum LLC, providing product information, warranties, and updates."&lt;SEP&gt;"www.gpgypsum.com is the official website for Georgia-Pacific Gypsum, the manufacturer of ToughRock Fireguard X and Fireguard C Gypsum Board."&lt;SEP&gt;"www.gpgypsum.com is the official website of Georgia-Pacific Gypsum, providing product information and technical support."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-75407b7436c30785a5f5da81dba97834&lt;SEP&gt;chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;CORNER BEADS AND TRIM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Corner beads and trim are supplemental materials used in conjunction with gypsum board for finishing edges and corners."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;EXPANSION JOINTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Expansion joints are supplemental materials used in construction to allow for movement and prevent cracking."</data>
+      <data key="d2">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;JOINT COMPOUND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Joint compound is a material used to skim coat over surfaces to reduce highlighting or joint photographing, especially in areas with severe natural or artificial side lighting."&lt;SEP&gt;"Joint compound is a supplemental material used to finish and smooth joints between gypsum boards."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42&lt;SEP&gt;chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </node>
+    <node id="&quot;UNDERWRITERS LABORATORIES LLC (UL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Underwriters Laboratories LLC (UL) is an organization that classifies fire-rated assemblies, including ToughRock Fireguard X and Fireguard C Gypsum Board."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;INTERTEK TESTING SERVICES/WARNOCK HERSEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Intertek Testing Services/Warnock Hersey is an organization that provides listings and directories for fire resistance design, including gypsum boards."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;UL FIRE RESISTANCE DIRECTORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UL Fire Resistance Directory is a publication that provides details on fire resistance design for various materials, including gypsum boards."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;GYPSUM ASSOCIATION PUBLICATION GA-216&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gypsum Association Publication GA-216 is a standard for the application of gypsum board in non-fire rated construction."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;GYPSUM ASSOCIATION PUBLICATION GA-801&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gypsum Association Publication GA-801 outlines appropriate handling precautions for gypsum board."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;FIRE RESISTANCE DESIGN MANUAL GA-600&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fire Resistance Design Manual GA-600 is a publication by the Gypsum Association that provides tested construction details for fire resistance."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;MATERIAL SAFETY DATA SHEET (MSDS)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Material Safety Data Sheet (MSDS) provides safety information regarding the handling and use of gypsum board products."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;TECHNICAL SERVICE HOTLINE 1.800.225.6119&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Technical Service Hotline 1.800.225.6119 is a service provided by Georgia-Pacific Gypsum for technical support and information."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </node>
+    <node id="&quot;WWW.BUILDGP.COM/SAFETYINFO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"www.buildgp.com/safetyinfo is a website providing fire, safety, and use information for Georgia-Pacific products."&lt;SEP&gt;"www.buildgp.com/safetyinfo is a website where the Material Safety Data Sheet (MSDS) for Georgia-Pacific Gypsum products can be accessed."</data>
+      <data key="d2">chunk-3dbd85ce45325cf808d0b16b5172b9be&lt;SEP&gt;chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;TOUGHROCK® FIREGUARD X™&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ToughRock® Fireguard X™ is a type of gypsum board with specific physical properties, including thickness, width, length, weight, edges, flexural strength, R value, nail pull resistance, hardness, and humidified deflection."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ToughRock® Fireguard C® is another type of gypsum board with similar but slightly different physical properties compared to ToughRock® Fireguard X™."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;SEALER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A sealer is recommended by Georgia-Pacific Gypsum to be applied prior to wallpaper or other wall coverings to prevent damage to the board surface during redecorating."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;PRIMER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Primer is applied after joint treatment is thoroughly dry and before final decoration to prepare the surface for painting or other finishes."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;5/8\&quot; TOUGHROCK® FIREGUARD X™&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"5/8\" ToughRock® Fireguard X™ is a specific type of ToughRock® Fireguard X™ gypsum board with detailed physical properties such as thickness, width, length, weight, edges, flexural strength, R value, nail pull resistance, hardness, and humidified deflection."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;5/8\&quot; TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"5/8\" ToughRock® Fireguard C® is a specific type of ToughRock® Fireguard C® gypsum board with detailed physical properties such as thickness, width, length, weight, edges, flexural strength, R value, nail pull resistance, hardness, and humidified deflection."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;1/2\&quot; TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1/2\" ToughRock® Fireguard C® is a specific type of ToughRock® Fireguard C® gypsum board with detailed physical properties such as thickness, width, length, weight, edges, flexural strength, R value, nail pull resistance, hardness, and humidified deflection."</data>
+      <data key="d2">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Gypsum LLC is a company involved in the production and sale of gypsum products, including ToughRock and Fireguard C. They provide technical information and warranties for their products."&lt;SEP&gt;"Georgia-Pacific Gypsum LLC is a company that provides information and products related to fire safety and gypsum."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee&lt;SEP&gt;chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC GYPSUM II LLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Gypsum II LLC is a subsidiary or related entity to Georgia-Pacific Gypsum LLC, involved in similar activities."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;GEORGIA-PACIFIC CANADA LP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia-Pacific Canada LP is the Canadian branch of Georgia-Pacific, involved in the production and sale of gypsum products."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;COLLABORATIVE FOR HIGH PERFORMANCE SCHOOLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Collaborative for High Performance Schools is an organization that owns the trademark CHPS, which is associated with high performance school standards."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;U.S.A.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States of America, where Georgia-Pacific Gypsum LLC and its subsidiaries operate and provide sales and technical support."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada, where Georgia-Pacific Canada LP operates and provides sales and technical support."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;TOUGHROCK&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"ToughRock is a brand of gypsum products produced by Georgia-Pacific Gypsum LLC, known for its fire resistance and durability."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;FIREGUARD C&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Fireguard C is a specific type of ToughRock gypsum product, designed for enhanced fire resistance."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;FIREGUARD X&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Fireguard X is another type of ToughRock gypsum product, also designed for enhanced fire resistance."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;NFPA CLASS A&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"NFPA Class A is a fire rating classification indicating a high level of fire resistance."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;IBC CLASS 1&quot;">
+      <data key="d0">"STANDARD"</data>
+      <data key="d1">"IBC Class 1 is a fire rating classification under the International Building Code, indicating a high level of fire resistance."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;COLLABORATIVE FOR HIGH PERFORMANCE SCHOOLS, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Collaborative for High Performance Schools, Inc. is the full name of the organization that owns the CHPS trademark, promoting high performance school standards."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-824-7503&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-824-7503 is the contact number for sales information and order placement in the Western U.S.A."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-876-4746&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-876-4746 is the contact number for sales information and order placement in the Midwest U.S.A."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-231-6060&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-231-6060 is the contact number for sales information and order placement in the South Central U.S.A."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-327-2344&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-327-2344 is the contact number for sales information and order placement in the Southeast U.S.A."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-947-4497&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-947-4497 is the contact number for sales information and order placement in the Northeast U.S.A."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-387-6823&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-387-6823 is the toll-free contact number for sales information and order placement in Canada."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1-800-361-0486&quot;">
+      <data key="d0">"CONTACT NUMBER"</data>
+      <data key="d1">"1-800-361-0486 is the toll-free contact number for sales information and order placement in Quebec, Canada."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;1/2\&quot; TOUGHROCK FIREGUARD C&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"1/2\" ToughRock Fireguard C is a specific product variant of ToughRock, designed for fire resistance and available in various sizes."</data>
+      <data key="d2">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;GP-TM LIT. ITEM #101866&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"GP-TM Lit. Item #101866 is a specific literature item or document related to Georgia-Pacific Gypsum LLC's products."&lt;SEP&gt;"GP-TM Lit. Item #101866 is a specific product or literature item provided by Georgia-Pacific Gypsum LLC."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee&lt;SEP&gt;chunk-75407b7436c30785a5f5da81dba97834</data>
+    </node>
+    <node id="&quot;FIRE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A fire is an event that requires immediate action for safety, as mentioned in the context of fire safety instructions."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;SAFETY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Safety is the condition of being protected from harm, emphasized as a priority in the event of a fire."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a location referenced in the name of the company Georgia-Pacific Gypsum LLC."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;GYPSUM&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Gypsum is a material used in construction, often mentioned in the context of fire safety products provided by Georgia-Pacific Gypsum LLC."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;PRODUCT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Product refers to the items or systems provided by Georgia-Pacific Gypsum LLC, which are related to fire safety."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;ASSEMBLY/SYSTEM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Assembly/System refers to the combination of products and materials used together, particularly in the context of fire safety."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;2014&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2014 is the year mentioned in the document, indicating when the information or product was released or relevant."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;1/14&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1/14 likely refers to the date January 2014, providing a specific time reference for the document or product."</data>
+      <data key="d2">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </node>
+    <node id="&quot;STEEL STUDS&quot;">
+      <data key="d2">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+      <data key="d1">"GA-216 outlines the requirements for steel studs to maximize impact resistance and eliminate potential screw spin-out."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+      <data key="d1">"Skylights are examples of critical lighting areas that can reveal minor surface imperfections."&lt;SEP&gt;"Skylights can create critical lighting areas by providing natural light that may reveal surface imperfections."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD CEILINGS&quot;">
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+      <data key="d1">"Attic Spaces need proper ventilation to prevent moisture buildup above gypsum board ceilings."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d2">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+      <data key="d1">"Control Joints are recommended for long continuous runs of walls, partitions, or ceilings to prevent cracking in gypsum board assemblies."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"DEW Construction is the main contractor responsible for the renovations in Phase II of the Charlotte Central School project."</data>
+      <data key="d5">"construction, project management"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;BECKY ST. GEORGE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Becky St. George is the Submittal Manager at DEW Construction, managing submittals for the Charlotte Central School Phase project."</data>
+      <data key="d5">"management, responsibility"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;LUKE KEENAN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Luke Keenan is a representative of DEW Construction, involved in the review and approval process for submittals related to the Charlotte Central School Phase project."</data>
+      <data key="d5">"review, approval"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;DAKOTA STENDER&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Dakota Stender is a representative of DEW Construction, involved in the Charlotte Central School Phase project."</data>
+      <data key="d5">"project involvement, construction"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DEW CONSTRUCTION&quot;" target="&quot;SCOTT SPEYERS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Scott Speyers is a representative of DEW Construction, involved in the Charlotte Central School Phase project."</data>
+      <data key="d5">"project involvement, construction"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;STEEL ELEMENTS INTERNATIONAL&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Steel Elements International is a contractor providing materials and services for the Charlotte Central School Phase II project."</data>
+      <data key="d5">"contracting, material supply"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;STEEL ELEMENTS INTERNATIONAL&quot;" target="&quot;PETER GAUTHIER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Peter Gauthier is a representative of Steel Elements International, involved in the submittal process for the Charlotte Central School Phase project."</data>
+      <data key="d5">"representation, involvement"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;STEEL ELEMENTS INTERNATIONAL&quot;" target="&quot;KEVIN CORMIER&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Kevin Cormier is a representative of Steel Elements International, involved in the Charlotte Central School Phase project."</data>
+      <data key="d5">"project involvement, contracting"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;STEEL ELEMENTS INTERNATIONAL&quot;" target="&quot;SUE RAMSEY&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Sue Ramsey is a representative of Steel Elements International, involved in the Charlotte Central School Phase project."</data>
+      <data key="d5">"project involvement, contracting"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;MIKE WANDERLICH&quot;" target="&quot;DORE &amp; WHITTIER ARCHITECTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mike Wanderlich is an approver from Dore &amp; Whittier Architects, responsible for reviewing submittals for the Charlotte Central School Phase project."</data>
+      <data key="d5">"approval, architectural review"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DORE &amp; WHITTIER ARCHITECTS&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Dore &amp; Whittier Architects is responsible for reviewing and approving submittals for the Charlotte Central School Phase II project."</data>
+      <data key="d5">"architectural oversight, approval"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DORE &amp; WHITTIER ARCHITECTS&quot;" target="&quot;THOMAS HENGELSBERG&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Thomas Hengelsberg is a representative of Dore &amp; Whittier Architects, involved in the review process for the Charlotte Central School Phase project."</data>
+      <data key="d5">"review, architectural involvement"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;DORE &amp; WHITTIER ARCHITECTS&quot;" target="&quot;HEATHER GRATTON&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Heather Gratton is a representative of Dore &amp; Whittier Architects, involved in the review process for the Charlotte Central School Phase project."</data>
+      <data key="d5">"review, architectural involvement"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;CHAMPLAIN VALLEY SCHOOL DISTRICT&quot;" target="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Champlain Valley School District oversees the Charlotte Central School, which is undergoing renovations in Phase II of the project."</data>
+      <data key="d5">"oversight, educational administration"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;CHAMPLAIN VALLEY SCHOOL DISTRICT&quot;" target="&quot;CHRIS GIARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Chris Giard is a representative of Champlain Valley School District, involved in the Charlotte Central School Phase project."</data>
+      <data key="d5">"educational administration, project involvement"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;" target="&quot;CHARLOTTE, VERMONT&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Charlotte, Vermont is the location of the Charlotte Central School, which is undergoing renovations in Phase II of the project."</data>
+      <data key="d5">"location, project site"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE CENTRAL SCHOOL PHASE II&quot;" target="&quot;GOLD BOND XP HI-IMPACT GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gold Bond XP Hi-Impact Gypsum Board is a type of gypsum board used in the Charlotte Central School Phase II project for interior wall and ceiling applications."</data>
+      <data key="d5">"material use, construction technology"</data>
+      <data key="d6">chunk-c77192228c613548a1748d49aa00502b</data>
+    </edge>
+    <edge source="&quot;GOLD BOND XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;GRIDMARX&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"GridMarX is used to make accurate cuts and provide uniform nail/screw patterns for the installation of Gold Bond XP Hi-Impact Gypsum Board."</data>
+      <data key="d5">"installation aid, precision"</data>
+      <data key="d6">chunk-4e97beba92897404a080de1129584a38</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;GRIDMARX&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GridMarX guide marks are printed on the surface of XP Hi-Impact Gypsum Board to facilitate faster and more accurate installation."</data>
+      <data key="d5">"installation, efficiency"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;GA-214&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"XP Hi-Impact Gypsum Board finishing is performed in accordance with GA-214 standards."</data>
+      <data key="d5">"standards, finishing"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;ASTM D3273&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"XP Hi-Impact Gypsum Board resists mold growth per ASTM D3273 with a score of 10."</data>
+      <data key="d5">"mold resistance, standards"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;ASTM G21&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"XP Hi-Impact Gypsum Board resists mold growth per ASTM G21 with a score of 0."</data>
+      <data key="d5">"mold resistance, standards"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;MAX 12&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"MaX 12 fastener pattern is used with XP Hi-Impact Gypsum Board to provide 1-hour fire ratings with fewer fasteners."</data>
+      <data key="d5">"fire rating, installation"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;GREENGUARD&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"XP Hi-Impact Gypsum Board has achieved GREENGUARD certification for low chemical emissions."</data>
+      <data key="d5">"certification, indoor air quality"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;CALIFORNIA SPECIFICATION 01350&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"XP Hi-Impact Gypsum Board qualifies as a low-VOC emitting material by meeting California Specification 01350."</data>
+      <data key="d5">"low-VOC, standards"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;XP HI-IMPACT GYPSUM BOARD&quot;" target="&quot;GRIDMARX GUIDE MARKS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GridMarX guide marks are printed on the surface of XP Hi-Impact Gypsum Board to facilitate faster and more accurate installation."</data>
+      <data key="d5">"installation, efficiency"</data>
+      <data key="d6">chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;GRIDMARX&quot;" target="&quot;MAX 12&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"MaX 12 and GridMarX are both technologies used in the installation of gypsum boards, enhancing efficiency and accuracy."</data>
+      <data key="d5">"installation technology, efficiency"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;GRIDMARX&quot;" target="&quot;GRIDMARX GUIDE MARKS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GridMarX technology includes preprinted guide marks on gypsum boards for accurate installation."</data>
+      <data key="d5">"installation, accuracy"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;GA-214&quot;" target="&quot;GYPSUM BOARD&quot;">
+      <data key="d3">23.0</data>
+      <data key="d4">"GA-214 provides guidelines for the finishing levels of Gypsum Board to ensure proper surface preparation for decoration."&lt;SEP&gt;"GA-214 provides guidelines for the recommended levels of finish for Gypsum Board."&lt;SEP&gt;"GA-214 provides recommendations for the levels of finish needed to assure a surface properly prepared to accept the desired decoration."</data>
+      <data key="d5">"finishing guidelines, standards"&lt;SEP&gt;"finishing guidelines, surface preparation"&lt;SEP&gt;"guidelines, finishing standards"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GA-214&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Association provides the GA-214 guideline for recommended levels of finish for gypsum board."</data>
+      <data key="d5">"guideline provision, finishing standards"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM D3273&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM D3273 standard test method for resistance to growth of mold on the surface of interior coatings."</data>
+      <data key="d5">"standard development, mold resistance testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM D3273&quot;" target="&quot;HI-IMPACT XP GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Hi-Impact XP Gypsum Board received the highest possible ratings on ASTM D3273 for mold resistance."</data>
+      <data key="d5">"mold resistance, product testing"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;ASTM G21&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM G21 standard practice for determining resistance of synthetic polymeric materials to fungi."</data>
+      <data key="d5">"standard development, fungi resistance testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM G21&quot;" target="&quot;HI-IMPACT XP GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Hi-Impact XP Gypsum Board received the highest possible ratings on ASTM G21 for mold resistance."</data>
+      <data key="d5">"mold resistance, product testing"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;MAX 12&quot;" target="&quot;UL&quot;">
+      <data key="d3">21.0</data>
+      <data key="d4">"MaX 12 fastener pattern is referenced in UL designs for fire ratings."&lt;SEP&gt;"UL certifies the MaX 12 fastener pattern for its fire-rated designs, ensuring safety and efficiency."</data>
+      <data key="d5">"certification, safety standards"&lt;SEP&gt;"fire rating, standards"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7&lt;SEP&gt;chunk-97342574a40bfe2bc2872d21beb389a3</data>
+    </edge>
+    <edge source="&quot;GREENGUARD&quot;" target="&quot;UL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"UL and GREENGUARD both provide certifications that ensure products meet specific safety and environmental standards."</data>
+      <data key="d5">"certification, safety standards"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;GREENGUARD&quot;" target="&quot;CALIFORNIA SPECIFICATION 01350&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GREENGUARD certification aligns with California Specification 01350 standards for low-VOC emissions."</data>
+      <data key="d5">"environmental standards, low-VOC emissions"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;GREENGUARD&quot;" target="&quot;GREENGUARD GOLD CERTIFICATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GREENGUARD provides a higher standard of certification for products with low chemical emissions."</data>
+      <data key="d5">"certification, indoor air quality"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA SPECIFICATION 01350&quot;" target="&quot;UL&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"UL provides information about products that meet California Specification 01350 for low-VOC emitting materials."</data>
+      <data key="d5">"product qualification, environmental standards"</data>
+      <data key="d6">chunk-4e97beba92897404a080de1129584a38</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA SPECIFICATION 01350&quot;" target="&quot;CALRECYCLE.CA.GOV&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"calrecycle.ca.gov provides information on California Specification 01350 for low-VOC emitting materials."</data>
+      <data key="d5">"information, environmental standards"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;CALIFORNIA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"UL provides information about products that meet California Specification 01350 for low-VOC emitting materials."</data>
+      <data key="d5">"product qualification, environmental standards"</data>
+      <data key="d6">chunk-4e97beba92897404a080de1129584a38</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"UL certifies Gold Bond Building Products, LLC's products for low chemical emissions."</data>
+      <data key="d5">"certification, low chemical emissions"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;UL DESIGNS U420, U465, V417, V438, V450, V482, V483, V486, V488, W417, W421, W444&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"UL certifies specific designs for fire-rated construction using gypsum board."</data>
+      <data key="d5">"certification, fire safety"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 5/8\" (15.9 mm) ToughRock Fireguard X is UL classified, Type X."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;UL&quot;" target="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 1/2\" (12.7 mm) ToughRock Fireguard C is UL Type TG-C, and ULC classified, Type C."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;CONTRACTOR&quot;" target="&quot;GYPSUM BOARD&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The contractor is responsible for selecting the paint to provide the desired finish characteristics for gypsum board surfaces."&lt;SEP&gt;"The contractor is responsible for selecting the paint to provide the desired finish characteristics on the gypsum board."</data>
+      <data key="d5">"responsibility, finish selection"&lt;SEP&gt;"responsibility, finishing"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;CONTRACTOR&quot;" target="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"National Gypsum Company provides installation recommendations that the Contractor follows."</data>
+      <data key="d5">"guidance, installation"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;ASTM C840&quot;" target="&quot;GA-216&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM C840 and GA-216 both provide standards and methods for the installation of gypsum board."</data>
+      <data key="d5">"standardization, installation methods"</data>
+      <data key="d6">chunk-4e97beba92897404a080de1129584a38</data>
+    </edge>
+    <edge source="&quot;ASTM C840&quot;" target="&quot;ASTM&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM C840 standard specification for the application and finishing of gypsum board."</data>
+      <data key="d5">"standard development, application guidelines"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM C840&quot;" target="&quot;HI-IMPACT XP GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM C840 is referenced for the application of drywall adhesive to attach Hi-Impact XP Gypsum Board."</data>
+      <data key="d5">"application standards, product usage"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;GA-216&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ASTM and GA-216 both provide standards and methods for the installation of gypsum board."</data>
+      <data key="d5">"standardization, installation methods"</data>
+      <data key="d6">chunk-4e97beba92897404a080de1129584a38</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM C1396&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM C1396 standard specification for gypsum board."</data>
+      <data key="d5">"standard development, material specification"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM C473&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM C473 standard test method for physical testing of gypsum panel products."</data>
+      <data key="d5">"standard development, material testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM C518&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM C518 standard test method for steady-state thermal transmission properties."</data>
+      <data key="d5">"standard development, thermal testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM C1629&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM C1629 standard classification for abuse-resistant nondecorated interior gypsum panel products."</data>
+      <data key="d5">"standard development, material classification"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM E84&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM E84 standard test method for surface burning characteristics of building materials."</data>
+      <data key="d5">"standard development, fire testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM E96&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM E96 standard test method for water vapor transmission of materials."</data>
+      <data key="d5">"standard development, water vapor testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM E119&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM E119 standard test method for fire tests of building construction and materials."</data>
+      <data key="d5">"standard development, fire testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM E136&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM E136 standard test method for behavior of materials in a vertical tube furnace at 750°C."&lt;SEP&gt;"ASTM develops and publishes the ASTM E136 standard test method for the behavior of materials in a vertical tube furnace."</data>
+      <data key="d5">"standard development, material behavior testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM D3274&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM D3274 standard test method for rating the resistance of coatings to mold growth."</data>
+      <data key="d5">"standard development, mold resistance testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM D4977&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM D4977 standard test method for measuring the abrasion resistance of materials."</data>
+      <data key="d5">"standard development, abrasion testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM D5420&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM D5420 standard test method for measuring the impact resistance of materials."</data>
+      <data key="d5">"standard development, impact testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ASTM E695&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ASTM develops and publishes the ASTM E695 standard test method for measuring the resistance of materials to soft-body impacts."</data>
+      <data key="d5">"standard development, impact testing"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;ANNEX A1&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ASTM includes Annex A1 in their standards to provide additional guidelines or methods, such as for hard-body impact testing."</data>
+      <data key="d5">"standard development, additional guidelines"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard X is manufactured to meet ASTM C1396 Section 5 standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;ASTM&quot;" target="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard C is manufactured to meet ASTM C1396 Section 5 standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;GA-216&quot;" target="&quot;STEEL STUDS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GA-216 outlines the requirements for steel studs to maximize impact resistance and eliminate potential screw spin-out."</data>
+      <data key="d5">"guidelines, construction standards"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GA-216&quot;" target="&quot;GYPSUM ASSOCIATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Association provides the GA-216 guideline for the application and finishing of gypsum panel products."</data>
+      <data key="d5">"guideline provision, application standards"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;GOLD BOND&quot;" target="&quot;FIRE-SHIELD GYPSUM BOARD&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Fire-Shield Gypsum Board is a product manufactured by Gold Bond, designed for enhanced fire resistance."&lt;SEP&gt;"Gold Bond manufactures Fire-Shield Gypsum Board, indicating a direct production relationship."</data>
+      <data key="d5">"manufacturing, product development"&lt;SEP&gt;"product, fire resistance"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GOLD BOND&quot;" target="&quot;SUBMITTAL APPROVALS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Gold Bond requires Submittal Approvals for the installation and use of their Gypsum Board products."</data>
+      <data key="d5">"approval process, compliance"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GOLD BOND&quot;" target="&quot;GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond produces Gypsum Board, including Fire-Shield Gypsum Board, which is used in construction."</data>
+      <data key="d5">"production, construction material"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION&quot;" target="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Association provides guidelines and recommendations that are followed by Gold Bond Building Products, LLC for the application and finishing of gypsum panel products."</data>
+      <data key="d5">"guidelines, industry standards"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION&quot;" target="&quot;GA-238&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Association provides the GA-238 guideline for the prevention of mold growth on gypsum board."</data>
+      <data key="d5">"guideline provision, mold prevention"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION&quot;" target="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board application standards are published by the Gypsum Association."</data>
+      <data key="d5">"application standards, publication"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION&quot;" target="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board application standards are published by the Gypsum Association."</data>
+      <data key="d5">"application standards, publication"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GYPSUM ASSOCIATION&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum references the guidelines published by the Gypsum Association for joint treatment and finishing recommendations."</data>
+      <data key="d5">"guidelines, reference"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND® XP® HI-IMPACT® GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC manufactures the Gold Bond® XP® Hi-Impact® Gypsum Board and provides guidelines for its application and finishing."</data>
+      <data key="d5">"manufacturing, product guidelines"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;XP HI-IMPACT®&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC manufactures the XP HI-IMPACT® gypsum board, known for its high impact resistance."</data>
+      <data key="d5">"manufacturing, product"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;NGC CONSTRUCTION GUIDE&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC provides the NGC Construction Guide, which includes standards and guidelines for using their products."&lt;SEP&gt;"NGC Construction Guide is provided by Gold Bond Building Products, LLC and includes manufacturer standards."</data>
+      <data key="d5">"document provision, manufacturer standards"&lt;SEP&gt;"guidelines, documentation"</data>
+      <data key="d6">chunk-85d8da3ea2d0a9a1cd238e506db0b31c&lt;SEP&gt;chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;NATIONAL GYPSUM COMPANY&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"National Gypsum Company provides exclusive services and support for products manufactured by Gold Bond Building Products, LLC."&lt;SEP&gt;"National Gypsum Company provides exclusive services for products manufactured by Gold Bond Building Products, LLC."</data>
+      <data key="d5">"service provider, exclusive partnership"&lt;SEP&gt;"service provider, manufacturing"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;FIRE-SHIELD GYPSUM BOARD&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC manufactures the Fire-Shield Gypsum Board."</data>
+      <data key="d5">"manufacturing, product"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;CHARLOTTE, NC&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC is headquartered in Charlotte, NC."</data>
+      <data key="d5">"headquarters, location"&lt;SEP&gt;"location, headquarters"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND BUILDING PRODUCTS CSI MASTERFORMAT® 3-PART GUIDE SPECIFICATIONS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC provides the CSI MasterFormat® 3-part guide specifications for download."</data>
+      <data key="d5">"documentation, specifications"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;2001 REXFORD ROAD&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"2001 Rexford Road is the address of Gold Bond Building Products, LLC's headquarters in Charlotte, NC."&lt;SEP&gt;"Gold Bond Building Products, LLC is headquartered at 2001 Rexford Road in Charlotte, NC."</data>
+      <data key="d5">"address, headquarters"&lt;SEP&gt;"location, headquarters"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866&lt;SEP&gt;chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND®&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC manufactures products under the Gold Bond® brand."</data>
+      <data key="d5">"brand, manufacturing"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;ASTM C1396&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gold Bond Building Products, LLC adheres to the ASTM C1396 standard specification for gypsum board."</data>
+      <data key="d5">"compliance, material specification"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND FIRE-SHIELD GYPSUM BOARD&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Gold Bond Fire-Shield Gypsum Board is manufactured by Gold Bond Building Products, LLC."</data>
+      <data key="d5">"product manufacturing"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GOLD BOND BUILDING PRODUCTS, LLC&quot;" target="&quot;GOLD BOND BUILDING PRODUCTS CSI MASTERFORMAT 3-PART GUIDE SPECIFICATIONS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The CSI MasterFormat 3-part guide specifications are provided by Gold Bond Building Products, LLC for architectural specifications."</data>
+      <data key="d5">"documentation, architectural specifications"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;ASTM C1396&quot;" target="&quot;FIRE-SHIELD C&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire-Shield C meets the ASTM C1396 standard specification for gypsum board."</data>
+      <data key="d5">"compliance, material specification"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM C1396&quot;" target="&quot;FIRE-SHIELD X&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire-Shield X meets the ASTM C1396 standard specification for gypsum board."</data>
+      <data key="d5">"compliance, material specification"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM C1396&quot;" target="&quot;5/8\&quot; FIRE-SHIELD C&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"5/8\" Fire-Shield C meets the ASTM C1396 standard specification for gypsum board."</data>
+      <data key="d5">"compliance, material specification"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;ASTM C1396&quot;" target="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board meets the criteria for special fire resistance as defined in ASTM C1396."</data>
+      <data key="d5">"fire resistance, standard compliance"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;ASTM C1396&quot;" target="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board meets the criteria for special fire resistance as defined in ASTM C1396."</data>
+      <data key="d5">"fire resistance, standard compliance"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;ASTM C518&quot;" target="&quot;GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Gypsum Board is tested in accordance with ASTM C518 to measure its thermal performance."</data>
+      <data key="d5">"testing, thermal performance"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;ASTM E84&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board has a flame spread rating of 15 and smoke developed 0 when tested in accordance with ASTM E84."</data>
+      <data key="d5">"fire resistance, testing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;ASTM E84&quot;" target="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board has a flame spread rating of 15 and smoke developed 0 when tested in accordance with ASTM E84."</data>
+      <data key="d5">"fire resistance, testing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;ASTM E84&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum references ASTM E84 for the surface burning characteristics of their gypsum boards."</data>
+      <data key="d5">"standard compliance, safety testing"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;ASTM E136&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"The core of ToughRock Fireguard X Gypsum Board is noncombustible when tested in accordance with ASTM E136."&lt;SEP&gt;"ToughRock Fireguard X Gypsum Board meets the ASTM E136 standard for noncombustibility."</data>
+      <data key="d5">"fire resistance, testing"&lt;SEP&gt;"standard compliance, noncombustibility"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7&lt;SEP&gt;chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;ASTM E136&quot;" target="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard CR Gypsum Board meets the ASTM E136 standard for noncombustibility."</data>
+      <data key="d5">"standard compliance, noncombustibility"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;ASTM E136&quot;" target="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The core of ToughRock Fireguard C Gypsum Board is noncombustible when tested in accordance with ASTM E136."</data>
+      <data key="d5">"fire resistance, testing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;ASTM E136&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum references ASTM E136 to indicate that the core of their gypsum boards is noncombustible."</data>
+      <data key="d5">"standard compliance, safety testing"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;HI-IMPACT XP GYPSUM BOARD&quot;" target="&quot;MOLD AND MILDEW RESISTANCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Hi-Impact XP Gypsum Board is designed to provide extra protection against mold and mildew."</data>
+      <data key="d5">"mold resistance, product feature"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;CONTROL JOINTS&quot;">
+      <data key="d3">22.0</data>
+      <data key="d4">"Control Joints are used in Gypsum Board installations to manage the natural expansion and contraction of the material."&lt;SEP&gt;"Control Joints are used in the installation of Gypsum Board to manage joint locations and prevent cracking."&lt;SEP&gt;"Control Joints are used to isolate Gypsum Board from building movement and prevent direct loads on the assemblies."</data>
+      <data key="d5">"installation, joint management"&lt;SEP&gt;"material management, installation"&lt;SEP&gt;"structural elements, load prevention"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;DOUBLE NAILING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Double Nailing is a method used to attach Gypsum Board to minimize nail pops."</data>
+      <data key="d5">"installation method, attachment"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;DRYWALL ADHESIVE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Drywall Adhesive is used to attach Gypsum Board to studs or joists."</data>
+      <data key="d5">"attachment, adhesive application"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;FIRE RESISTANCE RATINGS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire Resistance Ratings are used to determine the fire-resistance of Gypsum Board assemblies."</data>
+      <data key="d5">"fire safety, testing standards"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;ROOM TEMPERATURE&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Maintaining a specific Room Temperature is crucial for the proper installation and curing of Gypsum Board."&lt;SEP&gt;"Specific room temperature conditions are required during the application and curing of Gypsum Board."</data>
+      <data key="d5">"installation conditions, temperature control"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;VENTILATION&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Adequate Ventilation is necessary during the installation and curing of Gypsum Board to ensure proper drying."&lt;SEP&gt;"Adequate ventilation is required in the working area during the installation and curing period of Gypsum Board."</data>
+      <data key="d5">"installation conditions, air flow"&lt;SEP&gt;"installation conditions, airflow"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;DRYWALL SCREWS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Drywall Screws are used as accessories in the installation of Gypsum Board."</data>
+      <data key="d5">"installation accessories, fastening"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;JOINT TAPE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Joint Tape is used to cover joints between pieces of Gypsum Board."</data>
+      <data key="d5">"installation accessories, joint covering"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;READY MIX JOINT COMPOUND&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Ready Mix Joint Compound is used for finishing joints between pieces of Gypsum Board."</data>
+      <data key="d5">"installation accessories, joint finishing"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;SETTING COMPOUNDS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Setting Compounds are used in the finishing process of Gypsum Board installation."</data>
+      <data key="d5">"installation accessories, finishing"</data>
+      <data key="d6">chunk-6d50d81e30ecece301b630f94eecc843</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;ARCHITECT&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The architect is responsible for selecting the paint to provide the desired finish characteristics for gypsum board surfaces."&lt;SEP&gt;"The architect is responsible for selecting the paint to provide the desired finish characteristics on the gypsum board."</data>
+      <data key="d5">"responsibility, finish selection"&lt;SEP&gt;"responsibility, finishing"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;GLASS MAT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gypsum Board and Glass Mat are both types of construction materials mentioned in the text, used for walls and ceilings."</data>
+      <data key="d5">"construction materials, applications"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;FIBER-REINFORCED GYPSUM PANELS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Gypsum Board and Fiber-Reinforced Gypsum Panels are both types of construction materials mentioned in the text, known for their specific properties."</data>
+      <data key="d5">"construction materials, properties"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;DRYWALL PRIMER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Drywall Primer is applied to Gypsum Board surfaces to equalize porosities and improve fastener and joint concealment."</data>
+      <data key="d5">"surface preparation, painting"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;CEILING BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Ceiling Board is a specific application of Gypsum Board used for ceilings, requiring special finishing techniques in critical lighting areas."</data>
+      <data key="d5">"application, finishing techniques"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;VAPOR RETARDER&quot;">
+      <data key="d3">23.0</data>
+      <data key="d4">"A Vapor Retarder can be installed behind gypsum board to prevent moisture from passing through walls and ceilings."&lt;SEP&gt;"A Vapor Retarder is installed behind Gypsum Board to prevent moisture from penetrating the walls and ceilings."&lt;SEP&gt;"Vapor Retarder is installed behind Gypsum Board in exterior ceilings to prevent moisture buildup."</data>
+      <data key="d5">"moisture control, installation"&lt;SEP&gt;"moisture prevention, installation"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860&lt;SEP&gt;chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;INSULATION BLANKETS&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Insulation Blankets should be installed properly to avoid issues with Gypsum Board."&lt;SEP&gt;"Insulation Blankets should not be installed directly over gypsum board with facer flanges across framing members."</data>
+      <data key="d5">"installation guidelines, insulation"&lt;SEP&gt;"installation, thermal insulation"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;DRAPERIES AND BLINDS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Draperies and Blinds are used to soften shadows and minimize the effects of critical lighting on Gypsum Board surfaces."</data>
+      <data key="d5">"lighting control, surface imperfections"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;LEVEL 5 FINISH&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Level 5 Finish is recommended for Gypsum Board in areas with critical lighting to hide surface imperfections."</data>
+      <data key="d5">"finishing level, surface imperfections"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;LOOSE FILL INSULATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Loose Fill Insulation is used in conjunction with Gypsum Board to provide thermal resistance in construction."</data>
+      <data key="d5">"thermal resistance, installation"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;FASTENERS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fasteners are used to attach Gypsum Board to framing members, ensuring it is held in place securely."</data>
+      <data key="d5">"attachment, installation"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;CONCRETE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A minimum clearance is maintained between Gypsum Board and Concrete to prevent moisture wicking."</data>
+      <data key="d5">"moisture control, installation"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;GYPSUM BOARD&quot;" target="&quot;MASONRY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A minimum clearance is maintained between Gypsum Board and Masonry to prevent moisture wicking."</data>
+      <data key="d5">"moisture control, installation"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;CONTROL JOINTS&quot;" target="&quot;GYPSUM BOARD ASSEMBLIES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Control Joints are recommended for long continuous runs of walls, partitions, or ceilings to prevent cracking in gypsum board assemblies."</data>
+      <data key="d5">"movement allowance, crack prevention"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;JOINT TAPE&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint tape is used as a supplemental material with ToughRock Fireguard X Gypsum Board to cover joints between boards."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;JOINT TAPE&quot;" target="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint tape is used as a supplemental material with ToughRock Fireguard C Gypsum Board to cover joints between boards."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;SKYLIGHTS&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Skylights are examples of critical lighting areas that can reveal minor surface imperfections."&lt;SEP&gt;"Skylights can create critical lighting areas by providing natural light that may reveal surface imperfections."</data>
+      <data key="d5">"lighting conditions, natural light"&lt;SEP&gt;"lighting conditions, surface imperfections"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;LONG HALLWAYS&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Long Hallways can be critical lighting areas due to their length and lighting conditions."&lt;SEP&gt;"Long hallways are examples of critical lighting areas that can reveal minor surface imperfections."</data>
+      <data key="d5">"lighting conditions, passageways"&lt;SEP&gt;"lighting conditions, surface imperfections"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;ATRIUMS&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Atriums can create critical lighting areas with large surface areas washed with artificial or natural lighting."&lt;SEP&gt;"Atriums with large surface areas washed with artificial or natural lighting are examples of critical lighting areas."</data>
+      <data key="d5">"lighting conditions, open spaces"&lt;SEP&gt;"lighting conditions, surface imperfections"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b&lt;SEP&gt;chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;GLASS MAT&quot;" target="&quot;FIBER-REINFORCED GYPSUM PANELS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Glass Mat and Fiber-Reinforced Gypsum Panels are both types of gypsum panels mentioned in the text."</data>
+      <data key="d5">"construction materials, panel types"</data>
+      <data key="d6">chunk-c9aeb3c0f5dbaa0e42f8dafbe23ef860</data>
+    </edge>
+    <edge source="&quot;VAPOR RETARDER&quot;" target="&quot;BATT OR BLANKET CEILING INSULATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Vapor retarder and batt or blanket ceiling insulation are used together to prevent moisture and provide thermal resistance."</data>
+      <data key="d5">"moisture prevention, thermal resistance"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;VAPOR RETARDER&quot;" target="&quot;LOOSE FILL INSULATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Vapor retarder is installed before loose fill insulation to prevent moisture and provide thermal resistance."</data>
+      <data key="d5">"moisture prevention, thermal resistance"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;TECHNICAL INFORMATION 800.NATIONAL&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"National Gypsum Company provides a helpline for technical support and information."</data>
+      <data key="d5">"support, information"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;FIRE-SHIELD PRODUCTS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"National Gypsum Company manufactures Fire-Shield products that provide 1-hour fire ratings."</data>
+      <data key="d5">"manufacturing, fire safety"</data>
+      <data key="d6">chunk-4c0dfc7dcdbe80034c482dadf4551af7</data>
+    </edge>
+    <edge source="&quot;NATIONAL GYPSUM COMPANY&quot;" target="&quot;1-800-NATIONAL (628-4662)&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"1-800-NATIONAL (628-4662) is the contact number for National Gypsum Company Construction Services."</data>
+      <data key="d5">"contact information, technical support"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD GYPSUM BOARD&quot;" target="&quot;GRIDMARX® GUIDE MARKS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fire-Shield Gypsum Board features GridMarX® guide marks for easier installation."</data>
+      <data key="d5">"installation aid, technology"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD GYPSUM BOARD&quot;" target="&quot;TYPE C CORE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fire-Shield Gypsum Board is available with a specially formulated Type C core for enhanced fire resistance."</data>
+      <data key="d5">"fire resistance, technology"</data>
+      <data key="d6">chunk-642eb951dc23f27030d4fa5fcbea34d2</data>
+    </edge>
+    <edge source="&quot;GREENGUARD GOLD CERTIFICATION&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is GREENGUARD Gold Certified for even lower emissions of VOCs."</data>
+      <data key="d5">"certification, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GREENGUARD GOLD CERTIFICATION&quot;" target="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard CR Gypsum Board is GREENGUARD Gold Certified for even lower emissions of VOCs."</data>
+      <data key="d5">"certification, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;FIRE-SHIELD X&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Shield C and Fire-Shield X are different types of Fire-Shield Gypsum Board with varying thicknesses and fire resistance levels."</data>
+      <data key="d5">"product variations, fire resistance"</data>
+      <data key="d6">chunk-10fa78642bbc248e3482cd985b9d9bf7</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;FSW-C&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"FSW-C is the UL type designation for Fire-Shield C gypsum board."</data>
+      <data key="d5">"designation, product type"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;NON-COMBUSTIBLE CORE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fire-Shield C has a non-combustible core, enhancing its fire resistance."</data>
+      <data key="d5">"feature, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;CLASS A&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire-Shield C has a Class A surface burning characteristic rating."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;FLAME SPREAD 15&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Shield C has a flame spread index of 15."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD C&quot;" target="&quot;SMOKE DEVELOPMENT 0&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Shield C has a smoke development index of 0."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD X&quot;" target="&quot;FSW&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"FSW is the UL type designation for Fire-Shield X gypsum board."</data>
+      <data key="d5">"designation, product type"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD X&quot;" target="&quot;NON-COMBUSTIBLE CORE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Fire-Shield X has a non-combustible core, enhancing its fire resistance."</data>
+      <data key="d5">"feature, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD X&quot;" target="&quot;CLASS A&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire-Shield X has a Class A surface burning characteristic rating."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD X&quot;" target="&quot;FLAME SPREAD 15&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Shield X has a flame spread index of 15."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;FIRE-SHIELD X&quot;" target="&quot;SMOKE DEVELOPMENT 0&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Fire-Shield X has a smoke development index of 0."</data>
+      <data key="d5">"rating, fire resistance"</data>
+      <data key="d6">chunk-8813a47d562fad0f9d53594ae5707083</data>
+    </edge>
+    <edge source="&quot;WINDOW MULLIONS&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Window Mullions can create critical lighting areas due to their structural design and lighting conditions."</data>
+      <data key="d5">"lighting conditions, structural elements"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;DRAPERIES&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Draperies can be used to soften shadows and minimize the effects of critical lighting areas."</data>
+      <data key="d5">"shadow softening, light control"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;BLINDS&quot;" target="&quot;CRITICAL LIGHTING AREAS&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Blinds can be used to soften shadows and minimize the effects of critical lighting areas."</data>
+      <data key="d5">"shadow softening, light control"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;ATTIC SPACES&quot;" target="&quot;GYPSUM BOARD CEILINGS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Attic Spaces need proper ventilation to prevent moisture buildup above gypsum board ceilings."</data>
+      <data key="d5">"ventilation, moisture prevention"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;CEILING-SUPPORTED INSULATION&quot;" target="&quot;GYPSUM BOARD CEILINGS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Ceiling-Supported Insulation has specific weight recommendations to prevent sagging in gypsum board ceilings."</data>
+      <data key="d5">"weight recommendations, sag prevention"</data>
+      <data key="d6">chunk-cbd9a71bef706e2102958f07b1bff41b</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;GEORGIA-PACIFIC CANADA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Canada is a branch of Georgia-Pacific Gypsum, providing technical services and support in Canada."</data>
+      <data key="d5">"branch, technical support"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;ATLANTA, GA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum is headquartered in Atlanta, GA."</data>
+      <data key="d5">"headquarters, location"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;1-800-225-6119&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"1-800-225-6119 is the technical service hotline for Georgia-Pacific Gypsum."</data>
+      <data key="d5">"contact information, technical support"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;133 PEACHTREE STREET&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"133 Peachtree Street is the address of Georgia-Pacific Gypsum's headquarters in Atlanta, GA."</data>
+      <data key="d5">"address, headquarters"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK FIREGUARD X&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is manufactured by Georgia-Pacific Gypsum."</data>
+      <data key="d5">"manufacturing, product"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK FIREGUARD C&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board is manufactured by Georgia-Pacific Gypsum."</data>
+      <data key="d5">"manufacturing, product"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TECHNICAL SERVICE HOTLINE 1.800.225.6119&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum provides technical support and information through the Technical Service Hotline 1.800.225.6119."</data>
+      <data key="d5">"technical support, customer service"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;WWW.BUILDGP.COM/SAFETYINFO&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Safety information for Georgia-Pacific Gypsum products can be accessed online at www.buildgp.com/safetyinfo."</data>
+      <data key="d5">"safety information, online resource"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;WWW.GPGYPSUM.COM&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Product information and technical support for Georgia-Pacific Gypsum products are available on www.gpgypsum.com."</data>
+      <data key="d5">"product information, online resource"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK® FIREGUARD X™&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum provides information and recommendations regarding the application and properties of ToughRock® Fireguard X™ gypsum board."</data>
+      <data key="d5">"product information, recommendations"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM&quot;" target="&quot;TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum provides information and recommendations regarding the application and properties of ToughRock® Fireguard C® gypsum board."</data>
+      <data key="d5">"product information, recommendations"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC CANADA&quot;" target="&quot;MISSISSAUGA, ON&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Georgia-Pacific Canada is located in Mississauga, ON."</data>
+      <data key="d5">"location, office"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC CANADA&quot;" target="&quot;2180 MEADOWVALE BOULEVARD, SUITE 200&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"2180 Meadowvale Boulevard, Suite 200 is the address of Georgia-Pacific Canada's office in Mississauga, ON."</data>
+      <data key="d5">"address, office"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GREENGUARD CERTIFICATION&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is GREENGUARD Certified for low emissions of VOCs."</data>
+      <data key="d5">"certification, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;GREENGUARD CERTIFICATION&quot;" target="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard CR Gypsum Board is GREENGUARD Certified for low emissions of VOCs."</data>
+      <data key="d5">"certification, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;CHPS HIGH PERFORMANCE PRODUCT DATABASE&quot;" target="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is listed in the CHPS High Performance Product Database as a low emitting product."</data>
+      <data key="d5">"database listing, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;CHPS HIGH PERFORMANCE PRODUCT DATABASE&quot;" target="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard CR Gypsum Board is listed in the CHPS High Performance Product Database as a low emitting product."</data>
+      <data key="d5">"database listing, low emissions"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;CAN/ULC S114&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board meets the CAN/ULC S114 standard for noncombustibility."</data>
+      <data key="d5">"standard compliance, noncombustibility"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;CHPS® HIGH PERFORMANCE PRODUCT DATABASE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is listed in the CHPS® High Performance Product Database as a low-emitting product."</data>
+      <data key="d5">"product listing, low-emitting"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;ASTM C1396 SECTION 5&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board is manufactured to meet ASTM C1396 Section 5 standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;FEDERAL SS-L-30D, TYPE III, GRADE X AND SS-6-30D&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board conforms to Federal SS-L-30D, Type III, Grade X and SS-6-30D specifications."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;UL TYPE X&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 5/8\" (15.9 mm) ToughRock Fireguard X Gypsum Board is UL classified, Type X."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;IBC/IRC BUILDING CODES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board conforms to the requirements of uniform IBC/IRC building codes for its intended use."</data>
+      <data key="d5">"building code compliance, construction standards"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;CORNER BEADS AND TRIM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Corner beads and trim are used as supplemental materials with ToughRock Fireguard X Gypsum Board for finishing edges and corners."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;EXPANSION JOINTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Expansion joints are used as supplemental materials with ToughRock Fireguard X Gypsum Board to allow for movement and prevent cracking."</data>
+      <data key="d5">"supplemental materials, construction"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X GYPSUM BOARD&quot;" target="&quot;JOINT COMPOUND&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint compound is used as a supplemental material with ToughRock Fireguard X Gypsum Board to finish and smooth joints between boards."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD CR GYPSUM BOARD&quot;" target="&quot;CAN/ULC S114&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard CR Gypsum Board meets the CAN/ULC S114 standard for noncombustibility."</data>
+      <data key="d5">"standard compliance, noncombustibility"</data>
+      <data key="d6">chunk-e290636892e496316b57babf3b6dd866</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;CSA-A82.27-M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X is manufactured to meet CSA-A82.27-M standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;FEDERAL SS-L-30D&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X conforms to Federal SS-L-30D specifications."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;IBC/IRC BUILDING CODES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X conforms to the requirements of uniform IBC/IRC building codes for its intended use."</data>
+      <data key="d5">"building code compliance, construction standards"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;UNDERWRITERS LABORATORIES LLC (UL)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard X is classified for fire-rated assemblies by Underwriters Laboratories LLC (UL)."</data>
+      <data key="d5">"classification, fire resistance"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;INTERTEK TESTING SERVICES/WARNOCK HERSEY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board fire resistance details are listed in the Intertek Testing Services/Warnock Hersey Listings Directory."</data>
+      <data key="d5">"fire resistance, listing"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;UL FIRE RESISTANCE DIRECTORY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board fire resistance details are published in the UL Fire Resistance Directory."</data>
+      <data key="d5">"fire resistance, publication"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;GYPSUM ASSOCIATION PUBLICATION GA-216&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard X Gypsum Board may be applied according to the Gypsum Association Publication GA-216 for non-fire rated construction."</data>
+      <data key="d5">"application standards, non-fire rated construction"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;GYPSUM ASSOCIATION PUBLICATION GA-801&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Handling precautions for ToughRock Fireguard X Gypsum Board are outlined in Gypsum Association Publication GA-801."</data>
+      <data key="d5">"handling precautions, safety"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;FIRE RESISTANCE DESIGN MANUAL GA-600&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire resistance construction details for ToughRock Fireguard X Gypsum Board are published in the Fire Resistance Design Manual GA-600."</data>
+      <data key="d5">"fire resistance, construction details"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD X&quot;" target="&quot;MATERIAL SAFETY DATA SHEET (MSDS)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Safety information for ToughRock Fireguard X Gypsum Board is available in the Material Safety Data Sheet (MSDS)."</data>
+      <data key="d5">"safety information, handling precautions"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;CSA-A82.27-M&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C is manufactured to meet CSA-A82.27-M standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;FEDERAL SS-L-30D&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard C conforms to Federal SS-L-30D specifications."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;ULC&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 1/2\" (12.7 mm) ToughRock Fireguard C is ULC classified, Type C."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;IBC/IRC BUILDING CODES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C conforms to the requirements of uniform IBC/IRC building codes for its intended use."</data>
+      <data key="d5">"building code compliance, construction standards"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;UNDERWRITERS LABORATORIES LLC (UL)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard C is classified for fire-rated assemblies by Underwriters Laboratories LLC (UL)."</data>
+      <data key="d5">"classification, fire resistance"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;INTERTEK TESTING SERVICES/WARNOCK HERSEY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board fire resistance details are listed in the Intertek Testing Services/Warnock Hersey Listings Directory."</data>
+      <data key="d5">"fire resistance, listing"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;UL FIRE RESISTANCE DIRECTORY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board fire resistance details are published in the UL Fire Resistance Directory."</data>
+      <data key="d5">"fire resistance, publication"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;GYPSUM ASSOCIATION PUBLICATION GA-216&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board may be applied according to the Gypsum Association Publication GA-216 for non-fire rated construction."</data>
+      <data key="d5">"application standards, non-fire rated construction"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;GYPSUM ASSOCIATION PUBLICATION GA-801&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Handling precautions for ToughRock Fireguard C Gypsum Board are outlined in Gypsum Association Publication GA-801."</data>
+      <data key="d5">"handling precautions, safety"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;FIRE RESISTANCE DESIGN MANUAL GA-600&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Fire resistance construction details for ToughRock Fireguard C Gypsum Board are published in the Fire Resistance Design Manual GA-600."</data>
+      <data key="d5">"fire resistance, construction details"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C&quot;" target="&quot;MATERIAL SAFETY DATA SHEET (MSDS)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Safety information for ToughRock Fireguard C Gypsum Board is available in the Material Safety Data Sheet (MSDS)."</data>
+      <data key="d5">"safety information, handling precautions"</data>
+      <data key="d6">chunk-3dbd85ce45325cf808d0b16b5172b9be</data>
+    </edge>
+    <edge source="&quot;IBC/IRC BUILDING CODES&quot;" target="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board conforms to the requirements of uniform IBC/IRC building codes for its intended use."</data>
+      <data key="d5">"building code compliance, construction standards"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;CHPS® HIGH PERFORMANCE PRODUCT DATABASE&quot;" target="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board is listed in the CHPS® High Performance Product Database as a low-emitting product."</data>
+      <data key="d5">"product listing, low-emitting"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;ASTM C1396 SECTION 5&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board is manufactured to meet ASTM C1396 Section 5 standards."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;FEDERAL SS-L-30D, TYPE III, GRADE X AND SS-6-30D&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"ToughRock Fireguard C Gypsum Board conforms to Federal SS-L-30D, Type III, Grade X and SS-6-30D specifications."</data>
+      <data key="d5">"standards compliance, manufacturing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;UL TYPE TG-C&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 1/2\" (12.7 mm) ToughRock Fireguard C Gypsum Board is UL Type TG-C, and ULC classified, Type C."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;ULC TYPE C&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The 1/2\" (12.7 mm) ToughRock Fireguard C Gypsum Board is ULC classified, Type C."</data>
+      <data key="d5">"safety certification, classification"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;CORNER BEADS AND TRIM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Corner beads and trim are used as supplemental materials with ToughRock Fireguard C Gypsum Board for finishing edges and corners."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;EXPANSION JOINTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Expansion joints are used as supplemental materials with ToughRock Fireguard C Gypsum Board to allow for movement and prevent cracking."</data>
+      <data key="d5">"supplemental materials, construction"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK FIREGUARD C GYPSUM BOARD&quot;" target="&quot;JOINT COMPOUND&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint compound is used as a supplemental material with ToughRock Fireguard C Gypsum Board to finish and smooth joints between boards."</data>
+      <data key="d5">"supplemental materials, finishing"</data>
+      <data key="d6">chunk-c4b3be6db189c85917d28b1a99762df7</data>
+    </edge>
+    <edge source="&quot;JOINT COMPOUND&quot;" target="&quot;SEALER&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joint compound is applied to surfaces before the sealer to prepare the surface for wallpaper or other wall coverings."</data>
+      <data key="d5">"surface preparation, application sequence"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK® FIREGUARD X™&quot;" target="&quot;5/8\&quot; TOUGHROCK® FIREGUARD X™&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"5/8\" ToughRock® Fireguard X™ is a specific type of ToughRock® Fireguard X™ gypsum board with detailed physical properties."</data>
+      <data key="d5">"product specification, detailed properties"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK® FIREGUARD C®&quot;" target="&quot;5/8\&quot; TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"5/8\" ToughRock® Fireguard C® is a specific type of ToughRock® Fireguard C® gypsum board with detailed physical properties."</data>
+      <data key="d5">"product specification, detailed properties"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;TOUGHROCK® FIREGUARD C®&quot;" target="&quot;1/2\&quot; TOUGHROCK® FIREGUARD C®&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"1/2\" ToughRock® Fireguard C® is a specific type of ToughRock® Fireguard C® gypsum board with detailed physical properties."</data>
+      <data key="d5">"product specification, detailed properties"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;SEALER&quot;" target="&quot;PRIMER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"A sealer is applied before the primer to protect the board surface during redecorating."</data>
+      <data key="d5">"surface protection, application sequence"</data>
+      <data key="d6">chunk-5177f40160ba93c1221e4bd9780d6f42</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;GEORGIA-PACIFIC GYPSUM II LLC&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum II LLC is a related entity or subsidiary of Georgia-Pacific Gypsum LLC, involved in similar activities."</data>
+      <data key="d5">"corporate structure, related entities"</data>
+      <data key="d6">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;GEORGIA-PACIFIC CANADA LP&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Canada LP is the Canadian branch of Georgia-Pacific Gypsum LLC, involved in the production and sale of gypsum products."</data>
+      <data key="d5">"corporate structure, international operations"</data>
+      <data key="d6">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;COLLABORATIVE FOR HIGH PERFORMANCE SCHOOLS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC uses the CHPS trademark owned by Collaborative for High Performance Schools, indicating a partnership or licensing agreement."</data>
+      <data key="d5">"partnership, licensing"</data>
+      <data key="d6">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;U.S.A.&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC operates in the U.S.A., providing sales and technical support for their products."</data>
+      <data key="d5">"operations, support"</data>
+      <data key="d6">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;FIRE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC provides guidelines and products related to fire safety."</data>
+      <data key="d5">"fire safety, guidelines"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;SAFETY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC emphasizes the importance of safety in the event of a fire."</data>
+      <data key="d5">"safety, priority"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;GYPSUM&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC specializes in products made from gypsum, particularly for fire safety."</data>
+      <data key="d5">"material, specialization"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;PRODUCT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC offers various products related to fire safety."</data>
+      <data key="d5">"product offering, fire safety"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;ASSEMBLY/SYSTEM&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Georgia-Pacific Gypsum LLC provides assemblies/systems that include their fire safety products."</data>
+      <data key="d5">"product integration, fire safety"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;2014&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The document or product information is relevant to the year 2014."</data>
+      <data key="d5">"time reference, relevance"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;1/14&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The specific date January 2014 is mentioned in the context of the document or product."</data>
+      <data key="d5">"specific date, relevance"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC GYPSUM LLC&quot;" target="&quot;GP-TM LIT. ITEM #101866&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"GP-TM Lit. Item #101866 is a specific product or literature item provided by Georgia-Pacific Gypsum LLC."</data>
+      <data key="d5">"specific product, literature"</data>
+      <data key="d6">chunk-f09ddbbc63e2afd55ac782f984c7c5ee</data>
+    </edge>
+    <edge source="&quot;GEORGIA-PACIFIC CANADA LP&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Georgia-Pacific Canada LP operates in Canada, providing sales and technical support for their products."</data>
+      <data key="d5">"operations, support"</data>
+      <data key="d6">chunk-75407b7436c30785a5f5da81dba97834</data>
+    </edge>
+  </graph>
+</graphml>
